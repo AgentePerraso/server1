@@ -2673,3 +2673,48 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [14Jun2025 10:32:50.274] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:mars changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.040260830000000004)
 [14Jun2025 10:32:50.274] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:venus changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.07109567)
 [14Jun2025 10:33:03.448] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.8111686706543) to VERY_LOW (avg. 2.8954389095306396)
+[14Jun2025 11:12:35.218] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ansoooooo is e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3
+[14Jun2025 11:12:37.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ansoooooo[/127.53.158.23:51777] logged in with entity id 1218 at (-69.5, 64.0, 204.5)
+[14Jun2025 11:12:37.692] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ansoooooo
+[14Jun2025 11:12:37.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo joined the game
+[14Jun2025 11:12:37.885] [Server thread/WARN] [solapplepie/]: Invalid attribute specified in config: generic.speed
+[14Jun2025 11:12:37.955] [Server thread/INFO] [Cobbledex/]: Added 0 entries in Ansoooooo's Cobbledex
+[14Jun2025 11:12:40.948] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 2.3454716205596924) to LOW (avg. 33.301368713378906)
+[14Jun2025 11:12:48.448] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.301368713378906) to VERY_LOW (avg. 16.411136627197266)
+[14Jun2025 11:13:42.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Alex's Mobs]
+[14Jun2025 11:14:02.512] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player barbaro324 is d2fd0016-a757-4b59-8507-69637450002d
+[14Jun2025 11:14:04.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: barbaro324[/127.153.255.77:58065] logged in with entity id 1634 at (-86.5, 64.0, 211.5)
+[14Jun2025 11:14:04.813] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player barbaro324
+[14Jun2025 11:14:04.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: barbaro324 joined the game
+[14Jun2025 11:14:04.898] [Server thread/INFO] [Cobbledex/]: Added 0 entries in barbaro324's Cobbledex
+[14Jun2025 11:14:26.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [The World of Cobblemon!]
+[14Jun2025 11:14:47.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: barbaro324 was slain by Chicken
+[14Jun2025 11:14:47.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: barbaro324 has made the advancement [Your First Grave]
+[14Jun2025 11:14:47.893] [Server thread/INFO] [tombstone/]: The player barbaro324 has successfully been saved
+[14Jun2025 11:15:28.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: barbaro324 has reached the goal [Feeling Watched]
+[14Jun2025 11:15:44.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: barbaro324 has reached the goal [Here They Come]
+[14Jun2025 11:15:57.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Man From The Fog
+[14Jun2025 11:15:57.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Your First Grave]
+[14Jun2025 11:15:57.322] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[14Jun2025 11:16:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [Here They Come]
+[14Jun2025 11:16:37.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: barbaro324 has made the advancement [The World of Cobblemon!]
+[14Jun2025 11:17:17.667] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.632 ms. 4017/4061 recipes are parallelized.
+[14Jun2025 11:17:42.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: barbaro324 has made the advancement [Monster Hunter]
+[14Jun2025 11:18:02.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: barbaro324 was shot by Skeleton
+[14Jun2025 11:18:02.316] [Server thread/INFO] [tombstone/]: The player barbaro324 has successfully been saved
+[14Jun2025 11:18:33.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Fletchling
+[14Jun2025 11:18:33.666] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[14Jun2025 11:19:06.566] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 781b82b5-454c-4f8c-ba06-c516ad0fe052
+[14Jun2025 11:19:06.566] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 781b82b5-454c-4f8c-ba06-c516ad0fe052
+[14Jun2025 11:20:04.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Mother Nature's Bounty]
+[14Jun2025 11:20:04.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Is it a Fruit or is it a Nut?]
+[14Jun2025 11:20:05.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Doing my Part]
+[14Jun2025 11:20:42.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Sheep
+[14Jun2025 11:20:42.926] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[14Jun2025 11:20:42.958] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[14Jun2025 11:20:42.959] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[14Jun2025 11:20:42.959] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[14Jun2025 11:20:42.960] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[14Jun2025 11:20:42.960] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 7
+[14Jun2025 11:21:26.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: barbaro324 has made the advancement [Stone Age]
+[14Jun2025 11:21:44.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: barbaro324 has made the advancement [Getting an Upgrade]

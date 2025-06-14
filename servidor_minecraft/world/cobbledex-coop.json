@@ -1,3 +1,20 @@
 {
-  "registers": {}
+  "registers": {
+    "bulbasaur": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749899666721,
+        "caughtTimestamp": 1749899666721
+      }
+    },
+    "totodile": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749899797511,
+        "caughtTimestamp": 1749899797511
+      }
+    }
+  }
 }
