@@ -1647,3 +1647,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [15Jun2025 13:51:20.790] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [15Jun2025 13:51:35.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Teleported AgentePerrote to -1027.500000, 98.000000, 57.500000]
 [15Jun2025 13:52:40.669] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 200.7 μs. 264/264 recipes are parallelized.
+[15Jun2025 14:03:22.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Mudbray
+[15Jun2025 14:03:22.736] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 14:03:35.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Minty Fresh]

@@ -181,6 +181,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749993759682
       }
+    },
+    "combee": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749995638934
+      }
     }
   }
 }

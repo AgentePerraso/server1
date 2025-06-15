@@ -142,6 +142,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749993759681
           }
+        },
+        "combee": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749995638933
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -155,9 +162,9 @@
     "totalCaptureCount": 4,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 28,
+    "totalBattleVictoryCount": 30,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 28,
+    "totalPvWBattleVictoryCount": 30,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -182,7 +189,8 @@
       "cobblemon:dubwool": 1,
       "cobblemon:tauros": 1,
       "cobblemon:furret": 1,
-      "cobblemon:combee": 1
+      "cobblemon:combee": 2,
+      "cobblemon:bouffalant": 1
     },
     "aspectsCollected": {}
   }
