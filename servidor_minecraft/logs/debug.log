@@ -10032,3 +10032,863 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [15Jun2025 09:51:16.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was shot by Pillager
 [15Jun2025 09:51:16.161] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ansoooooo was created at position [x:7, y:112, z:160, dim:minecraft:overworld]
 [15Jun2025 09:51:16.167] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[15Jun2025 09:51:25.293] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Jun2025 09:51:25.294] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:51:25.294] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Jun2025 09:51:25.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.683488845825195) to VERY_LOW (avg. 11.7362699508667)
+[15Jun2025 09:51:55.343] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Jun2025 09:51:55.343] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:51:55.344] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Jun2025 09:51:58.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [Here They Come]
+[15Jun2025 09:52:00.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Knowledge of Death]
+[15Jun2025 09:52:00.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Ambush]
+[15Jun2025 09:52:10.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.168325424194336) to LOW (avg. 25.450740814208984)
+[15Jun2025 09:52:12.125] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=77, y=62, z=-243} at Chest with:minecraft:chests/simple_dungeon
+[15Jun2025 09:52:19.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Bison
+[15Jun2025 09:52:19.303] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ansoooooo was created at position [x:-21, y:114, z:147, dim:minecraft:overworld]
+[15Jun2025 09:52:19.321] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[15Jun2025 09:52:25.393] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Jun2025 09:52:25.393] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:52:25.394] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Jun2025 09:52:26.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Heatmor
+[15Jun2025 09:52:26.254] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:15, y:145, z:-80, dim:minecraft:overworld]
+[15Jun2025 09:52:26.261] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:52:33.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.618608474731445) to VERY_LOW (avg. 12.773947715759277)
+[15Jun2025 09:52:51.445] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[15Jun2025 09:52:51.458] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/skeleton_armored_0 is being run through DFU (hash 0b114af481df7368765dfcb485fd7685ad7c029bd69ef06a87e635e2b056efcd), this will cause launch time delays
+[15Jun2025 09:52:51.593] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/skeleton_armored_1 is being run through DFU (hash 496ef0a3e5b47f98675b8246248b31e2cbd0e71657b6cdad6f6576e693b9ec35), this will cause launch time delays
+[15Jun2025 09:52:51.602] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/illusioner_normal_0 is being run through DFU (hash 6f23502f1c946861055d5d38e3de8e783681f1bc18b8a4d6bac34080fd1ef525), this will cause launch time delays
+[15Jun2025 09:52:51.607] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_road_entrance is being run through DFU (hash 05f8cd9492c5bbdbec92626c83fcaea8444e57e04ec5360ee8bfeda3ee24e5a7), this will cause launch time delays
+[15Jun2025 09:52:51.624] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_road_0 is being run through DFU (hash cd59cca472ec362a97b1a1854dfa82099f282d0fb9a21cc66cf573803f206ab1), this will cause launch time delays
+[15Jun2025 09:52:51.664] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_road_1 is being run through DFU (hash fc7cf9b3399e33f8a4f8c473d3039ecaef66e6d1ab6c26b8b95945c01d37f77f), this will cause launch time delays
+[15Jun2025 09:52:51.671] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_deco_2 is being run through DFU (hash 4877d9540f462f4e764118c96ee010c1a1c0fc09840836544a613d3288536b5b), this will cause launch time delays
+[15Jun2025 09:52:51.692] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_deco_0 is being run through DFU (hash 3150906baca61326478732513f3d5915ca880b0f6ae445407fb1dbc4e8afcbe7), this will cause launch time delays
+[15Jun2025 09:52:51.695] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_deco_1 is being run through DFU (hash 061faa8196076029c0f030bfdfb16e8f5271981a55c1aeca93cd5f4df5e8603c), this will cause launch time delays
+[15Jun2025 09:52:55.443] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Jun2025 09:52:55.443] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:52:55.444] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Jun2025 09:53:03.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.82227325439453) to LOW (avg. 21.089473724365234)
+[15Jun2025 09:53:08.678] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-110, y=-43, z=-319} at Chest with:minecraft:chests/simple_dungeon
+[15Jun2025 09:53:22.435] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_13
+[15Jun2025 09:53:25.609] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Jun2025 09:53:25.610] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:53:25.612] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Jun2025 09:53:26.118] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 09:53:26.422] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3416, l='ServerLevel[world]', x=-103.64, y=76.58, z=219.56, removed=DISCARDED]
+[15Jun2025 09:53:26.591] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-5, y=36, z=-393} at Chest with:betterdungeons:zombie_dungeon/chests/common
+[15Jun2025 09:53:27.266] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2760, l='ServerLevel[world]', x=-138.35, y=-3.70, z=199.54, removed=DISCARDED]
+[15Jun2025 09:53:27.312] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2762, l='ServerLevel[world]', x=-137.69, y=-3.54, z=200.64, removed=DISCARDED]
+[15Jun2025 09:53:27.565] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2761, l='ServerLevel[world]', x=-139.55, y=-3.62, z=200.31, removed=DISCARDED]
+[15Jun2025 09:53:30.840] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 09:53:30.864] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 09:53:30.965] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 09:53:31.126] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 09:53:31.223] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2721, l='ServerLevel[world]', x=-173.72, y=-27.74, z=192.43, removed=DISCARDED]
+[15Jun2025 09:53:31.277] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 09:53:31.277] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2728, l='ServerLevel[world]', x=-171.74, y=-29.49, z=196.26, removed=DISCARDED]
+[15Jun2025 09:53:31.314] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2738, l='ServerLevel[world]', x=-169.63, y=-31.75, z=199.41, removed=DISCARDED]
+[15Jun2025 09:53:31.412] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2724, l='ServerLevel[world]', x=-174.29, y=-28.48, z=193.50, removed=DISCARDED]
+[15Jun2025 09:53:31.413] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2744, l='ServerLevel[world]', x=-169.66, y=-31.56, z=200.34, removed=DISCARDED]
+[15Jun2025 09:53:31.466] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2736, l='ServerLevel[world]', x=-171.42, y=-31.43, z=198.34, removed=DISCARDED]
+[15Jun2025 09:53:31.516] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2735, l='ServerLevel[world]', x=-172.32, y=-31.84, z=198.40, removed=DISCARDED]
+[15Jun2025 09:53:31.516] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2743, l='ServerLevel[world]', x=-170.69, y=-31.81, z=200.25, removed=DISCARDED]
+[15Jun2025 09:53:31.566] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2709, l='ServerLevel[world]', x=-170.49, y=-32.84, z=201.29, removed=DISCARDED]
+[15Jun2025 09:53:31.567] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2730, l='ServerLevel[world]', x=-173.72, y=-29.41, z=196.45, removed=DISCARDED]
+[15Jun2025 09:53:31.614] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2733, l='ServerLevel[world]', x=-173.74, y=-30.59, z=197.45, removed=DISCARDED]
+[15Jun2025 09:53:31.663] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2740, l='ServerLevel[world]', x=-173.40, y=-31.81, z=198.27, removed=DISCARDED]
+[15Jun2025 09:53:31.720] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2711, l='ServerLevel[world]', x=-171.36, y=-32.80, z=201.42, removed=DISCARDED]
+[15Jun2025 09:53:31.849] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2750, l='ServerLevel[world]', x=-176.56, y=-29.69, z=194.50, removed=DISCARDED]
+[15Jun2025 09:53:31.849] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2732, l='ServerLevel[world]', x=-174.49, y=-30.56, z=197.67, removed=DISCARDED]
+[15Jun2025 09:53:31.850] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2739, l='ServerLevel[world]', x=-174.39, y=-31.58, z=198.33, removed=DISCARDED]
+[15Jun2025 09:53:31.850] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2747, l='ServerLevel[world]', x=-173.36, y=-31.74, z=199.67, removed=DISCARDED]
+[15Jun2025 09:53:31.850] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2731, l='ServerLevel[world]', x=-175.65, y=-29.45, z=196.47, removed=DISCARDED]
+[15Jun2025 09:53:31.850] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2710, l='ServerLevel[world]', x=-172.45, y=-32.68, z=201.54, removed=DISCARDED]
+[15Jun2025 09:53:31.897] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2734, l='ServerLevel[world]', x=-175.75, y=-30.43, z=197.64, removed=DISCARDED]
+[15Jun2025 09:53:32.018] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2714, l='ServerLevel[world]', x=-173.74, y=-32.60, z=201.29, removed=DISCARDED]
+[15Jun2025 09:53:32.018] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2746, l='ServerLevel[world]', x=-175.52, y=-31.39, z=198.54, removed=DISCARDED]
+[15Jun2025 09:53:32.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3565, l='ServerLevel[world]', x=-176.28, y=-31.46, z=198.42, removed=DISCARDED]
+[15Jun2025 09:53:32.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2712, l='ServerLevel[world]', x=-174.32, y=-32.56, z=201.26, removed=DISCARDED]
+[15Jun2025 09:53:32.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2748, l='ServerLevel[world]', x=-176.31, y=-32.83, z=199.43, removed=DISCARDED]
+[15Jun2025 09:53:32.214] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2749, l='ServerLevel[world]', x=-176.29, y=-32.74, z=200.27, removed=DISCARDED]
+[15Jun2025 09:53:32.336] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3559, l='ServerLevel[world]', x=-177.58, y=-32.87, z=199.68, removed=DISCARDED]
+[15Jun2025 09:53:32.367] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3560, l='ServerLevel[world]', x=-177.54, y=-32.55, z=200.29, removed=DISCARDED]
+[15Jun2025 09:53:32.367] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3563, l='ServerLevel[world]', x=-176.64, y=-32.54, z=201.66, removed=DISCARDED]
+[15Jun2025 09:53:32.535] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3564, l='ServerLevel[world]', x=-177.73, y=-32.49, z=201.46, removed=DISCARDED]
+[15Jun2025 09:53:32.618] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3562, l='ServerLevel[world]', x=-179.39, y=-32.74, z=200.39, removed=DISCARDED]
+[15Jun2025 09:53:36.366] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5062, l='ServerLevel[world]', x=-219.13, y=-54.00, z=140.66, removed=DISCARDED]
+[15Jun2025 09:53:43.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Creeper
+[15Jun2025 09:53:43.809] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-62, y:97, z:-224, dim:minecraft:overworld]
+[15Jun2025 09:53:43.825] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:53:48.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.58622932434082) to VERY_LOW (avg. 15.791874885559082)
+[15Jun2025 09:53:55.543] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Jun2025 09:53:55.543] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:53:55.544] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Jun2025 09:54:02.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Stone Age]
+[15Jun2025 09:54:10.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.7699031829834) to LOW (avg. 21.103458404541016)
+[15Jun2025 09:54:24.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 09:54:24.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 09:54:25.593] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Jun2025 09:54:25.594] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:54:25.595] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Jun2025 09:54:46.392] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower
+[15Jun2025 09:54:47.072] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6016, l='ServerLevel[world]', x=-151.54, y=41.22, z=-326.44, removed=DISCARDED]
+[15Jun2025 09:54:50.693] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=-270, y=34, z=-272} at Chest with:minecraft:chests/simple_dungeon
+[15Jun2025 09:54:52.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Getting an Upgrade]
+[15Jun2025 09:54:55.643] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Jun2025 09:54:55.644] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:54:55.644] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Jun2025 09:55:00.814] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[15Jun2025 09:55:00.841] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[15Jun2025 09:55:15.013] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[15Jun2025 09:55:17.580] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=-420, y=-19, z=-263} at Chest with:minecraft:chests/simple_dungeon
+[15Jun2025 09:55:25.693] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Jun2025 09:55:25.694] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:55:25.694] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Jun2025 09:55:32.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement ['X' Marks the Spot]
+[15Jun2025 09:55:39.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Diamonds!]
+[15Jun2025 09:55:53.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Disconnected
+[15Jun2025 09:55:53.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
+[15Jun2025 09:55:55.743] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Jun2025 09:55:55.744] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:55:55.744] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Jun2025 09:55:55.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.15620994567871) to VERY_LOW (avg. 13.489518165588379)
+[15Jun2025 09:56:05.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Mankey
+[15Jun2025 09:56:05.808] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-281, y:76, z:-212, dim:minecraft:overworld]
+[15Jun2025 09:56:05.821] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:56:15.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [Here They Come]
+[15Jun2025 09:56:25.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 41 messages to dispatch.
+[15Jun2025 09:56:25.597] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ansoooooo is e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3
+[15Jun2025 09:56:25.607] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[15Jun2025 09:56:25.655] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig backpacked:server' to 'framework:handshake' sequence 1
+[15Jun2025 09:56:25.687] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[15Jun2025 09:56:25.687] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[15Jun2025 09:56:25.687] [Netty Epoll Server IO #3/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:25.707] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 2
+[15Jun2025 09:56:25.740] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 1
+[15Jun2025 09:56:25.740] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[15Jun2025 09:56:25.740] [Netty Epoll Server IO #3/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:25.762] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 3
+[15Jun2025 09:56:25.793] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Jun2025 09:56:25.793] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:56:25.794] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Jun2025 09:56:25.809] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 4
+[15Jun2025 09:56:25.857] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 5
+[15Jun2025 09:56:25.904] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[15Jun2025 09:56:25.955] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [cyclopscore, dynamiclightsreforged, treechop, adaptive_performance_tweaks_core, kuma_api, betterdungeons, easyanvils, playeranimator, botarium, betteroceanmonuments, hammerlib, incendium, gpumemleakfix, insanelib, structureessentials, prism, placebo, citadel, alexsmobs, modernfix, zombieawareness, yungsapi, mixinextras, void_lib, cobweb, itemzoom, uteamcore, fastconfigapi, takesapillage, zetter, balm, dynview, jeresources, exposure, dragonfight, betterfortresses, cloth_config, sound_physics_remastered, embeddium, rubidium, diagonalblocks, solapplepie, entity_model_features, tenshilib, entity_texture_features, ambientsounds, cobblemonintegrations, gml, simpletms, loot_journal, resourcefulconfig, lionfishapi, spark, cataclysm, curios, patchouli, oculus, iris, megamons, commongroovylibrary, cerbons_api, cobblemon, cobbledex, mr_dungeons_andtaverns, bettervillage, elevatorid, betterstrongholds, tombstone, fightorflight, resourcefullib, inventoryprofilesnext, architectury, nerb, aiimprovements, cupboard, refurbished_furniture, itemphysic, betterendisland, dynamic_fps, enhancedai, rubidium_extra, framework, adaptive_performance_tweaks_items, bettermineshafts, betterjungletemples, mowziesmobs, geckolib, themimic_er, fastload, mca, octolib, easymagic, jei, lithostitched, visualworkbench, attributefix, libraryferret, caelus, waystones, fastsuite, clumps, configured, dungeoncrawl, spawn_notification, farsight_view, terralith, blueprint, vanillacookbook, goat_man, puzzlesaccessapi, skinlayers3d, rubidium_extras, forge, dungeons_arise, minecraft, the_deep_void, man, smoothchunk, alexscaves, libipn, moonlight, terrablender, biomesoplenty, mousetweaks, bettercombat, regions_unexplored, shouldersurfing, culllessleaves, creativecore, unusualprehistory, ohthetreesyoullgrow, corgilib, recipes_lib, betterfpsdist, kotlinforforge, capture_xp, brutalbosses, xaerominimap, fastbench, legendary_monsters, irons_spellbooks, immersive_paintings, diagonalfences, cobblepedia, entityculling, backpacked, betterchunkloading, canary, coroutil, immediatelyfast, fastfurnace, appleskin, ferritecore, lootr, cobblemonrider, puzzleslib, immersive_melodies, textrues_embeddium_options, reeses_sodium_options, horde_hoard, improvedmobs, cosmeticarmorreworked, wan_ancient_beasts, explosiveenhancement, chunksending, ad_astra]
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobbledex:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'insanelib:network_channel' : Version test of '2' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'legendary_monsters:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_im:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explosiveenhancement:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'solapplepie:main' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Version test of '7' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fastbench:channel' : Version test of '4.6.0' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_deep_void:the_deep_void' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'themimic_er:main' : Version test of '2' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'itemphysic:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hammerlib:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tenshilib:packets' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ip:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of '2' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:ingredient_sync' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.972] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobblemonintegrations:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blueprint:net' : Version test of 'BP1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'goat_man:main' : Version test of '2' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'improvedmobs:packets' : Version test of 'v1.0' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wan_ancient_beasts:main' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobblemonrider:network' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ad_astra:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network_forge' : Version test of '1.20.1-1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cyclopscore:channel_main' : Version test of '1.0.0' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'exposure:packets' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.9.6' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'brutalbosses:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network' : Version test of '1.20.1-1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easyanvils:1' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'man:man' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zetter:zetter_channel' : Version test of '0.3' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'elevatorid:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobblemon:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horde_hoard:horde_hoard' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'backpacked:play' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simpletms:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'unusualprehistory:messages' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[15Jun2025 09:56:25.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[15Jun2025 09:56:25.974] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:25.974] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:25.974] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[15Jun2025 09:56:25.974] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:25.974] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:25.974] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[15Jun2025 09:56:25.974] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:25.974] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.016] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[15Jun2025 09:56:26.057] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[15Jun2025 09:56:26.106] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 10
+[15Jun2025 09:56:26.159] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 11
+[15Jun2025 09:56:26.205] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry hammerlib:level_actions' to 'fml:handshake' sequence 12
+[15Jun2025 09:56:26.258] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[15Jun2025 09:56:26.307] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 14
+[15Jun2025 09:56:26.355] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 15
+[15Jun2025 09:56:26.409] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[15Jun2025 09:56:26.409] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.409] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.409] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 16
+[15Jun2025 09:56:26.409] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[15Jun2025 09:56:26.409] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.409] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.409] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.410] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.458] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 17
+[15Jun2025 09:56:26.506] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[15Jun2025 09:56:26.506] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.506] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.508] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 18
+[15Jun2025 09:56:26.567] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry zetter:canvas_type' to 'fml:handshake' sequence 19
+[15Jun2025 09:56:26.609] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 20
+[15Jun2025 09:56:26.654] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[15Jun2025 09:56:26.654] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.654] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.658] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 21
+[15Jun2025 09:56:26.658] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[15Jun2025 09:56:26.659] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.659] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.659] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[15Jun2025 09:56:26.659] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.659] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.701] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[15Jun2025 09:56:26.701] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.701] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.705] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 22
+[15Jun2025 09:56:26.744] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[15Jun2025 09:56:26.745] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:26.745] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:26.754] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 23
+[15Jun2025 09:56:26.807] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 24
+[15Jun2025 09:56:26.854] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 25
+[15Jun2025 09:56:26.912] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry hammerlib:obj_sources' to 'fml:handshake' sequence 26
+[15Jun2025 09:56:26.954] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 27
+[15Jun2025 09:56:27.009] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 28
+[15Jun2025 09:56:27.054] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 29
+[15Jun2025 09:56:27.111] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config solapplepie-server.toml' to 'fml:handshake' sequence 30
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.116] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.156] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config themimic_er-server.toml' to 'fml:handshake' sequence 31
+[15Jun2025 09:56:27.156] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[15Jun2025 09:56:27.157] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.157] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.223] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 32
+[15Jun2025 09:56:27.255] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 33
+[15Jun2025 09:56:27.309] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config elevatorid-server.toml' to 'fml:handshake' sequence 34
+[15Jun2025 09:56:27.320] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[15Jun2025 09:56:27.320] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.320] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.354] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config zetter-server.toml' to 'fml:handshake' sequence 35
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.354] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.395] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[15Jun2025 09:56:27.395] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.395] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.410] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config wan_ancient_beasts-server.toml' to 'fml:handshake' sequence 36
+[15Jun2025 09:56:27.418] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[15Jun2025 09:56:27.418] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.418] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.455] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easyanvils-server.toml' to 'fml:handshake' sequence 37
+[15Jun2025 09:56:27.463] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[15Jun2025 09:56:27.463] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.463] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.510] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[15Jun2025 09:56:27.510] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.510] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.514] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easymagic-server.toml' to 'fml:handshake' sequence 38
+[15Jun2025 09:56:27.554] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 39
+[15Jun2025 09:56:27.563] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[15Jun2025 09:56:27.563] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.563] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.612] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[15Jun2025 09:56:27.612] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.612] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.615] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config goat_man-server.toml' to 'fml:handshake' sequence 40
+[15Jun2025 09:56:27.708] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[15Jun2025 09:56:27.708] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:56:27.708] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:56:27.714] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[15Jun2025 09:56:27.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ansoooooo[/127.53.158.23:32897] logged in with entity id 7031 at (-135.2782387071112, 97.0, 119.50555427382427)
+[15Jun2025 09:56:27.795] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@374932ca into net.minecraft.network.Connection@7e5a80b0
+[15Jun2025 09:56:27.795] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 563 classes
+[15Jun2025 09:56:27.865] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ansoooooo
+[15Jun2025 09:56:27.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo joined the game
+[15Jun2025 09:56:28.090] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2709, l='ServerLevel[world]', x=-170.49, y=-32.84, z=201.29, removed=DISCARDED]
+[15Jun2025 09:56:28.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2710, l='ServerLevel[world]', x=-172.45, y=-32.68, z=201.54, removed=DISCARDED]
+[15Jun2025 09:56:28.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2711, l='ServerLevel[world]', x=-171.36, y=-32.80, z=201.42, removed=DISCARDED]
+[15Jun2025 09:56:28.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2712, l='ServerLevel[world]', x=-174.32, y=-32.56, z=201.26, removed=DISCARDED]
+[15Jun2025 09:56:28.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2714, l='ServerLevel[world]', x=-173.74, y=-32.60, z=201.29, removed=DISCARDED]
+[15Jun2025 09:56:28.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 09:56:28.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 09:56:28.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2721, l='ServerLevel[world]', x=-173.72, y=-27.74, z=192.43, removed=DISCARDED]
+[15Jun2025 09:56:28.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 09:56:28.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 09:56:28.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2724, l='ServerLevel[world]', x=-174.29, y=-28.48, z=193.50, removed=DISCARDED]
+[15Jun2025 09:56:28.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2728, l='ServerLevel[world]', x=-171.74, y=-29.49, z=196.26, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2730, l='ServerLevel[world]', x=-173.72, y=-29.41, z=196.45, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2731, l='ServerLevel[world]', x=-175.65, y=-29.45, z=196.47, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2732, l='ServerLevel[world]', x=-174.49, y=-30.56, z=197.67, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2733, l='ServerLevel[world]', x=-173.74, y=-30.59, z=197.45, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2734, l='ServerLevel[world]', x=-175.75, y=-30.43, z=197.64, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2735, l='ServerLevel[world]', x=-172.32, y=-31.84, z=198.40, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2736, l='ServerLevel[world]', x=-171.42, y=-31.43, z=198.34, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2738, l='ServerLevel[world]', x=-169.63, y=-31.75, z=199.41, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2739, l='ServerLevel[world]', x=-174.39, y=-31.58, z=198.33, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2740, l='ServerLevel[world]', x=-173.40, y=-31.81, z=198.27, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2743, l='ServerLevel[world]', x=-170.69, y=-31.81, z=200.25, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2744, l='ServerLevel[world]', x=-169.66, y=-31.56, z=200.34, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2746, l='ServerLevel[world]', x=-175.52, y=-31.39, z=198.54, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2747, l='ServerLevel[world]', x=-173.36, y=-31.74, z=199.67, removed=DISCARDED]
+[15Jun2025 09:56:28.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2748, l='ServerLevel[world]', x=-176.31, y=-32.83, z=199.43, removed=DISCARDED]
+[15Jun2025 09:56:28.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2749, l='ServerLevel[world]', x=-176.29, y=-32.74, z=200.27, removed=DISCARDED]
+[15Jun2025 09:56:28.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3559, l='ServerLevel[world]', x=-177.58, y=-32.87, z=199.68, removed=DISCARDED]
+[15Jun2025 09:56:28.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3560, l='ServerLevel[world]', x=-177.54, y=-32.55, z=200.29, removed=DISCARDED]
+[15Jun2025 09:56:28.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3562, l='ServerLevel[world]', x=-179.39, y=-32.74, z=200.39, removed=DISCARDED]
+[15Jun2025 09:56:28.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3563, l='ServerLevel[world]', x=-176.64, y=-32.54, z=201.66, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3564, l='ServerLevel[world]', x=-177.73, y=-32.49, z=201.46, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2750, l='ServerLevel[world]', x=-176.56, y=-29.69, z=194.50, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3565, l='ServerLevel[world]', x=-176.28, y=-31.46, z=198.42, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2760, l='ServerLevel[world]', x=-138.35, y=-3.70, z=199.54, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2761, l='ServerLevel[world]', x=-139.55, y=-3.62, z=200.31, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2762, l='ServerLevel[world]', x=-137.69, y=-3.54, z=200.64, removed=DISCARDED]
+[15Jun2025 09:56:28.099] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5062, l='ServerLevel[world]', x=-219.13, y=-54.00, z=140.66, removed=DISCARDED]
+[15Jun2025 09:56:33.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.595833778381348) to LOW (avg. 22.76105308532715)
+[15Jun2025 09:56:54.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Monster Hunter]
+[15Jun2025 09:56:54.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Knowledge of Death]
+[15Jun2025 09:56:54.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [A Strange Grave Dust]
+[15Jun2025 09:56:54.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [Chain Death]
+[15Jun2025 09:56:54.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Angry Creeper
+[15Jun2025 09:56:54.610] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-282, y:72, z:-214, dim:minecraft:overworld]
+[15Jun2025 09:56:54.676] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:56:55.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.66575813293457) to VERY_LOW (avg. 17.04360580444336)
+[15Jun2025 09:56:55.844] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Jun2025 09:56:55.844] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:56:55.845] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Jun2025 09:57:10.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.04360580444336) to LOW (avg. 22.60714340209961)
+[15Jun2025 09:57:24.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Drowned
+[15Jun2025 09:57:24.765] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-292, y:63, z:-204, dim:minecraft:overworld]
+[15Jun2025 09:57:24.775] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:57:25.893] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Jun2025 09:57:25.894] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:57:25.894] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Jun2025 09:57:27.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Sweet Dreams]
+[15Jun2025 09:57:30.825] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 258.3 μs. 264/264 recipes are parallelized.
+[15Jun2025 09:57:31.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Disconnected
+[15Jun2025 09:57:31.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
+[15Jun2025 09:57:33.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.594655990600586) to VERY_LOW (avg. 16.107345581054688)
+[15Jun2025 09:57:35.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 41 messages to dispatch.
+[15Jun2025 09:57:47.019] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fac5764[id=<null>,name=Ansoooooo,properties={},legacy=false] (/127.53.158.23:59757) lost connection: Disconnected
+[15Jun2025 09:57:48.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.107345581054688) to LOW (avg. 22.323068618774414)
+[15Jun2025 09:57:48.880] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 41 messages to dispatch.
+[15Jun2025 09:57:55.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.323068618774414) to VERY_LOW (avg. 17.321969985961914)
+[15Jun2025 09:57:55.943] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Jun2025 09:57:55.944] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:57:56.002] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Jun2025 09:58:02.759] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2fc0efca[id=<null>,name=Ansoooooo,properties={},legacy=false] (/127.53.158.23:39211) lost connection: Disconnected
+[15Jun2025 09:58:06.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was doomed to fall by Wingull
+[15Jun2025 09:58:06.821] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-368, y:70, z:-181, dim:minecraft:overworld]
+[15Jun2025 09:58:06.822] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:58:07.796] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 41 messages to dispatch.
+[15Jun2025 09:58:08.139] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ansoooooo is e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3
+[15Jun2025 09:58:08.149] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[15Jun2025 09:58:08.198] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig backpacked:server' to 'framework:handshake' sequence 1
+[15Jun2025 09:58:08.239] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[15Jun2025 09:58:08.239] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[15Jun2025 09:58:08.239] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:08.246] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 2
+[15Jun2025 09:58:08.289] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 1
+[15Jun2025 09:58:08.289] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[15Jun2025 09:58:08.289] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:08.297] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 3
+[15Jun2025 09:58:08.346] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 4
+[15Jun2025 09:58:08.409] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 5
+[15Jun2025 09:58:08.457] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[15Jun2025 09:58:08.504] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[15Jun2025 09:58:08.554] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [cyclopscore, dynamiclightsreforged, treechop, adaptive_performance_tweaks_core, kuma_api, betterdungeons, easyanvils, playeranimator, botarium, betteroceanmonuments, hammerlib, incendium, gpumemleakfix, insanelib, structureessentials, prism, placebo, citadel, alexsmobs, modernfix, zombieawareness, yungsapi, mixinextras, void_lib, cobweb, itemzoom, uteamcore, fastconfigapi, takesapillage, zetter, balm, dynview, jeresources, exposure, dragonfight, betterfortresses, cloth_config, sound_physics_remastered, embeddium, rubidium, diagonalblocks, solapplepie, entity_model_features, tenshilib, entity_texture_features, ambientsounds, cobblemonintegrations, gml, simpletms, loot_journal, resourcefulconfig, lionfishapi, spark, cataclysm, curios, patchouli, oculus, iris, megamons, commongroovylibrary, cerbons_api, cobblemon, cobbledex, mr_dungeons_andtaverns, bettervillage, elevatorid, betterstrongholds, tombstone, fightorflight, resourcefullib, inventoryprofilesnext, architectury, nerb, aiimprovements, cupboard, refurbished_furniture, itemphysic, betterendisland, dynamic_fps, enhancedai, rubidium_extra, framework, adaptive_performance_tweaks_items, bettermineshafts, betterjungletemples, mowziesmobs, geckolib, themimic_er, fastload, mca, octolib, easymagic, jei, lithostitched, visualworkbench, attributefix, libraryferret, caelus, waystones, fastsuite, clumps, configured, dungeoncrawl, spawn_notification, farsight_view, terralith, blueprint, vanillacookbook, goat_man, puzzlesaccessapi, skinlayers3d, rubidium_extras, forge, dungeons_arise, minecraft, the_deep_void, man, smoothchunk, alexscaves, libipn, moonlight, terrablender, biomesoplenty, mousetweaks, bettercombat, regions_unexplored, shouldersurfing, culllessleaves, creativecore, unusualprehistory, ohthetreesyoullgrow, corgilib, recipes_lib, betterfpsdist, kotlinforforge, capture_xp, brutalbosses, xaerominimap, fastbench, legendary_monsters, irons_spellbooks, immersive_paintings, diagonalfences, cobblepedia, entityculling, backpacked, betterchunkloading, canary, coroutil, immediatelyfast, fastfurnace, appleskin, ferritecore, lootr, cobblemonrider, puzzleslib, immersive_melodies, textrues_embeddium_options, reeses_sodium_options, horde_hoard, improvedmobs, cosmeticarmorreworked, wan_ancient_beasts, explosiveenhancement, chunksending, ad_astra]
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobbledex:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'insanelib:network_channel' : Version test of '2' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'legendary_monsters:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_im:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explosiveenhancement:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'solapplepie:main' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Version test of '7' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fastbench:channel' : Version test of '4.6.0' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_deep_void:the_deep_void' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'themimic_er:main' : Version test of '2' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'itemphysic:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:58:08.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hammerlib:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tenshilib:packets' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ip:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of '2' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:ingredient_sync' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobblemonintegrations:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blueprint:net' : Version test of 'BP1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'goat_man:main' : Version test of '2' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'improvedmobs:packets' : Version test of 'v1.0' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wan_ancient_beasts:main' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobblemonrider:network' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ad_astra:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network_forge' : Version test of '1.20.1-1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cyclopscore:channel_main' : Version test of '1.0.0' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'exposure:packets' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.9.6' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'brutalbosses:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network' : Version test of '1.20.1-1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easyanvils:1' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'man:man' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zetter:zetter_channel' : Version test of '0.3' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'elevatorid:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobblemon:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horde_hoard:horde_hoard' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'backpacked:play' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.581] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simpletms:main' : Version test of '1' from client : ACCEPTED
+[15Jun2025 09:58:08.582] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:58:08.582] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'unusualprehistory:messages' : Version test of '1.0' from client : ACCEPTED
+[15Jun2025 09:58:08.582] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[15Jun2025 09:58:08.582] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[15Jun2025 09:58:08.582] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[15Jun2025 09:58:08.582] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:08.582] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:08.582] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[15Jun2025 09:58:08.582] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:08.582] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:08.582] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[15Jun2025 09:58:08.582] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:08.582] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:08.605] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[15Jun2025 09:58:08.656] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 10
+[15Jun2025 09:58:08.708] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 11
+[15Jun2025 09:58:08.755] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry hammerlib:level_actions' to 'fml:handshake' sequence 12
+[15Jun2025 09:58:08.805] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[15Jun2025 09:58:08.854] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 14
+[15Jun2025 09:58:08.904] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 15
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:08.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:08.944] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[15Jun2025 09:58:08.944] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:08.944] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:08.944] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[15Jun2025 09:58:08.944] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:08.944] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:08.944] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[15Jun2025 09:58:08.944] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:08.944] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:08.956] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 16
+[15Jun2025 09:58:08.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[15Jun2025 09:58:08.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:08.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.005] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 17
+[15Jun2025 09:58:09.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[15Jun2025 09:58:09.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.055] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 18
+[15Jun2025 09:58:09.104] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry zetter:canvas_type' to 'fml:handshake' sequence 19
+[15Jun2025 09:58:09.154] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 20
+[15Jun2025 09:58:09.184] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[15Jun2025 09:58:09.184] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.184] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.184] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[15Jun2025 09:58:09.184] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.184] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.204] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 21
+[15Jun2025 09:58:09.204] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[15Jun2025 09:58:09.205] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.205] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.245] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[15Jun2025 09:58:09.245] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.245] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.254] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 22
+[15Jun2025 09:58:09.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[15Jun2025 09:58:09.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.305] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 23
+[15Jun2025 09:58:09.358] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 24
+[15Jun2025 09:58:09.406] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 25
+[15Jun2025 09:58:09.456] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry hammerlib:obj_sources' to 'fml:handshake' sequence 26
+[15Jun2025 09:58:09.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[15Jun2025 09:58:09.478] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.478] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.478] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[15Jun2025 09:58:09.478] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.478] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.478] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[15Jun2025 09:58:09.478] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.478] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.513] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 27
+[15Jun2025 09:58:09.522] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[15Jun2025 09:58:09.523] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.523] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.523] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[15Jun2025 09:58:09.523] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.523] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.559] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 28
+[15Jun2025 09:58:09.567] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[15Jun2025 09:58:09.568] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.568] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.608] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 29
+[15Jun2025 09:58:09.658] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config solapplepie-server.toml' to 'fml:handshake' sequence 30
+[15Jun2025 09:58:09.707] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config themimic_er-server.toml' to 'fml:handshake' sequence 31
+[15Jun2025 09:58:09.755] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 32
+[15Jun2025 09:58:09.784] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[15Jun2025 09:58:09.784] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.784] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.784] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[15Jun2025 09:58:09.784] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.784] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.819] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 33
+[15Jun2025 09:58:09.820] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[15Jun2025 09:58:09.820] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.820] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.820] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[15Jun2025 09:58:09.820] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.820] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.857] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config elevatorid-server.toml' to 'fml:handshake' sequence 34
+[15Jun2025 09:58:09.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[15Jun2025 09:58:09.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.897] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[15Jun2025 09:58:09.898] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.898] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.905] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config zetter-server.toml' to 'fml:handshake' sequence 35
+[15Jun2025 09:58:09.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[15Jun2025 09:58:09.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:09.957] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config wan_ancient_beasts-server.toml' to 'fml:handshake' sequence 36
+[15Jun2025 09:58:09.965] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[15Jun2025 09:58:09.965] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:09.965] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:10.008] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[15Jun2025 09:58:10.008] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:10.008] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:10.009] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easyanvils-server.toml' to 'fml:handshake' sequence 37
+[15Jun2025 09:58:10.055] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easymagic-server.toml' to 'fml:handshake' sequence 38
+[15Jun2025 09:58:10.101] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[15Jun2025 09:58:10.101] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:10.101] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:10.110] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 39
+[15Jun2025 09:58:10.146] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[15Jun2025 09:58:10.146] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:10.146] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:10.158] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config goat_man-server.toml' to 'fml:handshake' sequence 40
+[15Jun2025 09:58:10.192] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[15Jun2025 09:58:10.192] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:10.192] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:10.237] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[15Jun2025 09:58:10.237] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jun2025 09:58:10.237] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jun2025 09:58:10.260] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[15Jun2025 09:58:10.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ansoooooo[/127.53.158.23:54527] logged in with entity id 8315 at (-133.62132711336727, 97.0, 118.67774731194666)
+[15Jun2025 09:58:10.332] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@5a551264 into net.minecraft.network.Connection@2e23a81b
+[15Jun2025 09:58:10.332] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 563 classes
+[15Jun2025 09:58:10.384] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ansoooooo
+[15Jun2025 09:58:10.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo joined the game
+[15Jun2025 09:58:10.482] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2709, l='ServerLevel[world]', x=-170.49, y=-32.84, z=201.29, removed=DISCARDED]
+[15Jun2025 09:58:10.482] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2710, l='ServerLevel[world]', x=-172.45, y=-32.68, z=201.54, removed=DISCARDED]
+[15Jun2025 09:58:10.482] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2711, l='ServerLevel[world]', x=-171.36, y=-32.80, z=201.42, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2712, l='ServerLevel[world]', x=-174.32, y=-32.56, z=201.26, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2714, l='ServerLevel[world]', x=-173.74, y=-32.60, z=201.29, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2721, l='ServerLevel[world]', x=-173.72, y=-27.74, z=192.43, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2724, l='ServerLevel[world]', x=-174.29, y=-28.48, z=193.50, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2728, l='ServerLevel[world]', x=-171.74, y=-29.49, z=196.26, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2730, l='ServerLevel[world]', x=-173.72, y=-29.41, z=196.45, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2731, l='ServerLevel[world]', x=-175.65, y=-29.45, z=196.47, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2732, l='ServerLevel[world]', x=-174.49, y=-30.56, z=197.67, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2733, l='ServerLevel[world]', x=-173.74, y=-30.59, z=197.45, removed=DISCARDED]
+[15Jun2025 09:58:10.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2734, l='ServerLevel[world]', x=-175.75, y=-30.43, z=197.64, removed=DISCARDED]
+[15Jun2025 09:58:10.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2735, l='ServerLevel[world]', x=-172.32, y=-31.84, z=198.40, removed=DISCARDED]
+[15Jun2025 09:58:10.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2736, l='ServerLevel[world]', x=-171.42, y=-31.43, z=198.34, removed=DISCARDED]
+[15Jun2025 09:58:10.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2738, l='ServerLevel[world]', x=-169.63, y=-31.75, z=199.41, removed=DISCARDED]
+[15Jun2025 09:58:10.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2739, l='ServerLevel[world]', x=-174.39, y=-31.58, z=198.33, removed=DISCARDED]
+[15Jun2025 09:58:10.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2740, l='ServerLevel[world]', x=-173.40, y=-31.81, z=198.27, removed=DISCARDED]
+[15Jun2025 09:58:10.486] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2743, l='ServerLevel[world]', x=-170.69, y=-31.81, z=200.25, removed=DISCARDED]
+[15Jun2025 09:58:10.486] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2744, l='ServerLevel[world]', x=-169.66, y=-31.56, z=200.34, removed=DISCARDED]
+[15Jun2025 09:58:10.486] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2746, l='ServerLevel[world]', x=-175.52, y=-31.39, z=198.54, removed=DISCARDED]
+[15Jun2025 09:58:10.486] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2747, l='ServerLevel[world]', x=-173.36, y=-31.74, z=199.67, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2748, l='ServerLevel[world]', x=-176.31, y=-32.83, z=199.43, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2749, l='ServerLevel[world]', x=-176.29, y=-32.74, z=200.27, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3559, l='ServerLevel[world]', x=-177.58, y=-32.87, z=199.68, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3560, l='ServerLevel[world]', x=-177.54, y=-32.55, z=200.29, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3562, l='ServerLevel[world]', x=-179.39, y=-32.74, z=200.39, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3563, l='ServerLevel[world]', x=-176.64, y=-32.54, z=201.66, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3564, l='ServerLevel[world]', x=-177.73, y=-32.49, z=201.46, removed=DISCARDED]
+[15Jun2025 09:58:10.488] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2750, l='ServerLevel[world]', x=-176.56, y=-29.69, z=194.50, removed=DISCARDED]
+[15Jun2025 09:58:10.488] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3565, l='ServerLevel[world]', x=-176.28, y=-31.46, z=198.42, removed=DISCARDED]
+[15Jun2025 09:58:10.488] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 09:58:10.488] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2760, l='ServerLevel[world]', x=-138.35, y=-3.70, z=199.54, removed=DISCARDED]
+[15Jun2025 09:58:10.489] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2761, l='ServerLevel[world]', x=-139.55, y=-3.62, z=200.31, removed=DISCARDED]
+[15Jun2025 09:58:10.489] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2762, l='ServerLevel[world]', x=-137.69, y=-3.54, z=200.64, removed=DISCARDED]
+[15Jun2025 09:58:10.494] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5062, l='ServerLevel[world]', x=-219.13, y=-54.00, z=140.66, removed=DISCARDED]
+[15Jun2025 09:58:18.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.65705108642578) to LOW (avg. 20.650224685668945)
+[15Jun2025 09:58:18.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Acquire Hardware]
+[15Jun2025 09:58:25.994] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Jun2025 09:58:25.994] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:58:25.994] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Jun2025 09:58:40.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [Feeling Watched]
+[15Jun2025 09:58:56.043] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Jun2025 09:58:56.044] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:58:56.044] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Jun2025 09:58:58.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Ambush]
+[15Jun2025 09:59:06.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote tried to swim in lava to escape Pillager
+[15Jun2025 09:59:06.865] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-339, y:67, z:-192, dim:minecraft:overworld]
+[15Jun2025 09:59:06.867] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:59:18.492] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 09:59:19.492] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 09:59:21.041] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 09:59:21.042] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 09:59:21.114] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5062, l='ServerLevel[world]', x=-219.13, y=-54.00, z=140.66, removed=DISCARDED]
+[15Jun2025 09:59:21.141] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2721, l='ServerLevel[world]', x=-173.72, y=-27.74, z=192.43, removed=DISCARDED]
+[15Jun2025 09:59:21.192] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 09:59:21.413] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 09:59:24.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 09:59:24.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 09:59:24.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Is it a Fruit or is it a Nut?]
+[15Jun2025 09:59:24.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Mother Nature's Bounty]
+[15Jun2025 09:59:26.093] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Jun2025 09:59:26.094] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:59:26.094] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Jun2025 09:59:27.993] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 09:59:31.115] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 09:59:39.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Man From The Fog
+[15Jun2025 09:59:39.771] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-310, y:62, z:-192, dim:minecraft:overworld]
+[15Jun2025 09:59:39.775] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:59:42.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Is it a Fruit or is it a Nut?]
+[15Jun2025 09:59:45.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was blown up by Creeper
+[15Jun2025 09:59:45.056] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ansoooooo was created at position [x:-131, y:87, z:92, dim:minecraft:overworld]
+[15Jun2025 09:59:45.073] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[15Jun2025 09:59:48.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.671104431152344) to VERY_LOW (avg. 15.832454681396484)
+[15Jun2025 09:59:56.143] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Jun2025 09:59:56.144] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 09:59:56.144] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Jun2025 10:00:03.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.832454681396484) to LOW (avg. 20.731197357177734)
+[15Jun2025 10:00:10.370] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[15Jun2025 10:00:19.379] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:stray_fort/stray_fort_1
+[15Jun2025 10:00:19.760] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-351, y=-50, z=-410} at Chest with:minecraft:chests/simple_dungeon
+[15Jun2025 10:00:22.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Enderman
+[15Jun2025 10:00:22.762] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-321, y:76, z:-229, dim:minecraft:overworld]
+[15Jun2025 10:00:22.775] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 10:00:22.808] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[15Jun2025 10:00:22.808] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[15Jun2025 10:00:22.808] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[15Jun2025 10:00:22.808] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[15Jun2025 10:00:22.809] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[15Jun2025 10:00:26.193] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Jun2025 10:00:26.194] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 10:00:26.194] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Jun2025 10:00:27.941] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5062, l='ServerLevel[world]', x=-219.13, y=-54.00, z=140.66, removed=DISCARDED]
+[15Jun2025 10:00:35.564] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 10:00:36.691] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5062, l='ServerLevel[world]', x=-219.13, y=-54.00, z=140.66, removed=DISCARDED]
+[15Jun2025 10:00:37.040] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2760, l='ServerLevel[world]', x=-138.35, y=-3.70, z=199.54, removed=DISCARDED]
+[15Jun2025 10:00:37.791] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 10:00:38.591] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 10:00:38.592] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2721, l='ServerLevel[world]', x=-173.72, y=-27.74, z=192.43, removed=DISCARDED]
+[15Jun2025 10:00:38.640] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 10:00:38.942] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 10:00:40.826] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 10:00:41.065] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2724, l='ServerLevel[world]', x=-174.29, y=-28.48, z=193.50, removed=DISCARDED]
+[15Jun2025 10:00:41.513] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 10:00:42.441] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 10:00:42.441] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 10:00:42.889] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 10:00:44.715] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8083, l='ServerLevel[world]', x=-283.61, y=6.17, z=-323.42, removed=DISCARDED]
+[15Jun2025 10:00:44.823] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8084, l='ServerLevel[world]', x=-282.53, y=6.14, z=-323.38, removed=DISCARDED]
+[15Jun2025 10:00:44.964] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8078, l='ServerLevel[world]', x=-284.67, y=8.26, z=-324.38, removed=DISCARDED]
+[15Jun2025 10:00:45.270] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8080, l='ServerLevel[world]', x=-283.70, y=7.32, z=-324.74, removed=DISCARDED]
+[15Jun2025 10:00:45.372] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8086, l='ServerLevel[world]', x=-281.62, y=5.31, z=-324.29, removed=DISCARDED]
+[15Jun2025 10:00:45.417] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8092, l='ServerLevel[world]', x=-279.35, y=3.22, z=-323.66, removed=DISCARDED]
+[15Jun2025 10:00:45.442] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2721, l='ServerLevel[world]', x=-173.72, y=-27.74, z=192.43, removed=DISCARDED]
+[15Jun2025 10:00:45.442] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 10:00:45.467] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8095, l='ServerLevel[world]', x=-278.67, y=3.52, z=-323.56, removed=DISCARDED]
+[15Jun2025 10:00:45.467] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8088, l='ServerLevel[world]', x=-280.60, y=4.56, z=-324.54, removed=DISCARDED]
+[15Jun2025 10:00:45.491] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 10:00:45.492] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 10:00:45.514] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8081, l='ServerLevel[world]', x=-282.49, y=7.18, z=-325.34, removed=DISCARDED]
+[15Jun2025 10:00:45.514] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8097, l='ServerLevel[world]', x=-277.35, y=2.34, z=-323.33, removed=DISCARDED]
+[15Jun2025 10:00:45.541] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 10:00:45.541] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 10:00:45.566] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8093, l='ServerLevel[world]', x=-278.69, y=3.53, z=-324.28, removed=DISCARDED]
+[15Jun2025 10:00:45.614] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8101, l='ServerLevel[world]', x=-276.32, y=1.14, z=-323.59, removed=DISCARDED]
+[15Jun2025 10:00:45.641] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 10:00:45.676] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8079, l='ServerLevel[world]', x=-282.49, y=7.35, z=-326.44, removed=DISCARDED]
+[15Jun2025 10:00:45.690] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2724, l='ServerLevel[world]', x=-174.29, y=-28.48, z=193.50, removed=DISCARDED]
+[15Jun2025 10:00:45.768] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8091, l='ServerLevel[world]', x=-278.53, y=3.25, z=-325.61, removed=DISCARDED]
+[15Jun2025 10:00:46.014] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8089, l='ServerLevel[world]', x=-278.26, y=4.61, z=-326.70, removed=DISCARDED]
+[15Jun2025 10:00:46.064] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8099, l='ServerLevel[world]', x=-275.34, y=1.50, z=-325.57, removed=DISCARDED]
+[15Jun2025 10:00:46.064] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8096, l='ServerLevel[world]', x=-276.64, y=2.14, z=-326.36, removed=DISCARDED]
+[15Jun2025 10:00:46.090] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2750, l='ServerLevel[world]', x=-176.56, y=-29.69, z=194.50, removed=DISCARDED]
+[15Jun2025 10:00:46.220] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8098, l='ServerLevel[world]', x=-275.58, y=1.16, z=-326.39, removed=DISCARDED]
+[15Jun2025 10:00:46.291] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2728, l='ServerLevel[world]', x=-171.74, y=-29.49, z=196.26, removed=DISCARDED]
+[15Jun2025 10:00:46.442] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2760, l='ServerLevel[world]', x=-138.35, y=-3.70, z=199.54, removed=DISCARDED]
+[15Jun2025 10:00:46.728] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2761, l='ServerLevel[world]', x=-139.55, y=-3.62, z=200.31, removed=DISCARDED]
+[15Jun2025 10:00:46.729] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8103, l='ServerLevel[world]', x=-273.71, y=1.53, z=-326.56, removed=DISCARDED]
+[15Jun2025 10:00:47.284] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8288, l='ServerLevel[world]', x=-269.75, y=-1.47, z=-326.55, removed=DISCARDED]
+[15Jun2025 10:00:47.865] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8287, l='ServerLevel[world]', x=-270.26, y=-1.85, z=-327.74, removed=DISCARDED]
+[15Jun2025 10:00:54.402] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3499, l='ServerLevel[world]', x=-240.69, y=-19.00, z=62.13, removed=DISCARDED]
+[15Jun2025 10:00:56.243] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Jun2025 10:00:56.243] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 10:00:56.244] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Jun2025 10:01:02.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Enderman
+[15Jun2025 10:01:02.955] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-341, y:84, z:-235, dim:minecraft:overworld]
+[15Jun2025 10:01:02.987] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 10:01:10.591] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2998, l='ServerLevel[world]', x=-208.40, y=-11.78, z=-64.31, removed=DISCARDED]
+[15Jun2025 10:01:10.640] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3003, l='ServerLevel[world]', x=-207.43, y=-11.64, z=-64.69, removed=DISCARDED]
+[15Jun2025 10:01:10.689] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6724, l='ServerLevel[world]', x=-208.08, y=-11.00, z=-64.80, removed=DISCARDED]
+[15Jun2025 10:01:10.839] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3002, l='ServerLevel[world]', x=-207.56, y=-10.47, z=-65.46, removed=DISCARDED]
+[15Jun2025 10:01:10.891] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2997, l='ServerLevel[world]', x=-208.33, y=-11.59, z=-65.35, removed=DISCARDED]
+[15Jun2025 10:01:11.271] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2996, l='ServerLevel[world]', x=-208.32, y=-10.87, z=-67.30, removed=DISCARDED]
+[15Jun2025 10:01:14.043] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/10937, l='ServerLevel[world]', x=-286.27, y=-15.84, z=9.29, removed=DISCARDED]
+[15Jun2025 10:01:14.438] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/10936, l='ServerLevel[world]', x=-287.36, y=-15.82, z=8.54, removed=DISCARDED]
+[15Jun2025 10:01:14.841] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11093, l='ServerLevel[world]', x=-288.60, y=-15.80, z=9.75, removed=DISCARDED]
+[15Jun2025 10:01:26.293] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Jun2025 10:01:26.294] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Jun2025 10:01:26.294] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.

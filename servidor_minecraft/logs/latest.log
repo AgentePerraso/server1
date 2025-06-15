@@ -2741,3 +2741,275 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [15Jun2025 09:51:10.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.394428253173828) to LOW (avg. 22.683488845825195)
 [15Jun2025 09:51:16.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was shot by Pillager
 [15Jun2025 09:51:16.167] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[15Jun2025 09:51:25.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.683488845825195) to VERY_LOW (avg. 11.7362699508667)
+[15Jun2025 09:51:58.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [Here They Come]
+[15Jun2025 09:52:00.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Knowledge of Death]
+[15Jun2025 09:52:00.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Ambush]
+[15Jun2025 09:52:10.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.168325424194336) to LOW (avg. 25.450740814208984)
+[15Jun2025 09:52:19.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Bison
+[15Jun2025 09:52:19.321] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[15Jun2025 09:52:26.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Heatmor
+[15Jun2025 09:52:26.261] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:52:33.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.618608474731445) to VERY_LOW (avg. 12.773947715759277)
+[15Jun2025 09:53:03.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.82227325439453) to LOW (avg. 21.089473724365234)
+[15Jun2025 09:53:26.118] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 09:53:26.422] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3416, l='ServerLevel[world]', x=-103.64, y=76.58, z=219.56, removed=DISCARDED]
+[15Jun2025 09:53:27.266] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2760, l='ServerLevel[world]', x=-138.35, y=-3.70, z=199.54, removed=DISCARDED]
+[15Jun2025 09:53:27.312] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2762, l='ServerLevel[world]', x=-137.69, y=-3.54, z=200.64, removed=DISCARDED]
+[15Jun2025 09:53:27.565] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2761, l='ServerLevel[world]', x=-139.55, y=-3.62, z=200.31, removed=DISCARDED]
+[15Jun2025 09:53:30.840] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 09:53:30.864] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 09:53:30.965] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 09:53:31.126] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 09:53:31.223] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2721, l='ServerLevel[world]', x=-173.72, y=-27.74, z=192.43, removed=DISCARDED]
+[15Jun2025 09:53:31.277] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 09:53:31.277] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2728, l='ServerLevel[world]', x=-171.74, y=-29.49, z=196.26, removed=DISCARDED]
+[15Jun2025 09:53:31.314] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2738, l='ServerLevel[world]', x=-169.63, y=-31.75, z=199.41, removed=DISCARDED]
+[15Jun2025 09:53:31.412] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2724, l='ServerLevel[world]', x=-174.29, y=-28.48, z=193.50, removed=DISCARDED]
+[15Jun2025 09:53:31.413] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2744, l='ServerLevel[world]', x=-169.66, y=-31.56, z=200.34, removed=DISCARDED]
+[15Jun2025 09:53:31.466] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2736, l='ServerLevel[world]', x=-171.42, y=-31.43, z=198.34, removed=DISCARDED]
+[15Jun2025 09:53:31.516] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2735, l='ServerLevel[world]', x=-172.32, y=-31.84, z=198.40, removed=DISCARDED]
+[15Jun2025 09:53:31.516] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2743, l='ServerLevel[world]', x=-170.69, y=-31.81, z=200.25, removed=DISCARDED]
+[15Jun2025 09:53:31.566] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2709, l='ServerLevel[world]', x=-170.49, y=-32.84, z=201.29, removed=DISCARDED]
+[15Jun2025 09:53:31.567] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2730, l='ServerLevel[world]', x=-173.72, y=-29.41, z=196.45, removed=DISCARDED]
+[15Jun2025 09:53:31.614] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2733, l='ServerLevel[world]', x=-173.74, y=-30.59, z=197.45, removed=DISCARDED]
+[15Jun2025 09:53:31.663] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2740, l='ServerLevel[world]', x=-173.40, y=-31.81, z=198.27, removed=DISCARDED]
+[15Jun2025 09:53:31.720] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2711, l='ServerLevel[world]', x=-171.36, y=-32.80, z=201.42, removed=DISCARDED]
+[15Jun2025 09:53:31.849] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2750, l='ServerLevel[world]', x=-176.56, y=-29.69, z=194.50, removed=DISCARDED]
+[15Jun2025 09:53:31.849] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2732, l='ServerLevel[world]', x=-174.49, y=-30.56, z=197.67, removed=DISCARDED]
+[15Jun2025 09:53:31.850] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2739, l='ServerLevel[world]', x=-174.39, y=-31.58, z=198.33, removed=DISCARDED]
+[15Jun2025 09:53:31.850] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2747, l='ServerLevel[world]', x=-173.36, y=-31.74, z=199.67, removed=DISCARDED]
+[15Jun2025 09:53:31.850] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2731, l='ServerLevel[world]', x=-175.65, y=-29.45, z=196.47, removed=DISCARDED]
+[15Jun2025 09:53:31.850] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2710, l='ServerLevel[world]', x=-172.45, y=-32.68, z=201.54, removed=DISCARDED]
+[15Jun2025 09:53:31.897] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2734, l='ServerLevel[world]', x=-175.75, y=-30.43, z=197.64, removed=DISCARDED]
+[15Jun2025 09:53:32.018] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2714, l='ServerLevel[world]', x=-173.74, y=-32.60, z=201.29, removed=DISCARDED]
+[15Jun2025 09:53:32.018] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2746, l='ServerLevel[world]', x=-175.52, y=-31.39, z=198.54, removed=DISCARDED]
+[15Jun2025 09:53:32.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3565, l='ServerLevel[world]', x=-176.28, y=-31.46, z=198.42, removed=DISCARDED]
+[15Jun2025 09:53:32.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2712, l='ServerLevel[world]', x=-174.32, y=-32.56, z=201.26, removed=DISCARDED]
+[15Jun2025 09:53:32.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2748, l='ServerLevel[world]', x=-176.31, y=-32.83, z=199.43, removed=DISCARDED]
+[15Jun2025 09:53:32.214] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2749, l='ServerLevel[world]', x=-176.29, y=-32.74, z=200.27, removed=DISCARDED]
+[15Jun2025 09:53:32.336] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3559, l='ServerLevel[world]', x=-177.58, y=-32.87, z=199.68, removed=DISCARDED]
+[15Jun2025 09:53:32.367] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3560, l='ServerLevel[world]', x=-177.54, y=-32.55, z=200.29, removed=DISCARDED]
+[15Jun2025 09:53:32.367] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3563, l='ServerLevel[world]', x=-176.64, y=-32.54, z=201.66, removed=DISCARDED]
+[15Jun2025 09:53:32.535] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3564, l='ServerLevel[world]', x=-177.73, y=-32.49, z=201.46, removed=DISCARDED]
+[15Jun2025 09:53:32.618] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3562, l='ServerLevel[world]', x=-179.39, y=-32.74, z=200.39, removed=DISCARDED]
+[15Jun2025 09:53:36.366] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5062, l='ServerLevel[world]', x=-219.13, y=-54.00, z=140.66, removed=DISCARDED]
+[15Jun2025 09:53:43.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Creeper
+[15Jun2025 09:53:43.825] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:53:48.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.58622932434082) to VERY_LOW (avg. 15.791874885559082)
+[15Jun2025 09:54:02.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Stone Age]
+[15Jun2025 09:54:10.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.7699031829834) to LOW (avg. 21.103458404541016)
+[15Jun2025 09:54:47.072] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6016, l='ServerLevel[world]', x=-151.54, y=41.22, z=-326.44, removed=DISCARDED]
+[15Jun2025 09:54:52.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Getting an Upgrade]
+[15Jun2025 09:55:32.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement ['X' Marks the Spot]
+[15Jun2025 09:55:39.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Diamonds!]
+[15Jun2025 09:55:53.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Disconnected
+[15Jun2025 09:55:53.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
+[15Jun2025 09:55:55.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.15620994567871) to VERY_LOW (avg. 13.489518165588379)
+[15Jun2025 09:56:05.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Mankey
+[15Jun2025 09:56:05.821] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:56:15.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [Here They Come]
+[15Jun2025 09:56:25.597] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ansoooooo is e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3
+[15Jun2025 09:56:27.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ansoooooo[/127.53.158.23:32897] logged in with entity id 7031 at (-135.2782387071112, 97.0, 119.50555427382427)
+[15Jun2025 09:56:27.865] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ansoooooo
+[15Jun2025 09:56:27.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo joined the game
+[15Jun2025 09:56:28.090] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2709, l='ServerLevel[world]', x=-170.49, y=-32.84, z=201.29, removed=DISCARDED]
+[15Jun2025 09:56:28.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2710, l='ServerLevel[world]', x=-172.45, y=-32.68, z=201.54, removed=DISCARDED]
+[15Jun2025 09:56:28.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2711, l='ServerLevel[world]', x=-171.36, y=-32.80, z=201.42, removed=DISCARDED]
+[15Jun2025 09:56:28.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2712, l='ServerLevel[world]', x=-174.32, y=-32.56, z=201.26, removed=DISCARDED]
+[15Jun2025 09:56:28.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2714, l='ServerLevel[world]', x=-173.74, y=-32.60, z=201.29, removed=DISCARDED]
+[15Jun2025 09:56:28.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 09:56:28.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 09:56:28.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2721, l='ServerLevel[world]', x=-173.72, y=-27.74, z=192.43, removed=DISCARDED]
+[15Jun2025 09:56:28.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 09:56:28.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 09:56:28.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2724, l='ServerLevel[world]', x=-174.29, y=-28.48, z=193.50, removed=DISCARDED]
+[15Jun2025 09:56:28.092] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2728, l='ServerLevel[world]', x=-171.74, y=-29.49, z=196.26, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2730, l='ServerLevel[world]', x=-173.72, y=-29.41, z=196.45, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2731, l='ServerLevel[world]', x=-175.65, y=-29.45, z=196.47, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2732, l='ServerLevel[world]', x=-174.49, y=-30.56, z=197.67, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2733, l='ServerLevel[world]', x=-173.74, y=-30.59, z=197.45, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2734, l='ServerLevel[world]', x=-175.75, y=-30.43, z=197.64, removed=DISCARDED]
+[15Jun2025 09:56:28.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2735, l='ServerLevel[world]', x=-172.32, y=-31.84, z=198.40, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2736, l='ServerLevel[world]', x=-171.42, y=-31.43, z=198.34, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2738, l='ServerLevel[world]', x=-169.63, y=-31.75, z=199.41, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2739, l='ServerLevel[world]', x=-174.39, y=-31.58, z=198.33, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2740, l='ServerLevel[world]', x=-173.40, y=-31.81, z=198.27, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2743, l='ServerLevel[world]', x=-170.69, y=-31.81, z=200.25, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2744, l='ServerLevel[world]', x=-169.66, y=-31.56, z=200.34, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2746, l='ServerLevel[world]', x=-175.52, y=-31.39, z=198.54, removed=DISCARDED]
+[15Jun2025 09:56:28.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2747, l='ServerLevel[world]', x=-173.36, y=-31.74, z=199.67, removed=DISCARDED]
+[15Jun2025 09:56:28.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2748, l='ServerLevel[world]', x=-176.31, y=-32.83, z=199.43, removed=DISCARDED]
+[15Jun2025 09:56:28.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2749, l='ServerLevel[world]', x=-176.29, y=-32.74, z=200.27, removed=DISCARDED]
+[15Jun2025 09:56:28.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3559, l='ServerLevel[world]', x=-177.58, y=-32.87, z=199.68, removed=DISCARDED]
+[15Jun2025 09:56:28.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3560, l='ServerLevel[world]', x=-177.54, y=-32.55, z=200.29, removed=DISCARDED]
+[15Jun2025 09:56:28.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3562, l='ServerLevel[world]', x=-179.39, y=-32.74, z=200.39, removed=DISCARDED]
+[15Jun2025 09:56:28.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3563, l='ServerLevel[world]', x=-176.64, y=-32.54, z=201.66, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3564, l='ServerLevel[world]', x=-177.73, y=-32.49, z=201.46, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2750, l='ServerLevel[world]', x=-176.56, y=-29.69, z=194.50, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3565, l='ServerLevel[world]', x=-176.28, y=-31.46, z=198.42, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2760, l='ServerLevel[world]', x=-138.35, y=-3.70, z=199.54, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2761, l='ServerLevel[world]', x=-139.55, y=-3.62, z=200.31, removed=DISCARDED]
+[15Jun2025 09:56:28.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2762, l='ServerLevel[world]', x=-137.69, y=-3.54, z=200.64, removed=DISCARDED]
+[15Jun2025 09:56:28.099] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5062, l='ServerLevel[world]', x=-219.13, y=-54.00, z=140.66, removed=DISCARDED]
+[15Jun2025 09:56:33.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.595833778381348) to LOW (avg. 22.76105308532715)
+[15Jun2025 09:56:54.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Monster Hunter]
+[15Jun2025 09:56:54.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Knowledge of Death]
+[15Jun2025 09:56:54.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [A Strange Grave Dust]
+[15Jun2025 09:56:54.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [Chain Death]
+[15Jun2025 09:56:54.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Angry Creeper
+[15Jun2025 09:56:54.676] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:56:55.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.66575813293457) to VERY_LOW (avg. 17.04360580444336)
+[15Jun2025 09:57:10.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.04360580444336) to LOW (avg. 22.60714340209961)
+[15Jun2025 09:57:24.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Drowned
+[15Jun2025 09:57:24.775] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:57:27.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Sweet Dreams]
+[15Jun2025 09:57:30.825] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 258.3 μs. 264/264 recipes are parallelized.
+[15Jun2025 09:57:31.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Disconnected
+[15Jun2025 09:57:31.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
+[15Jun2025 09:57:33.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.594655990600586) to VERY_LOW (avg. 16.107345581054688)
+[15Jun2025 09:57:47.019] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fac5764[id=<null>,name=Ansoooooo,properties={},legacy=false] (/127.53.158.23:59757) lost connection: Disconnected
+[15Jun2025 09:57:48.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.107345581054688) to LOW (avg. 22.323068618774414)
+[15Jun2025 09:57:55.843] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.323068618774414) to VERY_LOW (avg. 17.321969985961914)
+[15Jun2025 09:58:02.759] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2fc0efca[id=<null>,name=Ansoooooo,properties={},legacy=false] (/127.53.158.23:39211) lost connection: Disconnected
+[15Jun2025 09:58:06.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was doomed to fall by Wingull
+[15Jun2025 09:58:06.822] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:58:08.139] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ansoooooo is e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3
+[15Jun2025 09:58:10.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ansoooooo[/127.53.158.23:54527] logged in with entity id 8315 at (-133.62132711336727, 97.0, 118.67774731194666)
+[15Jun2025 09:58:10.384] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ansoooooo
+[15Jun2025 09:58:10.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo joined the game
+[15Jun2025 09:58:10.482] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2709, l='ServerLevel[world]', x=-170.49, y=-32.84, z=201.29, removed=DISCARDED]
+[15Jun2025 09:58:10.482] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2710, l='ServerLevel[world]', x=-172.45, y=-32.68, z=201.54, removed=DISCARDED]
+[15Jun2025 09:58:10.482] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2711, l='ServerLevel[world]', x=-171.36, y=-32.80, z=201.42, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2712, l='ServerLevel[world]', x=-174.32, y=-32.56, z=201.26, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2714, l='ServerLevel[world]', x=-173.74, y=-32.60, z=201.29, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2721, l='ServerLevel[world]', x=-173.72, y=-27.74, z=192.43, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 09:58:10.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2724, l='ServerLevel[world]', x=-174.29, y=-28.48, z=193.50, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2728, l='ServerLevel[world]', x=-171.74, y=-29.49, z=196.26, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2730, l='ServerLevel[world]', x=-173.72, y=-29.41, z=196.45, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2731, l='ServerLevel[world]', x=-175.65, y=-29.45, z=196.47, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2732, l='ServerLevel[world]', x=-174.49, y=-30.56, z=197.67, removed=DISCARDED]
+[15Jun2025 09:58:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2733, l='ServerLevel[world]', x=-173.74, y=-30.59, z=197.45, removed=DISCARDED]
+[15Jun2025 09:58:10.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2734, l='ServerLevel[world]', x=-175.75, y=-30.43, z=197.64, removed=DISCARDED]
+[15Jun2025 09:58:10.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2735, l='ServerLevel[world]', x=-172.32, y=-31.84, z=198.40, removed=DISCARDED]
+[15Jun2025 09:58:10.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2736, l='ServerLevel[world]', x=-171.42, y=-31.43, z=198.34, removed=DISCARDED]
+[15Jun2025 09:58:10.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2738, l='ServerLevel[world]', x=-169.63, y=-31.75, z=199.41, removed=DISCARDED]
+[15Jun2025 09:58:10.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2739, l='ServerLevel[world]', x=-174.39, y=-31.58, z=198.33, removed=DISCARDED]
+[15Jun2025 09:58:10.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2740, l='ServerLevel[world]', x=-173.40, y=-31.81, z=198.27, removed=DISCARDED]
+[15Jun2025 09:58:10.486] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2743, l='ServerLevel[world]', x=-170.69, y=-31.81, z=200.25, removed=DISCARDED]
+[15Jun2025 09:58:10.486] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2744, l='ServerLevel[world]', x=-169.66, y=-31.56, z=200.34, removed=DISCARDED]
+[15Jun2025 09:58:10.486] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2746, l='ServerLevel[world]', x=-175.52, y=-31.39, z=198.54, removed=DISCARDED]
+[15Jun2025 09:58:10.486] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2747, l='ServerLevel[world]', x=-173.36, y=-31.74, z=199.67, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2748, l='ServerLevel[world]', x=-176.31, y=-32.83, z=199.43, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2749, l='ServerLevel[world]', x=-176.29, y=-32.74, z=200.27, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3559, l='ServerLevel[world]', x=-177.58, y=-32.87, z=199.68, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3560, l='ServerLevel[world]', x=-177.54, y=-32.55, z=200.29, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3562, l='ServerLevel[world]', x=-179.39, y=-32.74, z=200.39, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3563, l='ServerLevel[world]', x=-176.64, y=-32.54, z=201.66, removed=DISCARDED]
+[15Jun2025 09:58:10.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3564, l='ServerLevel[world]', x=-177.73, y=-32.49, z=201.46, removed=DISCARDED]
+[15Jun2025 09:58:10.488] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2750, l='ServerLevel[world]', x=-176.56, y=-29.69, z=194.50, removed=DISCARDED]
+[15Jun2025 09:58:10.488] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3565, l='ServerLevel[world]', x=-176.28, y=-31.46, z=198.42, removed=DISCARDED]
+[15Jun2025 09:58:10.488] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 09:58:10.488] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2760, l='ServerLevel[world]', x=-138.35, y=-3.70, z=199.54, removed=DISCARDED]
+[15Jun2025 09:58:10.489] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2761, l='ServerLevel[world]', x=-139.55, y=-3.62, z=200.31, removed=DISCARDED]
+[15Jun2025 09:58:10.489] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2762, l='ServerLevel[world]', x=-137.69, y=-3.54, z=200.64, removed=DISCARDED]
+[15Jun2025 09:58:10.494] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5062, l='ServerLevel[world]', x=-219.13, y=-54.00, z=140.66, removed=DISCARDED]
+[15Jun2025 09:58:18.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.65705108642578) to LOW (avg. 20.650224685668945)
+[15Jun2025 09:58:18.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Acquire Hardware]
+[15Jun2025 09:58:40.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [Feeling Watched]
+[15Jun2025 09:58:58.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Ambush]
+[15Jun2025 09:59:06.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote tried to swim in lava to escape Pillager
+[15Jun2025 09:59:06.867] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:59:18.492] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 09:59:19.492] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 09:59:21.041] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 09:59:21.042] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 09:59:21.114] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5062, l='ServerLevel[world]', x=-219.13, y=-54.00, z=140.66, removed=DISCARDED]
+[15Jun2025 09:59:21.141] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2721, l='ServerLevel[world]', x=-173.72, y=-27.74, z=192.43, removed=DISCARDED]
+[15Jun2025 09:59:21.192] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 09:59:21.413] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 09:59:24.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Is it a Fruit or is it a Nut?]
+[15Jun2025 09:59:24.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Mother Nature's Bounty]
+[15Jun2025 09:59:27.993] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 09:59:31.115] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 09:59:39.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Man From The Fog
+[15Jun2025 09:59:39.775] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 09:59:42.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Is it a Fruit or is it a Nut?]
+[15Jun2025 09:59:45.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was blown up by Creeper
+[15Jun2025 09:59:45.073] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[15Jun2025 09:59:48.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.671104431152344) to VERY_LOW (avg. 15.832454681396484)
+[15Jun2025 10:00:03.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.832454681396484) to LOW (avg. 20.731197357177734)
+[15Jun2025 10:00:22.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Enderman
+[15Jun2025 10:00:22.775] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 10:00:22.808] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[15Jun2025 10:00:22.808] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[15Jun2025 10:00:22.808] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[15Jun2025 10:00:22.808] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[15Jun2025 10:00:22.809] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[15Jun2025 10:00:27.941] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5062, l='ServerLevel[world]', x=-219.13, y=-54.00, z=140.66, removed=DISCARDED]
+[15Jun2025 10:00:35.564] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 10:00:36.691] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5062, l='ServerLevel[world]', x=-219.13, y=-54.00, z=140.66, removed=DISCARDED]
+[15Jun2025 10:00:37.040] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2760, l='ServerLevel[world]', x=-138.35, y=-3.70, z=199.54, removed=DISCARDED]
+[15Jun2025 10:00:37.791] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 10:00:38.591] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 10:00:38.592] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2721, l='ServerLevel[world]', x=-173.72, y=-27.74, z=192.43, removed=DISCARDED]
+[15Jun2025 10:00:38.640] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 10:00:38.942] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 10:00:40.826] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 10:00:41.065] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2724, l='ServerLevel[world]', x=-174.29, y=-28.48, z=193.50, removed=DISCARDED]
+[15Jun2025 10:00:41.513] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 10:00:42.441] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 10:00:42.441] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 10:00:42.889] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 10:00:44.715] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8083, l='ServerLevel[world]', x=-283.61, y=6.17, z=-323.42, removed=DISCARDED]
+[15Jun2025 10:00:44.823] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8084, l='ServerLevel[world]', x=-282.53, y=6.14, z=-323.38, removed=DISCARDED]
+[15Jun2025 10:00:44.964] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8078, l='ServerLevel[world]', x=-284.67, y=8.26, z=-324.38, removed=DISCARDED]
+[15Jun2025 10:00:45.270] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8080, l='ServerLevel[world]', x=-283.70, y=7.32, z=-324.74, removed=DISCARDED]
+[15Jun2025 10:00:45.372] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8086, l='ServerLevel[world]', x=-281.62, y=5.31, z=-324.29, removed=DISCARDED]
+[15Jun2025 10:00:45.417] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8092, l='ServerLevel[world]', x=-279.35, y=3.22, z=-323.66, removed=DISCARDED]
+[15Jun2025 10:00:45.442] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2721, l='ServerLevel[world]', x=-173.72, y=-27.74, z=192.43, removed=DISCARDED]
+[15Jun2025 10:00:45.442] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2719, l='ServerLevel[world]', x=-169.31, y=-27.71, z=193.56, removed=DISCARDED]
+[15Jun2025 10:00:45.467] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8095, l='ServerLevel[world]', x=-278.67, y=3.52, z=-323.56, removed=DISCARDED]
+[15Jun2025 10:00:45.467] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8088, l='ServerLevel[world]', x=-280.60, y=4.56, z=-324.54, removed=DISCARDED]
+[15Jun2025 10:00:45.491] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2723, l='ServerLevel[world]', x=-171.32, y=-27.83, z=193.35, removed=DISCARDED]
+[15Jun2025 10:00:45.492] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2758, l='ServerLevel[world]', x=-135.73, y=-3.86, z=194.59, removed=DISCARDED]
+[15Jun2025 10:00:45.514] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8081, l='ServerLevel[world]', x=-282.49, y=7.18, z=-325.34, removed=DISCARDED]
+[15Jun2025 10:00:45.514] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8097, l='ServerLevel[world]', x=-277.35, y=2.34, z=-323.33, removed=DISCARDED]
+[15Jun2025 10:00:45.541] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2718, l='ServerLevel[world]', x=-170.51, y=-27.83, z=193.62, removed=DISCARDED]
+[15Jun2025 10:00:45.541] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2722, l='ServerLevel[world]', x=-172.53, y=-27.70, z=193.25, removed=DISCARDED]
+[15Jun2025 10:00:45.566] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8093, l='ServerLevel[world]', x=-278.69, y=3.53, z=-324.28, removed=DISCARDED]
+[15Jun2025 10:00:45.614] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8101, l='ServerLevel[world]', x=-276.32, y=1.14, z=-323.59, removed=DISCARDED]
+[15Jun2025 10:00:45.641] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2725, l='ServerLevel[world]', x=-173.32, y=-28.73, z=193.42, removed=DISCARDED]
+[15Jun2025 10:00:45.676] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8079, l='ServerLevel[world]', x=-282.49, y=7.35, z=-326.44, removed=DISCARDED]
+[15Jun2025 10:00:45.690] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2724, l='ServerLevel[world]', x=-174.29, y=-28.48, z=193.50, removed=DISCARDED]
+[15Jun2025 10:00:45.768] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8091, l='ServerLevel[world]', x=-278.53, y=3.25, z=-325.61, removed=DISCARDED]
+[15Jun2025 10:00:46.014] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8089, l='ServerLevel[world]', x=-278.26, y=4.61, z=-326.70, removed=DISCARDED]
+[15Jun2025 10:00:46.064] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8099, l='ServerLevel[world]', x=-275.34, y=1.50, z=-325.57, removed=DISCARDED]
+[15Jun2025 10:00:46.064] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8096, l='ServerLevel[world]', x=-276.64, y=2.14, z=-326.36, removed=DISCARDED]
+[15Jun2025 10:00:46.090] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2750, l='ServerLevel[world]', x=-176.56, y=-29.69, z=194.50, removed=DISCARDED]
+[15Jun2025 10:00:46.220] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8098, l='ServerLevel[world]', x=-275.58, y=1.16, z=-326.39, removed=DISCARDED]
+[15Jun2025 10:00:46.291] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2728, l='ServerLevel[world]', x=-171.74, y=-29.49, z=196.26, removed=DISCARDED]
+[15Jun2025 10:00:46.442] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2760, l='ServerLevel[world]', x=-138.35, y=-3.70, z=199.54, removed=DISCARDED]
+[15Jun2025 10:00:46.728] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2761, l='ServerLevel[world]', x=-139.55, y=-3.62, z=200.31, removed=DISCARDED]
+[15Jun2025 10:00:46.729] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8103, l='ServerLevel[world]', x=-273.71, y=1.53, z=-326.56, removed=DISCARDED]
+[15Jun2025 10:00:47.284] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8288, l='ServerLevel[world]', x=-269.75, y=-1.47, z=-326.55, removed=DISCARDED]
+[15Jun2025 10:00:47.865] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/8287, l='ServerLevel[world]', x=-270.26, y=-1.85, z=-327.74, removed=DISCARDED]
+[15Jun2025 10:00:54.402] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3499, l='ServerLevel[world]', x=-240.69, y=-19.00, z=62.13, removed=DISCARDED]
+[15Jun2025 10:01:02.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Enderman
+[15Jun2025 10:01:02.987] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 10:01:10.591] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2998, l='ServerLevel[world]', x=-208.40, y=-11.78, z=-64.31, removed=DISCARDED]
+[15Jun2025 10:01:10.640] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3003, l='ServerLevel[world]', x=-207.43, y=-11.64, z=-64.69, removed=DISCARDED]
+[15Jun2025 10:01:10.689] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6724, l='ServerLevel[world]', x=-208.08, y=-11.00, z=-64.80, removed=DISCARDED]
+[15Jun2025 10:01:10.839] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3002, l='ServerLevel[world]', x=-207.56, y=-10.47, z=-65.46, removed=DISCARDED]
+[15Jun2025 10:01:10.891] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2997, l='ServerLevel[world]', x=-208.33, y=-11.59, z=-65.35, removed=DISCARDED]
+[15Jun2025 10:01:11.271] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2996, l='ServerLevel[world]', x=-208.32, y=-10.87, z=-67.30, removed=DISCARDED]
+[15Jun2025 10:01:14.043] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/10937, l='ServerLevel[world]', x=-286.27, y=-15.84, z=9.29, removed=DISCARDED]
+[15Jun2025 10:01:14.438] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/10936, l='ServerLevel[world]', x=-287.36, y=-15.82, z=8.54, removed=DISCARDED]
+[15Jun2025 10:01:14.841] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11093, l='ServerLevel[world]', x=-288.60, y=-15.80, z=9.75, removed=DISCARDED]
