@@ -71,6 +71,30 @@
         "discoveredTimestamp": 1749985271881,
         "caughtTimestamp": 1749985271881
       }
+    },
+    "fletchling": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749986814668,
+        "caughtTimestamp": 1749986814668
+      }
+    },
+    "fletchinder": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749986830617,
+        "caughtTimestamp": 1749986830617
+      }
+    },
+    "gyarados": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749986900938,
+        "caughtTimestamp": 1749986900938
+      }
     }
   }
 }

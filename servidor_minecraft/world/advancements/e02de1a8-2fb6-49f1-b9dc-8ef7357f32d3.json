@@ -166,6 +166,7 @@
       "minecraft:vindicator": "2025-06-15 09:52:00 +0000",
       "minecraft:spider": "2025-06-15 10:30:01 +0000",
       "minecraft:creeper": "2025-06-15 10:28:59 +0000",
+      "minecraft:phantom": "2025-06-15 11:23:35 +0000",
       "minecraft:zombie": "2025-06-15 09:47:01 +0000",
       "minecraft:drowned": "2025-06-15 11:17:12 +0000"
     },
@@ -1694,80 +1695,85 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 11:19:03 +0000"
+      "log_spam_fixer": "2025-06-15 11:39:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-15 11:19:04 +0000",
-      "log_spam_fixer": "2025-06-15 11:19:03 +0000"
+      "log_spam_fixer": "2025-06-15 11:39:04 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 11:19:03 +0000"
+      "log_spam_fixer": "2025-06-15 11:39:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 11:19:03 +0000"
+      "log_spam_fixer": "2025-06-15 11:39:04 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 11:19:03 +0000"
+      "log_spam_fixer": "2025-06-15 11:39:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 11:19:03 +0000"
+      "log_spam_fixer": "2025-06-15 11:39:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 11:19:03 +0000"
+      "log_spam_fixer": "2025-06-15 11:39:04 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 11:19:03 +0000"
+      "log_spam_fixer": "2025-06-15 11:39:04 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 11:19:03 +0000"
+      "log_spam_fixer": "2025-06-15 11:39:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 11:19:03 +0000"
+      "log_spam_fixer": "2025-06-15 11:39:04 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 11:19:03 +0000"
+      "log_spam_fixer": "2025-06-15 11:39:04 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 11:19:03 +0000"
+      "log_spam_fixer": "2025-06-15 11:39:04 +0000"
     },
     "done": false
   },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-06-15 09:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-15 11:31:45 +0000"
     },
     "done": true
   },
@@ -2003,6 +2009,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-15 11:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-15 11:36:39 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_ancient_stronghold": {
     "criteria": {
       "ancient_stronghold": "2025-06-15 11:01:05 +0000"
@@ -2204,6 +2222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-15 11:31:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 09:58:18 +0000"
@@ -2349,6 +2373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-15 11:39:38 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:suns_blessing": {
     "criteria": {
       "get_suns_blessing": "2025-06-15 11:16:49 +0000"
@@ -2361,6 +2391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-15 11:33:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 09:58:18 +0000"
@@ -2370,6 +2406,12 @@
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-06-15 09:58:18 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/honeycomb": {
+    "criteria": {
+      "has_honeycomb": "2025-06-15 11:37:33 +0000"
     },
     "done": true
   },
@@ -2421,6 +2463,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-15 11:31:45 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-06-15 11:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-06-15 11:07:28 +0000"
@@ -2449,6 +2503,12 @@
     "criteria": {
       "has_blue_apricorn": "2025-06-15 10:12:32 +0000",
       "has_yellow_apricorn": "2025-06-15 09:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-15 11:36:56 +0000"
     },
     "done": true
   },
@@ -2485,6 +2545,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-06-15 10:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-15 11:37:09 +0000"
     },
     "done": true
   },
@@ -2531,9 +2597,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-15 11:39:38 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/evolution/metal_coat": {
     "criteria": {
       "has_iron": "2025-06-15 09:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-15 11:31:45 +0000"
     },
     "done": true
   },
@@ -2558,6 +2636,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-15 11:02:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-06-15 11:37:09 +0000"
     },
     "done": true
   },
@@ -2709,6 +2793,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 09:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-15 11:31:45 +0000"
     },
     "done": true
   },
@@ -2916,6 +3006,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-15 11:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-06-15 10:08:19 +0000"
@@ -2969,6 +3065,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-06-15 10:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-15 11:37:33 +0000"
     },
     "done": true
   },
@@ -3029,6 +3131,12 @@
   "regions_unexplored:recipes/transportation/socotra_boat": {
     "criteria": {
       "in_water": "2025-06-15 10:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-15 11:39:38 +0000"
     },
     "done": true
   },
@@ -3203,9 +3311,21 @@
     },
     "done": true
   },
+  "backpacked:recipes/misc/backpack": {
+    "criteria": {
+      "has_hide": "2025-06-15 11:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-06-15 11:07:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-06-15 11:37:09 +0000"
     },
     "done": true
   },
@@ -3330,6 +3450,12 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-06-15 11:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-15 11:02:16 +0000"
@@ -3343,6 +3469,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-06-15 11:26:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-06-15 10:01:20 +0000"
@@ -3352,6 +3484,12 @@
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-06-15 10:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-15 11:36:56 +0000"
     },
     "done": true
   },
@@ -3423,6 +3561,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-15 11:39:38 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2025-06-15 10:55:51 +0000"
@@ -3476,6 +3620,12 @@
       "has_black_apricorn": "2025-06-15 10:11:48 +0000",
       "has_yellow_apricorn": "2025-06-15 09:59:42 +0000",
       "has_red_apricorn": "2025-06-15 10:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-15 11:36:39 +0000"
     },
     "done": true
   },
@@ -3554,6 +3704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-15 11:36:56 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-06-15 10:01:20 +0000"
@@ -3590,6 +3746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-15 11:36:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 09:58:18 +0000"
@@ -3623,6 +3785,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-15 10:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-15 11:37:33 +0000"
     },
     "done": true
   },

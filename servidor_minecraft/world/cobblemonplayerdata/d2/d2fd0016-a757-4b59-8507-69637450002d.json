@@ -32,6 +32,30 @@
             "discoveredTimestamp": 1749985271881,
             "caughtTimestamp": 1749985271881
           }
+        },
+        "fletchling": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749986814668,
+            "caughtTimestamp": 1749986814668
+          }
+        },
+        "fletchinder": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749986830616,
+            "caughtTimestamp": 1749986830616
+          }
+        },
+        "gyarados": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749986900937,
+            "caughtTimestamp": 1749986900937
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -42,23 +66,27 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 3,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 4,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 7,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 7,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "grass": 1,
       "psychic": 1,
-      "water": 1
+      "water": 1,
+      "normal": 1,
+      "flying": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,
-      "cobblemon:numel": 1
+      "cobblemon:numel": 1,
+      "cobblemon:pineco": 1,
+      "cobblemon:bunnelby": 1
     },
     "aspectsCollected": {}
   }
