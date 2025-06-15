@@ -15,6 +15,46 @@
         "discoveredTimestamp": 1749980802982,
         "caughtTimestamp": 1749980802982
       }
+    },
+    "stonjourner": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749982457475,
+        "caughtTimestamp": 1749982457475
+      }
+    },
+    "ivysaur": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749982466974,
+        "caughtTimestamp": 1749982466974
+      }
+    },
+    "weedle": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749982641615,
+        "caughtTimestamp": 1749982641615
+      }
+    },
+    "kakuna": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749982687065,
+        "caughtTimestamp": 1749982687065
+      }
+    },
+    "exeggcute": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749983014321,
+        "caughtTimestamp": 1749983014321
+      }
     }
   }
 }

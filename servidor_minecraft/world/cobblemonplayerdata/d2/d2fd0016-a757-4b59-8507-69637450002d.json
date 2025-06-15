@@ -16,6 +16,14 @@
             "discoveredTimestamp": 1749980802981,
             "caughtTimestamp": 1749980802981
           }
+        },
+        "exeggcute": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749983014321,
+            "caughtTimestamp": 1749983014321
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -26,17 +34,22 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 1,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 0,
+    "totalBattleVictoryCount": 2,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 2,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
-    "totalDefeatedCounts": {},
+    "totalTypeCaptureCounts": {
+      "grass": 1,
+      "psychic": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:bidoof": 1
+    },
     "aspectsCollected": {}
   }
 }
