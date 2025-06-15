@@ -1640,3 +1640,16 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [15Jun2025 17:40:44.453] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 14.45136467) to LOW (avg. 17.64387207)
 [15Jun2025 17:46:20.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote fell from a high place
 [15Jun2025 17:46:20.624] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 17:52:15.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Magery]
+[15Jun2025 17:52:39.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Mussolini'/44126, l='ServerLevel[world]', x=-1020.51, y=80.96, z=56.17] died: Mussolini was slain by Spider
+[15Jun2025 17:53:50.703] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.80951976776123) to LOW (avg. 20.30573081970215)
+[15Jun2025 17:54:05.703] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.30573081970215) to VERY_LOW (avg. 12.861433982849121)
+[15Jun2025 17:54:47.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote froze to death
+[15Jun2025 17:54:47.573] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 17:55:36.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved wrongly!
+[15Jun2025 17:56:25.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> hola
+[15Jun2025 17:56:30.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> hello
+[15Jun2025 17:57:38.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> An hello
+[15Jun2025 17:57:39.574] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: Oh, it's you. What do you want? (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[15Jun2025 17:58:25.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> An how are you
+[15Jun2025 17:58:26.561] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: Oh, just wonderful! The rain makes everything so fresh and lovely, don't you think? (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
