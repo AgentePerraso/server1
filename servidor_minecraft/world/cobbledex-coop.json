@@ -55,6 +55,22 @@
         "discoveredTimestamp": 1749983014321,
         "caughtTimestamp": 1749983014321
       }
+    },
+    "beedrill": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749984455014,
+        "caughtTimestamp": 1749984455014
+      }
+    },
+    "magikarp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749985271881,
+        "caughtTimestamp": 1749985271881
+      }
     }
   }
 }

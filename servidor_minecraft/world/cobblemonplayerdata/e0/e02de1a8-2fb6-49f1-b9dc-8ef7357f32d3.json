@@ -48,6 +48,14 @@
             "discoveredTimestamp": 1749982687064,
             "caughtTimestamp": 1749982687064
           }
+        },
+        "beedrill": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749984455014,
+            "caughtTimestamp": 1749984455014
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -60,7 +68,7 @@
   "advancementData": {
     "totalCaptureCount": 2,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
+    "totalEvolvedCount": 3,
     "totalBattleVictoryCount": 3,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 3,
