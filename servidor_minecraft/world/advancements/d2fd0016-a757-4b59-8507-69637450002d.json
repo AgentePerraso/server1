@@ -2178,6 +2178,7 @@
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_shuca_berry": "2025-06-15 17:35:32 +0000",
+      "obtain_chesto_berry": "2025-06-15 18:15:36 +0000",
       "obtain_persim_berry": "2025-06-15 14:05:19 +0000",
       "obtain_oran_berry": "2025-06-15 17:20:10 +0000",
       "obtain_tanga_berry": "2025-06-15 10:14:18 +0000",
@@ -5503,9 +5504,10 @@
   },
   "cobblemon:recipes/consumables/gentle_mint": {
     "criteria": {
+      "has_benefit_mint": "2025-06-15 18:15:39 +0000",
       "has_detriment_mint": "2025-06-15 14:03:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/consumables/impish_mint": {
     "criteria": {
@@ -5523,6 +5525,7 @@
     "criteria": {
       "obtain_green_mint_leaf": "2025-06-15 14:15:18 +0000",
       "obtain_white_mint_leaf": "2025-06-15 17:19:57 +0000",
+      "obtain_pink_mint_leaf": "2025-06-15 18:15:39 +0000",
       "obtain_blue_mint_leaf": "2025-06-15 14:03:35 +0000"
     },
     "done": false
@@ -5548,9 +5551,10 @@
   },
   "cobblemon:recipes/consumables/lax_mint": {
     "criteria": {
-      "has_benefit_mint": "2025-06-15 14:03:35 +0000"
+      "has_benefit_mint": "2025-06-15 14:03:35 +0000",
+      "has_detriment_mint": "2025-06-15 18:15:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/consumables/relaxed_mint": {
     "criteria": {
@@ -5603,9 +5607,10 @@
   },
   "cobblemon:recipes/consumables/naive_mint": {
     "criteria": {
-      "has_benefit_mint": "2025-06-15 14:15:18 +0000"
+      "has_benefit_mint": "2025-06-15 14:15:18 +0000",
+      "has_detriment_mint": "2025-06-15 18:15:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/held/power_anklet": {
     "criteria": {
@@ -5621,9 +5626,10 @@
   },
   "cobblemon:recipes/consumables/sassy_mint": {
     "criteria": {
+      "has_benefit_mint": "2025-06-15 18:15:39 +0000",
       "has_detriment_mint": "2025-06-15 14:15:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/consumables/quiet_mint": {
     "criteria": {
@@ -6089,73 +6095,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 18:14:34 +0000"
+      "log_spam_fixer": "2025-06-15 18:24:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 18:14:34 +0000"
+      "log_spam_fixer": "2025-06-15 18:24:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 18:14:34 +0000"
+      "log_spam_fixer": "2025-06-15 18:24:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 18:14:34 +0000"
+      "log_spam_fixer": "2025-06-15 18:24:35 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 18:14:34 +0000"
+      "log_spam_fixer": "2025-06-15 18:24:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 18:14:34 +0000"
+      "log_spam_fixer": "2025-06-15 18:24:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 18:14:34 +0000"
+      "log_spam_fixer": "2025-06-15 18:24:35 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 18:14:34 +0000"
+      "log_spam_fixer": "2025-06-15 18:24:35 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 18:14:34 +0000"
+      "log_spam_fixer": "2025-06-15 18:24:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 18:14:34 +0000"
+      "log_spam_fixer": "2025-06-15 18:24:35 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 18:14:34 +0000"
+      "log_spam_fixer": "2025-06-15 18:24:35 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 18:14:34 +0000"
+      "log_spam_fixer": "2025-06-15 18:24:35 +0000"
     },
     "done": false
   },
@@ -6168,6 +6174,12 @@
   "mca:recipes/decorations/purple_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-15 17:17:48 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/power_band": {
+    "criteria": {
+      "has_mint": "2025-06-15 18:15:39 +0000"
     },
     "done": true
   },
@@ -6286,6 +6298,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/calm_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-15 18:15:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-15 17:49:17 +0000"
@@ -6369,6 +6387,12 @@
       "has_logs": "2025-06-15 17:17:20 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/consumables/careful_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-15 18:15:39 +0000"
+    },
+    "done": false
   },
   "irons_spellbooks:irons_spellbooks/spell_book_iron": {
     "criteria": {
@@ -6507,6 +6531,12 @@
       "has_golden_horse_armor": "2025-06-15 18:13:32 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/consumables/rash_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-06-15 18:15:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
@@ -6657,6 +6687,12 @@
       "has_sugar_cane": "2025-06-15 17:29:46 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/consumables/naughty_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-06-15 18:15:39 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {

@@ -1745,3 +1745,20 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [15Jun2025 18:16:50.703] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.893447875976562) to VERY_LOW (avg. 19.962268829345703)
 [15Jun2025 18:18:35.703] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.595884323120117) to LOW (avg. 20.611534118652344)
 [15Jun2025 18:18:43.344] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.611534118652344) to VERY_LOW (avg. 19.88762855529785)
+[15Jun2025 18:19:05.713] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.854793548583984) to LOW (avg. 25.91401481628418)
+[15Jun2025 18:19:28.203] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.424373626708984) to VERY_LOW (avg. 14.160240173339844)
+[15Jun2025 18:19:50.858] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.642011642456055) to LOW (avg. 31.693937301635742)
+[15Jun2025 18:20:13.203] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.843280792236328) to VERY_LOW (avg. 19.086986541748047)
+[15Jun2025 18:20:20.704] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.086986541748047) to LOW (avg. 23.09149932861328)
+[15Jun2025 18:20:43.203] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 35.63867950439453) to VERY_LOW (avg. 11.54269790649414)
+[15Jun2025 18:20:58.203] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.54269790649414) to LOW (avg. 21.02172088623047)
+[15Jun2025 18:21:01.056] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/88485, l='ServerLevel[world]', x=-845.50, y=43.00, z=456.50]
+[15Jun2025 18:21:04.977] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/88223, l='ServerLevel[world]', x=-864.40, y=-26.73, z=395.30, removed=DISCARDED]
+[15Jun2025 18:21:05.295] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/88222, l='ServerLevel[world]', x=-864.69, y=-26.52, z=394.28, removed=DISCARDED]
+[15Jun2025 18:21:05.703] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.02172088623047) to VERY_LOW (avg. 17.14196014404297)
+[15Jun2025 18:21:05.797] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/88224, l='ServerLevel[world]', x=-864.65, y=-26.61, z=391.53, removed=DISCARDED]
+[15Jun2025 18:22:14.406] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/90990, l='ServerLevel[world]', x=-870.50, y=52.00, z=123.50]
+[15Jun2025 18:22:44.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Drowned
+[15Jun2025 18:22:44.840] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 18:28:13.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote hit the ground too hard
+[15Jun2025 18:28:13.428] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
