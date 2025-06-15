@@ -1639,3 +1639,11 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [15Jun2025 13:42:22.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Alex's Caves]
 [15Jun2025 13:42:29.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [It Belongs in a Museum]
 [15Jun2025 13:43:39.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Cobweb Entanglement]
+[15Jun2025 13:45:09.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Creeper
+[15Jun2025 13:45:09.847] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 13:45:15.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set the time to 1000]
+[15Jun2025 13:49:36.624] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/15177, l='ServerLevel[world]', x=-1011.30, y=59.55, z=64.18] died: Angry Creeper suffocated in a wall
+[15Jun2025 13:51:20.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Creeper
+[15Jun2025 13:51:20.790] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 13:51:35.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Teleported AgentePerrote to -1027.500000, 98.000000, 57.500000]
+[15Jun2025 13:52:40.669] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 200.7 μs. 264/264 recipes are parallelized.
