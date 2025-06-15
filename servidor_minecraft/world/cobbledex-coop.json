@@ -230,6 +230,14 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749998158109
       }
+    },
+    "mudsdale": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749998439811,
+        "caughtTimestamp": 1749998439811
+      }
     }
   }
 }

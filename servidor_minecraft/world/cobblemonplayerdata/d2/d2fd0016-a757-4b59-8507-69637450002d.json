@@ -191,6 +191,14 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749998158107
           }
+        },
+        "mudsdale": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749998439811,
+            "caughtTimestamp": 1749998439811
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -203,10 +211,10 @@
   "advancementData": {
     "totalCaptureCount": 4,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 45,
+    "totalEvolvedCount": 4,
+    "totalBattleVictoryCount": 48,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 45,
+    "totalPvWBattleVictoryCount": 48,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -232,13 +240,14 @@
       "cobblemon:tauros": 2,
       "cobblemon:furret": 1,
       "cobblemon:combee": 2,
-      "cobblemon:bouffalant": 1,
+      "cobblemon:bouffalant": 2,
       "cobblemon:zigzagoon": 2,
       "cobblemon:lickitung": 1,
       "cobblemon:ponyta": 1,
       "cobblemon:flaaffy": 1,
       "cobblemon:stonjourner": 1,
-      "cobblemon:diggersby": 1
+      "cobblemon:diggersby": 2,
+      "cobblemon:cottonee": 1
     },
     "aspectsCollected": {}
   }
