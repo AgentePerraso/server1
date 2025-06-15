@@ -1635,3 +1635,8 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [15Jun2025 17:32:54.279] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [15Jun2025 17:38:14.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set own game mode to Creative Mode]
 [15Jun2025 17:38:16.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set own game mode to Survival Mode]
+[15Jun2025 17:39:50.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was doomed to fall by Creeper
+[15Jun2025 17:39:50.473] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 17:40:44.453] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 14.45136467) to LOW (avg. 17.64387207)
+[15Jun2025 17:46:20.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote fell from a high place
+[15Jun2025 17:46:20.624] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
