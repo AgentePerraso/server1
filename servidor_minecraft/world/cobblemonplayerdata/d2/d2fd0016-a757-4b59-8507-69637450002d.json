@@ -37,9 +37,9 @@
     "totalCaptureCount": 1,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 2,
+    "totalBattleVictoryCount": 3,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 3,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -48,7 +48,8 @@
       "psychic": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:bidoof": 1
+      "cobblemon:bidoof": 1,
+      "cobblemon:numel": 1
     },
     "aspectsCollected": {}
   }

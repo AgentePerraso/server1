@@ -161,6 +161,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:vindicator": "2025-06-15 09:52:00 +0000",
+      "minecraft:spider": "2025-06-15 10:30:01 +0000",
       "minecraft:creeper": "2025-06-15 10:28:59 +0000",
       "minecraft:zombie": "2025-06-15 09:47:01 +0000"
     },
@@ -1520,6 +1521,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lukewarm_ocean": "2025-06-15 10:38:48 +0000",
       "minecraft:river": "2025-06-15 10:01:27 +0000",
       "minecraft:stony_shore": "2025-06-15 09:53:36 +0000"
     },
@@ -1683,74 +1685,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 10:28:49 +0000"
+      "log_spam_fixer": "2025-06-15 10:38:50 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-15 10:28:55 +0000",
-      "log_spam_fixer": "2025-06-15 10:28:49 +0000"
+      "log_spam_fixer": "2025-06-15 10:38:50 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 10:28:49 +0000"
+      "log_spam_fixer": "2025-06-15 10:38:50 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 10:28:49 +0000"
+      "log_spam_fixer": "2025-06-15 10:38:50 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 10:28:49 +0000"
+      "log_spam_fixer": "2025-06-15 10:38:50 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 10:28:49 +0000"
+      "log_spam_fixer": "2025-06-15 10:38:50 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 10:28:49 +0000"
+      "log_spam_fixer": "2025-06-15 10:38:50 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 10:28:49 +0000"
+      "log_spam_fixer": "2025-06-15 10:38:50 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 10:28:49 +0000"
+      "log_spam_fixer": "2025-06-15 10:38:50 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 10:28:49 +0000"
+      "log_spam_fixer": "2025-06-15 10:38:50 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 10:28:49 +0000"
+      "log_spam_fixer": "2025-06-15 10:38:50 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 10:28:49 +0000"
+      "log_spam_fixer": "2025-06-15 10:38:50 +0000"
     },
     "done": false
   },
@@ -1886,6 +1887,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-06-15 10:08:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-06-15 10:36:40 +0000"
     },
     "done": true
   },
@@ -2539,6 +2546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-06-15 10:31:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 09:58:18 +0000"
@@ -2801,6 +2814,12 @@
   "regions_unexplored:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-06-15 10:01:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 10:30:05 +0000"
     },
     "done": true
   },
@@ -3105,6 +3124,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 09:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-06-15 10:31:51 +0000"
     },
     "done": true
   },
