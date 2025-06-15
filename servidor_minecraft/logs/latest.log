@@ -1653,3 +1653,42 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [15Jun2025 17:57:39.574] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: Oh, it's you. What do you want? (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
 [15Jun2025 17:58:25.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> An how are you
 [15Jun2025 17:58:26.561] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: Oh, just wonderful! The rain makes everything so fresh and lovely, don't you think? (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[15Jun2025 17:59:14.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> hola
+[15Jun2025 17:59:14.437] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, remove-armor, try-go-home]
+[15Jun2025 17:59:14.439] [ForkJoinPool.commonPool-worker-4/ERROR] [forge.net.mca.MCA/]: java.net.ConnectException: Connection refused
+[15Jun2025 17:59:16.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> hi
+[15Jun2025 17:59:16.564] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, remove-armor, try-go-home]
+[15Jun2025 17:59:16.565] [ForkJoinPool.commonPool-worker-4/ERROR] [forge.net.mca.MCA/]: java.net.ConnectException: Connection refused
+[15Jun2025 18:00:02.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> hola
+[15Jun2025 18:00:02.883] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, remove-armor, try-go-home]
+[15Jun2025 18:00:05.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> hi
+[15Jun2025 18:00:05.365] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, remove-armor, try-go-home]
+[15Jun2025 18:00:05.930] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: Oh, hello there! What brings you out in this lovely rain? (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[15Jun2025 18:00:10.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> hi
+[15Jun2025 18:00:10.915] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, remove-armor, try-go-home]
+[15Jun2025 18:00:11.482] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: Hello again! Did you need something, or are you just here to chat? (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[15Jun2025 18:01:49.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> An
+[15Jun2025 18:01:49.153] [ForkJoinPool.commonPool-worker-6/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, remove-armor, try-go-home]
+[15Jun2025 18:01:49.901] [ForkJoinPool.commonPool-worker-6/WARN] [forge.net.mca.MCA/]: Error parsing answer: Oh, hello! It's always nice to see a friendly face in this weather. (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[15Jun2025 18:02:09.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> An
+[15Jun2025 18:02:09.917] [ForkJoinPool.commonPool-worker-6/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, remove-armor, try-go-home]
+[15Jun2025 18:02:11.104] [ForkJoinPool.commonPool-worker-6/WARN] [forge.net.mca.MCA/]: Error parsing answer: What is it now? You seem to be calling my name a lot! (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[15Jun2025 18:04:01.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> do u like cats?
+[15Jun2025 18:04:11.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> An
+[15Jun2025 18:04:11.566] [ForkJoinPool.commonPool-worker-7/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, remove-armor, try-go-home]
+[15Jun2025 18:04:13.203] [ForkJoinPool.commonPool-worker-7/WARN] [forge.net.mca.MCA/]: Error parsing answer: Is there something you want to say, or are you just practicing my name? (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[15Jun2025 18:04:25.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> tell a joke
+[15Jun2025 18:04:25.198] [ForkJoinPool.commonPool-worker-7/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, remove-armor, try-go-home]
+[15Jun2025 18:04:26.703] [ForkJoinPool.commonPool-worker-7/WARN] [forge.net.mca.MCA/]: Error parsing answer: Why did the chicken cross the road? To get to the other side, of course! (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[15Jun2025 18:04:34.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> do you like cats=
+[15Jun2025 18:04:34.514] [ForkJoinPool.commonPool-worker-7/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, remove-armor, try-go-home]
+[15Jun2025 18:04:36.086] [ForkJoinPool.commonPool-worker-7/WARN] [forge.net.mca.MCA/]: Error parsing answer: Oh, I adore them! Those fluffy little creatures are so mischievous and delightful! (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[15Jun2025 18:04:45.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> whats ur favorite pokemon?
+[15Jun2025 18:04:45.064] [ForkJoinPool.commonPool-worker-7/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, remove-armor, try-go-home]
+[15Jun2025 18:04:46.736] [ForkJoinPool.commonPool-worker-7/WARN] [forge.net.mca.MCA/]: Error parsing answer: Oh, what's a Pokémon? Is that some kind of creature around here? (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[15Jun2025 18:04:54.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> yeah like chramnader
+[15Jun2025 18:04:54.001] [ForkJoinPool.commonPool-worker-7/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, remove-armor, try-go-home]
+[15Jun2025 18:04:55.377] [ForkJoinPool.commonPool-worker-7/WARN] [forge.net.mca.MCA/]: Error parsing answer: Oh, a fiery dragon-like creature! Sounds quite fearsome! We have plenty of interesting creatures around here too, you know! (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[15Jun2025 18:05:18.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Removed loaded villagers.]
+[15Jun2025 18:06:13.203] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.448898315429688) to LOW (avg. 21.329914093017578)
+[15Jun2025 18:06:20.703] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.329914093017578) to VERY_LOW (avg. 17.202974319458008)
