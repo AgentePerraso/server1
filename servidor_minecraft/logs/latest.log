@@ -1630,3 +1630,8 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [15Jun2025 17:20:53.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved wrongly!
 [15Jun2025 17:20:53.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13075ms or 261 ticks behind
 [15Jun2025 17:20:59.453] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 31.28955066) to VERY_LOW (avg. 11.89426566)
+[15Jun2025 17:31:33.168] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 233.8 μs. 264/264 recipes are parallelized.
+[15Jun2025 17:32:54.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Oinkologne
+[15Jun2025 17:32:54.279] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 17:38:14.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set own game mode to Creative Mode]
+[15Jun2025 17:38:16.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set own game mode to Survival Mode]
