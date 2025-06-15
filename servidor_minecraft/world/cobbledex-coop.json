@@ -167,6 +167,20 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749989213159
       }
+    },
+    "pelipper": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749993748937
+      }
+    },
+    "taillow": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749993759682
+      }
     }
   }
 }
