@@ -1632,3 +1632,10 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [15Jun2025 13:29:41.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Creeper
 [15Jun2025 13:29:41.613] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [15Jun2025 13:32:47.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [The Root of Basic Healing]
+[15Jun2025 13:33:54.233] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: fcdd9167-8259-4286-ba85-0b481f820d4e
+[15Jun2025 13:33:54.233] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: fcdd9167-8259-4286-ba85-0b481f820d4e
+[15Jun2025 13:39:37.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Ancient Knight
+[15Jun2025 13:39:37.049] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[15Jun2025 13:42:22.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Alex's Caves]
+[15Jun2025 13:42:29.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [It Belongs in a Museum]
+[15Jun2025 13:43:39.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Cobweb Entanglement]
