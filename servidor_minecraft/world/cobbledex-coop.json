@@ -146,6 +146,27 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749988686310
       }
+    },
+    "furret": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749989113709
+      }
+    },
+    "whimsicott": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749989153456
+      }
+    },
+    "dubwool": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749989213159
+      }
     }
   }
 }
