@@ -199,6 +199,13 @@
             "discoveredTimestamp": 1749998439811,
             "caughtTimestamp": 1749998439811
           }
+        },
+        "vivillon": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750008227920
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -212,9 +219,9 @@
     "totalCaptureCount": 4,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 48,
+    "totalBattleVictoryCount": 49,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 48,
+    "totalPvWBattleVictoryCount": 49,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -247,7 +254,8 @@
       "cobblemon:flaaffy": 1,
       "cobblemon:stonjourner": 1,
       "cobblemon:diggersby": 2,
-      "cobblemon:cottonee": 1
+      "cobblemon:cottonee": 1,
+      "cobblemon:buneary": 1
     },
     "aspectsCollected": {}
   }

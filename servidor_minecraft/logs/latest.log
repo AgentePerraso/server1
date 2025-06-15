@@ -1627,3 +1627,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [15Jun2025 17:16:14.259] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [15Jun2025 17:17:24.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [There's a Leek in the Boat!]
 [15Jun2025 17:17:47.974] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.721 ms. 4017/4061 recipes are parallelized.
+[15Jun2025 17:20:53.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved wrongly!
+[15Jun2025 17:20:53.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13075ms or 261 ticks behind
+[15Jun2025 17:20:59.453] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 31.28955066) to VERY_LOW (avg. 11.89426566)

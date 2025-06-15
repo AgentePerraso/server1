@@ -238,6 +238,13 @@
         "discoveredTimestamp": 1749998439811,
         "caughtTimestamp": 1749998439811
       }
+    },
+    "vivillon": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750008227923
+      }
     }
   }
 }
