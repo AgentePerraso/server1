@@ -56,6 +56,27 @@
             "discoveredTimestamp": 1749984455014,
             "caughtTimestamp": 1749984455014
           }
+        },
+        "nickit": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749988686309
+          }
+        },
+        "mareep": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749988718657
+          }
+        },
+        "zigzagoon": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749988748857
+          }
         }
       },
       "name": "cobbledex_discovery"
