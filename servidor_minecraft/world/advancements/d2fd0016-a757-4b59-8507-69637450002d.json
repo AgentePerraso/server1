@@ -2170,6 +2170,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_persim_berry": "2025-06-15 14:05:19 +0000",
       "obtain_tanga_berry": "2025-06-15 10:14:18 +0000"
     },
     "done": false
@@ -5264,73 +5265,79 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 14:00:15 +0000"
+      "log_spam_fixer": "2025-06-15 14:10:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 14:00:15 +0000"
+      "log_spam_fixer": "2025-06-15 14:10:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 14:00:15 +0000"
+      "log_spam_fixer": "2025-06-15 14:10:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 14:00:15 +0000"
+      "log_spam_fixer": "2025-06-15 14:10:15 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 14:00:15 +0000"
+      "log_spam_fixer": "2025-06-15 14:10:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 14:00:15 +0000"
+      "log_spam_fixer": "2025-06-15 14:10:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 14:00:15 +0000"
+      "log_spam_fixer": "2025-06-15 14:10:15 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 14:00:15 +0000"
+      "log_spam_fixer": "2025-06-15 14:10:15 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 14:00:15 +0000"
+      "log_spam_fixer": "2025-06-15 14:10:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 14:00:15 +0000"
+      "log_spam_fixer": "2025-06-15 14:10:15 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 14:00:15 +0000"
+      "log_spam_fixer": "2025-06-15 14:10:15 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-15 14:00:15 +0000"
+      "log_spam_fixer": "2025-06-15 14:10:15 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/bold_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-15 14:03:35 +0000"
     },
     "done": false
   },
@@ -5382,6 +5389,30 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/gentle_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-06-15 14:03:35 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/impish_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-15 14:03:35 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:obtain_mint": {
+    "criteria": {
+      "check_inv": "2025-06-15 14:03:35 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_mints": {
+    "criteria": {
+      "obtain_blue_mint_leaf": "2025-06-15 14:03:35 +0000"
+    },
+    "done": false
+  },
   "cobblemon:recipes/agriculture/apricorn_bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-06-15 13:34:55 +0000",
@@ -5412,6 +5443,12 @@
       "has_honey": "2025-06-15 13:54:01 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/consumables/hasty_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-06-15 14:03:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/book": {
     "criteria": {
@@ -5447,6 +5484,12 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-06-15 13:42:29 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/power_belt": {
+    "criteria": {
+      "has_mint": "2025-06-15 14:03:35 +0000"
     },
     "done": true
   },
@@ -5504,6 +5547,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/mild_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-06-15 14:03:35 +0000"
+    },
+    "done": false
+  },
   "cobblemon:recipes/held/spell_tag": {
     "criteria": {
       "has_item": "2025-06-15 13:42:29 +0000"
@@ -5516,9 +5565,21 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/lax_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-15 14:03:35 +0000"
+    },
+    "done": false
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2025-06-15 13:43:39 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/relaxed_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-15 14:03:35 +0000"
     },
     "done": false
   },
@@ -5533,6 +5594,12 @@
       "has_brown_mushroom": "2025-06-15 13:34:55 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/consumables/lonely_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-06-15 14:03:35 +0000"
+    },
+    "done": false
   },
   "cobblemon:obtain_big_root": {
     "criteria": {

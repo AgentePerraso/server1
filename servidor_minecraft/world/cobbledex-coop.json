@@ -188,6 +188,34 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749995638934
       }
+    },
+    "patrat": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749996375091
+      }
+    },
+    "sentret": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749996380640
+      }
+    },
+    "lickitung": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749996665728
+      }
+    },
+    "bouffalant": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749996679082
+      }
     }
   }
 }
