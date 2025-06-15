@@ -216,6 +216,20 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749996679082
       }
+    },
+    "diggersby": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749997044881
+      }
+    },
+    "bunnelby": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749998158109
+      }
     }
   }
 }

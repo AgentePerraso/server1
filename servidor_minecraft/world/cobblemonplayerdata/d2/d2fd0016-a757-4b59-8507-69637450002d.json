@@ -177,6 +177,20 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749996679081
           }
+        },
+        "diggersby": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749997044880
+          }
+        },
+        "bunnelby": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749998158107
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -190,9 +204,9 @@
     "totalCaptureCount": 4,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 36,
+    "totalBattleVictoryCount": 45,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 36,
+    "totalPvWBattleVictoryCount": 45,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -208,11 +222,11 @@
       "cobblemon:bidoof": 1,
       "cobblemon:numel": 1,
       "cobblemon:pineco": 1,
-      "cobblemon:bunnelby": 4,
+      "cobblemon:bunnelby": 5,
       "cobblemon:patrat": 1,
       "cobblemon:sentret": 2,
-      "cobblemon:wooloo": 4,
-      "cobblemon:mareep": 6,
+      "cobblemon:wooloo": 6,
+      "cobblemon:mareep": 8,
       "cobblemon:oinkologne": 2,
       "cobblemon:dubwool": 1,
       "cobblemon:tauros": 2,
@@ -220,7 +234,11 @@
       "cobblemon:combee": 2,
       "cobblemon:bouffalant": 1,
       "cobblemon:zigzagoon": 2,
-      "cobblemon:lickitung": 1
+      "cobblemon:lickitung": 1,
+      "cobblemon:ponyta": 1,
+      "cobblemon:flaaffy": 1,
+      "cobblemon:stonjourner": 1,
+      "cobblemon:diggersby": 1
     },
     "aspectsCollected": {}
   }
