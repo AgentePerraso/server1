@@ -69,9 +69,9 @@
     "totalCaptureCount": 2,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 6,
+    "totalBattleVictoryCount": 8,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 6,
+    "totalPvWBattleVictoryCount": 8,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -84,7 +84,8 @@
       "cobblemon:flabebe": 1,
       "cobblemon:mudbray": 1,
       "cobblemon:bouffalant": 1,
-      "cobblemon:bunnelby": 1
+      "cobblemon:bunnelby": 2,
+      "cobblemon:diggersby": 1
     },
     "aspectsCollected": {}
   }

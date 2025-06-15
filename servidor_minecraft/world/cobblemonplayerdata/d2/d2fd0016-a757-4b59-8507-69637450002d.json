@@ -56,6 +56,22 @@
             "discoveredTimestamp": 1749986900937,
             "caughtTimestamp": 1749986900937
           }
+        },
+        "croconaw": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749988078410,
+            "caughtTimestamp": 1749988078410
+          }
+        },
+        "mudbray": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749988323362,
+            "caughtTimestamp": 1749988323362
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -66,12 +82,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 4,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 7,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 12,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 7,
+    "totalPvWBattleVictoryCount": 12,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -80,13 +96,17 @@
       "psychic": 1,
       "water": 1,
       "normal": 1,
-      "flying": 1
+      "flying": 1,
+      "ground": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,
       "cobblemon:numel": 1,
       "cobblemon:pineco": 1,
-      "cobblemon:bunnelby": 1
+      "cobblemon:bunnelby": 1,
+      "cobblemon:patrat": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:wooloo": 2
     },
     "aspectsCollected": {}
   }

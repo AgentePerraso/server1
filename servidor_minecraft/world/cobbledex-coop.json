@@ -95,6 +95,22 @@
         "discoveredTimestamp": 1749986900938,
         "caughtTimestamp": 1749986900938
       }
+    },
+    "croconaw": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749988078410,
+        "caughtTimestamp": 1749988078410
+      }
+    },
+    "mudbray": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749988323362,
+        "caughtTimestamp": 1749988323362
+      }
     }
   }
 }
