@@ -3,7 +3,7 @@
   "starterPrompted": true,
   "starterLocked": false,
   "starterSelected": true,
-  "starterUUID": "279dbdd4-430a-4cc1-8eef-17d1277d67c9",
+  "starterUUID": "b20ffe36-1d2b-49b5-b0b4-09db5a859930",
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {
@@ -13,8 +13,8 @@
           "normal": {
             "isShiny": false,
             "status": "CAUGHT",
-            "discoveredTimestamp": 1749899797510,
-            "caughtTimestamp": 1749899797510
+            "discoveredTimestamp": 1749980802981,
+            "caughtTimestamp": 1749980802981
           }
         }
       },
