@@ -6807,75 +6807,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:46:30 +0000"
+      "log_spam_fixer": "2025-06-16 10:56:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:46:30 +0000"
+      "log_spam_fixer": "2025-06-16 10:56:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:46:30 +0000"
+      "log_spam_fixer": "2025-06-16 10:56:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:46:30 +0000"
+      "log_spam_fixer": "2025-06-16 10:56:30 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:46:30 +0000"
+      "log_spam_fixer": "2025-06-16 10:56:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:46:30 +0000"
+      "log_spam_fixer": "2025-06-16 10:56:30 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:46:30 +0000"
+      "log_spam_fixer": "2025-06-16 10:56:30 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:46:30 +0000"
+      "log_spam_fixer": "2025-06-16 10:56:30 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:46:30 +0000"
+      "log_spam_fixer": "2025-06-16 10:56:30 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:46:30 +0000"
+      "log_spam_fixer": "2025-06-16 10:56:30 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:46:30 +0000"
+      "log_spam_fixer": "2025-06-16 10:56:30 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:46:30 +0000"
+      "log_spam_fixer": "2025-06-16 10:56:30 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-06-16 10:51:22 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/decorations/orange_lamp_from_dyeing": {
     "criteria": {
@@ -6967,6 +6973,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-16 10:55:30 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/modest_mint": {
     "criteria": {
       "has_benefit_mint": "2025-06-16 09:38:36 +0000"
@@ -6976,6 +6988,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-06-16 10:20:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-06-16 10:50:03 +0000"
     },
     "done": true
   },
@@ -7027,6 +7045,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-06-16 10:49:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_bath": {
     "criteria": {
       "has_orange_dye": "2025-06-16 10:42:59 +0000"
@@ -7036,6 +7060,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-16 10:13:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-16 10:51:22 +0000"
     },
     "done": true
   },
@@ -7054,6 +7084,12 @@
   "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
     "criteria": {
       "has_log": "2025-06-16 10:08:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-06-16 10:51:22 +0000"
     },
     "done": true
   },
@@ -7081,6 +7117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-16 10:55:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_kitchen_storage_cabinet": {
     "criteria": {
       "has_orange_dye": "2025-06-16 10:42:59 +0000"
@@ -7099,6 +7141,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-06-16 10:51:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_orange_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-16 10:42:59 +0000"
@@ -7114,6 +7162,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-06-16 09:25:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-06-16 10:51:22 +0000"
     },
     "done": true
   },
@@ -7177,6 +7231,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-16 10:51:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-16 10:55:30 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/mystic_water": {
     "criteria": {
       "has_water": "2025-06-16 10:43:30 +0000"
@@ -7192,6 +7258,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-06-16 10:38:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-06-16 10:51:22 +0000"
     },
     "done": true
   },
@@ -7216,6 +7288,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-06-16 09:40:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-16 10:51:22 +0000"
     },
     "done": true
   },
@@ -7258,6 +7336,12 @@
   "minecraft:recipes/building_blocks/dye_orange_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-16 10:42:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-16 10:51:22 +0000"
     },
     "done": true
   },
