@@ -85,6 +85,20 @@
             "discoveredTimestamp": 1750065574194,
             "caughtTimestamp": 1750065574194
           }
+        },
+        "lilligant": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750066590079
+          }
+        },
+        "gossifleur": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750066829194
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -98,9 +112,9 @@
     "totalCaptureCount": 3,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 13,
+    "totalBattleVictoryCount": 15,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 13,
+    "totalPvWBattleVictoryCount": 15,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -117,7 +131,9 @@
       "cobblemon:bunnelby": 4,
       "cobblemon:diggersby": 1,
       "cobblemon:combee": 1,
-      "cobblemon:miltank": 1
+      "cobblemon:miltank": 1,
+      "cobblemon:lilligant": 1,
+      "cobblemon:snorunt": 1
     },
     "aspectsCollected": {}
   }

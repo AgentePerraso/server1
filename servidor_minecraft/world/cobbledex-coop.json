@@ -253,6 +253,20 @@
         "discoveredTimestamp": 1750065574195,
         "caughtTimestamp": 1750065574195
       }
+    },
+    "lilligant": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750066590080
+      }
+    },
+    "gossifleur": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750066829194
+      }
     }
   }
 }
