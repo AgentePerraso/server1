@@ -283,6 +283,14 @@
             "discoveredTimestamp": 1750073452343,
             "caughtTimestamp": 1750073452343
           }
+        },
+        "pidgeot": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750075230481,
+            "caughtTimestamp": 1750075230481
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -295,12 +303,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 6,
+    "totalCaptureCount": 7,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 87,
+    "totalBattleVictoryCount": 89,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 87,
+    "totalPvWBattleVictoryCount": 89,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 2,
@@ -308,8 +316,8 @@
       "grass": 2,
       "psychic": 1,
       "water": 1,
-      "normal": 1,
-      "flying": 1,
+      "normal": 2,
+      "flying": 2,
       "ground": 1,
       "fire": 1,
       "steel": 1
@@ -351,7 +359,8 @@
       "cobblemon:cutiefly": 1,
       "cobblemon:krabby": 2,
       "cobblemon:ribombee": 1,
-      "cobblemon:wingull": 1
+      "cobblemon:wingull": 1,
+      "cobblemon:ralts": 1
     },
     "aspectsCollected": {}
   }

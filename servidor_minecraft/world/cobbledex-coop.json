@@ -412,6 +412,14 @@
         "discoveredTimestamp": 1750074317036,
         "caughtTimestamp": 1750074317036
       }
+    },
+    "pidgeot": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750075230482,
+        "caughtTimestamp": 1750075230482
+      }
     }
   }
 }
