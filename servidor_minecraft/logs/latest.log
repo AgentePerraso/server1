@@ -2026,3 +2026,64 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Jun2025 10:30:32.504] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
 [16Jun2025 10:30:48.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * AgentePerrote A shiny Gengar has spawned at -253 46 -10
 [16Jun2025 10:30:48.904] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43689, l='ServerLevel[world]', x=-1826.44, y=-25.46, z=42.56, removed=DISCARDED]
+[16Jun2025 10:31:26.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo went up in flames
+[16Jun2025 10:31:26.056] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 10:31:29.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[16Jun2025 10:32:17.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Hoglin
+[16Jun2025 10:32:17.054] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 10:32:19.530] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:32:26.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.37041473388672) to VERY_LOW (avg. 16.198490142822266)
+[16Jun2025 10:32:38.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved too quickly! 9.748012665432043,2.176759275064242,1.4305758049931114
+[16Jun2025 10:32:41.466] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.198490142822266) to LOW (avg. 34.88631057739258)
+[16Jun2025 10:33:16.299] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:33:48.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.877567291259766) to VERY_LOW (avg. 15.250566482543945)
+[16Jun2025 10:33:57.956] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:33:58.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> zç
+[16Jun2025 10:33:58.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[16Jun2025 10:33:58.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[16Jun2025 10:33:58.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[16Jun2025 10:34:04.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Drowned
+[16Jun2025 10:34:05.001] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 10:34:15.129] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:34:25.728] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:34:26.429] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:34:27.952] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:34:31.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[16Jun2025 10:34:31.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[16Jun2025 10:34:31.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[16Jun2025 10:34:31.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[16Jun2025 10:34:32.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[16Jun2025 10:34:34.331] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:34:39.307] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:34:46.077] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:35:11.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Take Good Care!]
+[16Jun2025 10:35:11.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Take Good Care!]
+[16Jun2025 10:35:22.210] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:36:14.949] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:36:21.849] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:36:25.859] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:36:32.500] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:36:44.996] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:36:46.549] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:36:53.153] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:36:53.652] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:37:26.018] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[16Jun2025 10:37:26.019] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[16Jun2025 10:37:26.368] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[16Jun2025 10:37:26.369] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[16Jun2025 10:37:26.369] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[16Jun2025 10:38:22.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Not even afraid of death]
+[16Jun2025 10:38:22.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Back to childhood]
+[16Jun2025 10:39:10.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was impaled by Drowned
+[16Jun2025 10:39:10.596] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 10:39:12.486] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:39:18.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.045123100280762) to LOW (avg. 22.997446060180664)
+[16Jun2025 10:39:23.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was impaled by Drowned
+[16Jun2025 10:39:23.196] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 10:39:26.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.997446060180664) to VERY_LOW (avg. 19.543811798095703)
+[16Jun2025 10:39:26.714] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:39:41.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.543811798095703) to LOW (avg. 20.325685501098633)
+[16Jun2025 10:40:00.396] [Worker-Main-20/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[16Jun2025 10:40:00.397] [Worker-Main-20/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[16Jun2025 10:40:00.397] [Worker-Main-20/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[16Jun2025 10:40:18.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.39332389831543) to VERY_LOW (avg. 14.110231399536133)

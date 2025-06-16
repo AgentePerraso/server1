@@ -238,6 +238,14 @@
             "discoveredTimestamp": 1750069722799,
             "caughtTimestamp": 1750069722799
           }
+        },
+        "haunter": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750070111639,
+            "caughtTimestamp": 1750070111639
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -256,7 +264,7 @@
     "totalPvWBattleVictoryCount": 70,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 0,
+    "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
       "grass": 1,
       "psychic": 1,
