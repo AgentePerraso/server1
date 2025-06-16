@@ -4160,77 +4160,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/create_magic_scroll": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 08:47:51 +0000"
+      "has_magic_scroll": "2025-06-16 08:44:21 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 08:47:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 08:47:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 08:47:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 08:47:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 08:47:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 08:47:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 08:47:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 08:47:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 08:47:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 08:47:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 08:47:51 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
@@ -4238,15 +4172,33 @@
     },
     "done": true
   },
-  "mca:recipes/misc/blueprint": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_item": "2025-06-16 08:44:54 +0000"
+      "has_golden_helmet": "2025-06-16 08:44:22 +0000"
     },
     "done": true
   },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-06-16 08:44:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-06-16 08:44:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-06-16 08:44:52 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-06-16 08:44:54 +0000"
     },
     "done": true
   },
@@ -4262,21 +4214,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2025-06-16 08:44:22 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-06-16 08:44:54 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-06-16 08:44:51 +0000"
     },
     "done": true
   },
@@ -4304,9 +4244,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_book": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "cave_book": "2025-06-16 08:44:52 +0000"
+      "has_paper": "2025-06-16 08:44:54 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/blunder_policy": {
+    "criteria": {
+      "has_paper": "2025-06-16 08:44:54 +0000"
     },
     "done": true
   },
@@ -4316,23 +4262,77 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_paper": "2025-06-16 08:44:54 +0000"
+      "log_spam_fixer": "2025-06-16 09:06:07 +0000"
     },
-    "done": true
+    "done": false
   },
-  "tombstone:adventure/create_magic_scroll": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "has_magic_scroll": "2025-06-16 08:44:21 +0000"
+      "log_spam_fixer": "2025-06-16 09:06:07 +0000"
     },
-    "done": true
+    "done": false
   },
-  "cobblemon:recipes/held/blunder_policy": {
+  "incendium:technical/on_kill": {
     "criteria": {
-      "has_paper": "2025-06-16 08:44:54 +0000"
+      "log_spam_fixer": "2025-06-16 09:06:07 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 09:06:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 09:06:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 09:06:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 09:06:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 09:06:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 09:06:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 09:06:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 09:06:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-16 09:06:07 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
