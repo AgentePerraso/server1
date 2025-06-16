@@ -2621,3 +2621,38 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Jun2025 17:43:33.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Creeper
 [16Jun2025 17:43:33.997] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [16Jun2025 17:45:25.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4023ms or 80 ticks behind
+[16Jun2025 17:45:31.263] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.077993392944336) to LOW (avg. 27.384765625)
+[16Jun2025 17:45:32.513] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 0.004573939999999999) to LOW (avg. 26.62054867)
+[16Jun2025 17:45:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote burned to death
+[16Jun2025 17:45:45.110] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 17:45:53.763] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.268247604370117) to VERY_LOW (avg. 11.49179744720459)
+[16Jun2025 17:46:09.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2583ms or 51 ticks behind
+[16Jun2025 17:46:12.563] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from LOW (avg. 26.62054867) to VERY_LOW (avg. 9.75617068)
+[16Jun2025 17:46:18.813] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.12818145751953) to LOW (avg. 20.893600463867188)
+[16Jun2025 17:46:20.063] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 9.75617068) to LOW (avg. 18.7220539)
+[16Jun2025 17:46:30.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Zombified Piglin
+[16Jun2025 17:46:30.606] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 17:46:48.813] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.750404357910156) to VERY_LOW (avg. 11.811539649963379)
+[16Jun2025 17:46:53.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
+[16Jun2025 17:47:06.163] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.811539649963379) to LOW (avg. 22.115137100219727)
+[16Jun2025 17:47:13.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote tried to swim in lava to escape Zombified Piglin
+[16Jun2025 17:47:13.351] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 17:47:28.663] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.500568389892578) to VERY_LOW (avg. 13.55468463897705)
+[16Jun2025 17:47:49.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2466ms or 49 ticks behind
+[16Jun2025 17:47:53.642] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.486854553222656) to NORMAL (avg. 40.65260314941406)
+[16Jun2025 17:48:16.113] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.89487838745117) to LOW (avg. 32.43585968017578)
+[16Jun2025 17:48:22.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Sánchez'/47211, l='ServerLevel[world]', x=-235.86, y=44.00, z=-6.00] died: Sánchez was slain by Hoglin
+[16Jun2025 17:48:23.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Zombified Piglin
+[16Jun2025 17:48:23.419] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 17:48:31.113] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.43585968017578) to VERY_LOW (avg. 13.718269348144531)
+[16Jun2025 17:48:46.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[16Jun2025 17:48:48.540] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.718269348144531) to NORMAL (avg. 40.55690002441406)
+[16Jun2025 17:48:56.013] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.55690002441406) to LOW (avg. 20.623119354248047)
+[16Jun2025 17:49:26.013] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.831348419189453) to VERY_LOW (avg. 19.99454116821289)
+[16Jun2025 17:49:48.513] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.841609954833984) to LOW (avg. 20.644229888916016)
+[16Jun2025 17:49:55.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Zombified Piglin
+[16Jun2025 17:49:55.995] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 17:50:11.013] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.930099487304688) to VERY_LOW (avg. 8.764862060546875)
+[16Jun2025 17:50:19.763] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 12.996872) to LOW (avg. 16.64134158)
+[16Jun2025 17:50:26.013] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 8.764862060546875) to LOW (avg. 35.013973236083984)
+[16Jun2025 17:50:33.513] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 35.013973236083984) to VERY_LOW (avg. 16.811208724975586)
