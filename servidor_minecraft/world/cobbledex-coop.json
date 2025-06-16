@@ -267,6 +267,50 @@
         "status": "SEEN",
         "discoveredTimestamp": 1750066829194
       }
+    },
+    "roselia": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750067264852
+      }
+    },
+    "exeggutor": {
+      "alola": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750067287891,
+        "caughtTimestamp": 1750067287891
+      }
+    },
+    "cottonee": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750067287985
+      }
+    },
+    "budew": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750067362453
+      }
+    },
+    "feraligatr": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750067624181,
+        "caughtTimestamp": 1750067624181
+      }
+    },
+    "cutiefly": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750068017029
+      }
     }
   }
 }

@@ -206,6 +206,22 @@
             "status": "SEEN",
             "discoveredTimestamp": 1750008227920
           }
+        },
+        "exeggutor": {
+          "alola": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750067287890,
+            "caughtTimestamp": 1750067287890
+          }
+        },
+        "feraligatr": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750067624180,
+            "caughtTimestamp": 1750067624180
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -218,10 +234,10 @@
   "advancementData": {
     "totalCaptureCount": 4,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 61,
+    "totalEvolvedCount": 6,
+    "totalBattleVictoryCount": 63,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 61,
+    "totalPvWBattleVictoryCount": 63,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -261,7 +277,8 @@
       "cobblemon:elekid": 1,
       "cobblemon:swellow": 1,
       "cobblemon:crabrawler": 1,
-      "cobblemon:lilligant": 1
+      "cobblemon:lilligant": 1,
+      "cobblemon:petilil": 2
     },
     "aspectsCollected": {}
   }

@@ -99,6 +99,34 @@
             "status": "SEEN",
             "discoveredTimestamp": 1750066829194
           }
+        },
+        "roselia": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750067264851
+          }
+        },
+        "cottonee": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750067287985
+          }
+        },
+        "budew": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750067362453
+          }
+        },
+        "cutiefly": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750068017029
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -112,9 +140,9 @@
     "totalCaptureCount": 3,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 15,
+    "totalBattleVictoryCount": 19,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 15,
+    "totalPvWBattleVictoryCount": 19,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -133,7 +161,11 @@
       "cobblemon:combee": 1,
       "cobblemon:miltank": 1,
       "cobblemon:lilligant": 1,
-      "cobblemon:snorunt": 1
+      "cobblemon:snorunt": 1,
+      "cobblemon:krabby": 1,
+      "cobblemon:petilil": 1,
+      "cobblemon:tauros": 1,
+      "cobblemon:cutiefly": 1
     },
     "aspectsCollected": {}
   }
