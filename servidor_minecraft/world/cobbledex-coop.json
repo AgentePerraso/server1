@@ -404,6 +404,14 @@
         "discoveredTimestamp": 1750073452344,
         "caughtTimestamp": 1750073452344
       }
+    },
+    "venusaur": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750074317036,
+        "caughtTimestamp": 1750074317036
+      }
     }
   }
 }

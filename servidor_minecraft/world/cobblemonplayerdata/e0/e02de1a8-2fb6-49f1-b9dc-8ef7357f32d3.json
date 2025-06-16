@@ -189,6 +189,14 @@
             "discoveredTimestamp": 1750070146296,
             "caughtTimestamp": 1750070146296
           }
+        },
+        "venusaur": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750074317035,
+            "caughtTimestamp": 1750074317035
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -201,10 +209,10 @@
   "advancementData": {
     "totalCaptureCount": 5,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 29,
+    "totalEvolvedCount": 7,
+    "totalBattleVictoryCount": 30,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 29,
+    "totalPvWBattleVictoryCount": 30,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 2,
@@ -219,7 +227,7 @@
     "totalDefeatedCounts": {
       "cobblemon:flabebe": 1,
       "cobblemon:mudbray": 1,
-      "cobblemon:bouffalant": 1,
+      "cobblemon:bouffalant": 2,
       "cobblemon:bunnelby": 4,
       "cobblemon:diggersby": 2,
       "cobblemon:combee": 1,
