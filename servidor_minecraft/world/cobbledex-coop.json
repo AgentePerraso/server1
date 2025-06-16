@@ -388,6 +388,22 @@
         "status": "SEEN",
         "discoveredTimestamp": 1750070854428
       }
+    },
+    "ferroseed": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750073428134,
+        "caughtTimestamp": 1750073428134
+      }
+    },
+    "talonflame": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750073452344,
+        "caughtTimestamp": 1750073452344
+      }
     }
   }
 }

@@ -267,48 +267,67 @@
             "status": "SEEN",
             "discoveredTimestamp": 1750071113044
           }
+        },
+        "ferroseed": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750073428131,
+            "caughtTimestamp": 1750073428131
+          }
+        },
+        "talonflame": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750073452343,
+            "caughtTimestamp": 1750073452343
+          }
         }
       },
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
-      "received": [],
+      "received": [
+        "15"
+      ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 6,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 7,
-    "totalBattleVictoryCount": 72,
+    "totalEvolvedCount": 8,
+    "totalBattleVictoryCount": 82,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 72,
+    "totalPvWBattleVictoryCount": 82,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
-      "grass": 1,
+      "grass": 2,
       "psychic": 1,
       "water": 1,
       "normal": 1,
       "flying": 1,
       "ground": 1,
-      "fire": 1
+      "fire": 1,
+      "steel": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,
       "cobblemon:numel": 1,
-      "cobblemon:pineco": 1,
+      "cobblemon:pineco": 2,
       "cobblemon:bunnelby": 7,
       "cobblemon:patrat": 1,
       "cobblemon:sentret": 2,
-      "cobblemon:wooloo": 6,
+      "cobblemon:wooloo": 7,
       "cobblemon:mareep": 11,
       "cobblemon:oinkologne": 2,
       "cobblemon:dubwool": 1,
       "cobblemon:tauros": 2,
       "cobblemon:furret": 1,
-      "cobblemon:combee": 5,
+      "cobblemon:combee": 6,
       "cobblemon:bouffalant": 2,
       "cobblemon:zigzagoon": 2,
       "cobblemon:lickitung": 1,
@@ -316,7 +335,7 @@
       "cobblemon:flaaffy": 2,
       "cobblemon:stonjourner": 1,
       "cobblemon:diggersby": 2,
-      "cobblemon:cottonee": 1,
+      "cobblemon:cottonee": 2,
       "cobblemon:buneary": 1,
       "cobblemon:lickilicky": 1,
       "cobblemon:deerling": 1,
@@ -325,9 +344,11 @@
       "cobblemon:crabrawler": 2,
       "cobblemon:lilligant": 1,
       "cobblemon:petilil": 2,
-      "cobblemon:vivillon": 1,
+      "cobblemon:vivillon": 3,
       "cobblemon:gengar": 1,
-      "cobblemon:butterfree": 1
+      "cobblemon:butterfree": 2,
+      "cobblemon:kingler": 1,
+      "cobblemon:cutiefly": 1
     },
     "aspectsCollected": {}
   }

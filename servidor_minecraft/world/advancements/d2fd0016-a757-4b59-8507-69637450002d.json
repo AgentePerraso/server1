@@ -6807,73 +6807,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:16:30 +0000"
+      "log_spam_fixer": "2025-06-16 11:26:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:16:30 +0000"
+      "log_spam_fixer": "2025-06-16 11:26:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:16:30 +0000"
+      "log_spam_fixer": "2025-06-16 11:26:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:16:30 +0000"
+      "log_spam_fixer": "2025-06-16 11:26:30 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:16:30 +0000"
+      "log_spam_fixer": "2025-06-16 11:26:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:16:30 +0000"
+      "log_spam_fixer": "2025-06-16 11:26:30 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:16:30 +0000"
+      "log_spam_fixer": "2025-06-16 11:26:30 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:16:30 +0000"
+      "log_spam_fixer": "2025-06-16 11:26:30 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:16:30 +0000"
+      "log_spam_fixer": "2025-06-16 11:26:30 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:16:30 +0000"
+      "log_spam_fixer": "2025-06-16 11:26:30 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:16:30 +0000"
+      "log_spam_fixer": "2025-06-16 11:26:30 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 11:16:30 +0000"
+      "log_spam_fixer": "2025-06-16 11:26:30 +0000"
     },
     "done": false
   },
@@ -7270,6 +7270,12 @@
   "cobblemon:recipes/held/damp_rock": {
     "criteria": {
       "has_stone": "2025-06-16 10:43:30 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/spotlight": {
+    "criteria": {
+      "take_selfie": "2025-06-16 11:24:10 +0000"
     },
     "done": true
   },
