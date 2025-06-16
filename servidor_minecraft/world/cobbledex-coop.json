@@ -311,6 +311,20 @@
         "status": "SEEN",
         "discoveredTimestamp": 1750068017029
       }
+    },
+    "comfey": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750068146579
+      }
+    },
+    "bellossom": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750068500031
+      }
     }
   }
 }

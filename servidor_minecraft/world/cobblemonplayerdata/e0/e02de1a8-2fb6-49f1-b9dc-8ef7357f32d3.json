@@ -127,6 +127,20 @@
             "status": "SEEN",
             "discoveredTimestamp": 1750068017029
           }
+        },
+        "comfey": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750068146578
+          }
+        },
+        "bellossom": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750068500030
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -140,9 +154,9 @@
     "totalCaptureCount": 3,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 19,
+    "totalBattleVictoryCount": 20,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 19,
+    "totalPvWBattleVictoryCount": 20,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -163,7 +177,7 @@
       "cobblemon:lilligant": 1,
       "cobblemon:snorunt": 1,
       "cobblemon:krabby": 1,
-      "cobblemon:petilil": 1,
+      "cobblemon:petilil": 2,
       "cobblemon:tauros": 1,
       "cobblemon:cutiefly": 1
     },

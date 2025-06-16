@@ -4583,74 +4583,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 09:56:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-16 09:56:16 +0000",
-      "log_spam_fixer": "2025-06-16 09:56:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 09:56:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 09:56:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 09:56:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 09:56:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 09:56:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 09:56:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 09:56:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 09:56:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 09:56:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 09:56:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
     },
     "done": false
   },
@@ -4666,15 +4665,51 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/egg": {
+    "criteria": {
+      "has_egg": "2025-06-16 10:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-16 10:06:57 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/heal_powder": {
     "criteria": {
       "has_herb": "2025-06-16 09:54:06 +0000"
     },
     "done": true
   },
+  "cobblemon:recipes/held/mystic_water": {
+    "criteria": {
+      "has_water": "2025-06-16 10:03:55 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/damp_rock": {
+    "criteria": {
+      "has_stone": "2025-06-16 10:03:55 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/heat_rock": {
+    "criteria": {
+      "has_stone": "2025-06-16 10:03:55 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/revive": {
     "criteria": {
       "has_herb": "2025-06-16 09:54:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-06-16 10:06:57 +0000"
     },
     "done": true
   },
