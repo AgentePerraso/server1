@@ -230,6 +230,14 @@
             "discoveredTimestamp": 1750069130866,
             "caughtTimestamp": 1750069130866
           }
+        },
+        "skeledirge": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750069722799,
+            "caughtTimestamp": 1750069722799
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -242,10 +250,10 @@
   "advancementData": {
     "totalCaptureCount": 5,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 69,
+    "totalEvolvedCount": 7,
+    "totalBattleVictoryCount": 70,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 69,
+    "totalPvWBattleVictoryCount": 70,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -288,7 +296,8 @@
       "cobblemon:crabrawler": 2,
       "cobblemon:lilligant": 1,
       "cobblemon:petilil": 2,
-      "cobblemon:vivillon": 1
+      "cobblemon:vivillon": 1,
+      "cobblemon:gengar": 1
     },
     "aspectsCollected": {}
   }

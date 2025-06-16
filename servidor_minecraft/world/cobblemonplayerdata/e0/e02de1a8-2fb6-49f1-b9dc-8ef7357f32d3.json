@@ -161,8 +161,9 @@
         "centiskorch": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1750069212406
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750069212406,
+            "caughtTimestamp": 1750069278258
           }
         },
         "sizzlipede": {
@@ -184,10 +185,10 @@
   "advancementData": {
     "totalCaptureCount": 5,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 21,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 22,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 21,
+    "totalPvWBattleVictoryCount": 22,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,

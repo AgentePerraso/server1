@@ -117,6 +117,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "blackwood_taiga": "2025-06-15 09:47:27 +0000",
+      "blackstone_basin": "2025-06-16 10:24:55 +0000",
       "pine_slopes": "2025-06-15 09:44:57 +0000",
       "lupine_plains": "2025-06-15 10:50:48 +0000"
     },
@@ -162,7 +163,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-16 10:27:11 +0000",
       "minecraft:skeleton": "2025-06-15 10:42:36 +0000",
+      "minecraft:ghast": "2025-06-16 10:26:44 +0000",
       "minecraft:vindicator": "2025-06-15 09:52:00 +0000",
       "minecraft:spider": "2025-06-15 10:30:01 +0000",
       "minecraft:creeper": "2025-06-15 10:28:59 +0000",
@@ -1123,6 +1126,7 @@
       "honey_bottle": "2025-06-15 12:04:00 +0000",
       "sweet_berries": "2025-06-15 12:07:32 +0000",
       "cooked_beef": "2025-06-16 09:13:53 +0000",
+      "beef": "2025-06-16 10:23:07 +0000",
       "apple": "2025-06-15 09:49:46 +0000",
       "mutton": "2025-06-15 11:54:57 +0000",
       "golden_apple": "2025-06-15 11:17:20 +0000",
@@ -4585,73 +4589,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
+      "log_spam_fixer": "2025-06-16 10:26:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
+      "requirement": "2025-06-16 10:26:44 +0000",
+      "log_spam_fixer": "2025-06-16 10:26:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
+      "log_spam_fixer": "2025-06-16 10:26:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
+      "log_spam_fixer": "2025-06-16 10:26:24 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
+      "log_spam_fixer": "2025-06-16 10:26:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
+      "log_spam_fixer": "2025-06-16 10:26:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
+      "log_spam_fixer": "2025-06-16 10:26:24 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
+      "log_spam_fixer": "2025-06-16 10:26:24 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
+      "log_spam_fixer": "2025-06-16 10:26:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
+      "log_spam_fixer": "2025-06-16 10:26:24 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
+      "log_spam_fixer": "2025-06-16 10:26:24 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
+      "log_spam_fixer": "2025-06-16 10:26:24 +0000"
     },
     "done": false
   },
@@ -4673,9 +4678,27 @@
     },
     "done": true
   },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "blackstone_basin": "2025-06-16 10:24:55 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
     "criteria": {
       "has_flower": "2025-06-16 09:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-16 10:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-16 10:19:43 +0000"
     },
     "done": true
   },
@@ -4697,9 +4720,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-16 10:26:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-16 10:06:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-06-16 10:21:08 +0000"
     },
     "done": true
   },
@@ -4748,6 +4783,12 @@
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-06-16 10:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-16 10:19:43 +0000"
     },
     "done": true
   },

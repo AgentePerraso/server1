@@ -1956,3 +1956,73 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Jun2025 10:19:44.934] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
 [16Jun2025 10:20:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Take Aim]
 [16Jun2025 10:21:08.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Full House]
+[16Jun2025 10:21:32.858] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from LOW (avg. 26.65572297) to NORMAL (avg. 40.61810521)
+[16Jun2025 10:21:37.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[16Jun2025 10:21:41.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.670528411865234) to HIGH (avg. 51.98551940917969)
+[16Jun2025 10:21:42.675] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
+[16Jun2025 10:21:43.030] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43689, l='ServerLevel[world]', x=-1826.44, y=-25.46, z=42.56, removed=DISCARDED]
+[16Jun2025 10:21:43.030] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from NORMAL (avg. 40.61810521) to VERY_HIGH (avg. 66.25283958)
+[16Jun2025 10:21:48.966] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.98551940917969) to LOW (avg. 39.843902587890625)
+[16Jun2025 10:21:50.370] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jun2025 10:21:50.371] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jun2025 10:21:58.167] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jun2025 10:21:58.168] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jun2025 10:21:58.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved too quickly! 1.465019593711986,1.7287758923075103,-9.788091299525775
+[16Jun2025 10:22:03.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[16Jun2025 10:22:08.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved too quickly! 2.2602137939190925,0.0,-9.810972581221435
+[16Jun2025 10:22:08.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved too quickly! 6.1323849976602105,-1.252203340253729,-7.948434052358413
+[16Jun2025 10:22:13.980] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.428619384765625) to NORMAL (avg. 43.770713806152344)
+[16Jun2025 10:22:16.340] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
+[16Jun2025 10:22:20.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was shot by Skeleton
+[16Jun2025 10:22:20.286] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 10:22:22.152] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:22:34.965] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.20087814331055) to LOW (avg. 37.259910583496094)
+[16Jun2025 10:22:37.513] [Worker-Main-21/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/133777, l='ServerLevel[world]', x=-263.00, y=31.00, z=-220.00] as it would cause deadlock
+[16Jun2025 10:22:42.798] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
+[16Jun2025 10:22:43.212] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43689, l='ServerLevel[world]', x=-1826.44, y=-25.46, z=42.56, removed=DISCARDED]
+[16Jun2025 10:22:54.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Abductor
+[16Jun2025 10:22:54.047] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 10:22:55.544] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:22:57.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> que
+[16Jun2025 10:23:11.759] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
+[16Jun2025 10:23:12.258] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43689, l='ServerLevel[world]', x=-1826.44, y=-25.46, z=42.56, removed=DISCARDED]
+[16Jun2025 10:23:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Gastly
+[16Jun2025 10:23:12.363] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 10:23:15.220] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:23:34.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved too quickly! 1.8986732111711717,1.881281543314671,-9.753629403504842
+[16Jun2025 10:23:47.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> ije
+[16Jun2025 10:23:50.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> ai un negro raro
+[16Jun2025 10:24:02.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> `con tentaculos
+[16Jun2025 10:24:30.905] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:24:35.823] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/139286, l='ServerLevel[world]', x=-337.00, y=31.00, z=-250.00] as it would cause deadlock
+[16Jun2025 10:24:49.854] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:24:59.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Gastly
+[16Jun2025 10:24:59.310] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 10:25:08.278] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:25:12.465] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.10330581665039) to VERY_LOW (avg. 13.684556007385254)
+[16Jun2025 10:25:28.284] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.684556007385254) to LOW (avg. 33.14719009399414)
+[16Jun2025 10:26:49.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was doomed to fall
+[16Jun2025 10:26:49.289] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 10:27:03.402] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:27:07.353] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:27:11.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Voluntary Exile]
+[16Jun2025 10:27:12.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Wingull
+[16Jun2025 10:27:12.545] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 10:28:34.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was shot by Zombified Piglin
+[16Jun2025 10:28:34.125] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 10:28:37.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[16Jun2025 10:28:38.211] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:28:38.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Gastly
+[16Jun2025 10:28:38.552] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 10:28:51.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Krabby
+[16Jun2025 10:28:51.285] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 10:28:52.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.546783447265625) to VERY_LOW (avg. 12.155240058898926)
+[16Jun2025 10:29:14.587] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.347962379455566) to LOW (avg. 25.807537078857422)
+[16Jun2025 10:30:17.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was shot by Zombified Piglin
+[16Jun2025 10:30:17.503] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 10:30:20.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved too quickly! -7.777252654446215,2.5047991229940862,-6.036607024865063
+[16Jun2025 10:30:21.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16Jun2025 10:30:21.662] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:30:32.504] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
+[16Jun2025 10:30:48.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * AgentePerrote A shiny Gengar has spawned at -253 46 -10
+[16Jun2025 10:30:48.904] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43689, l='ServerLevel[world]', x=-1826.44, y=-25.46, z=42.56, removed=DISCARDED]

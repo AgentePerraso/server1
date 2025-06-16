@@ -353,8 +353,9 @@
     "centiskorch": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1750069212406
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750069212406,
+        "caughtTimestamp": 1750069278259
       }
     },
     "sizzlipede": {
@@ -363,6 +364,14 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750069268406,
         "caughtTimestamp": 1750069268406
+      }
+    },
+    "skeledirge": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750069722799,
+        "caughtTimestamp": 1750069722799
       }
     }
   }
