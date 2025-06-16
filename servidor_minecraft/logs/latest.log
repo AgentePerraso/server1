@@ -2606,3 +2606,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Jun2025 16:23:21.576] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.623 ms. 4649/4695 recipes are parallelized.
 [16Jun2025 16:30:32.722] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/8175, l='ServerLevel[world]', x=-1856.05, y=50.01, z=260.67] died: Angry Creeper was slain by Creeper
 [16Jun2025 16:37:38.978] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 194.0 μs. 280/280 recipes are parallelized.
+[16Jun2025 17:01:01.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[16Jun2025 17:01:01.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
