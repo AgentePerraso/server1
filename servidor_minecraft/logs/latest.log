@@ -1668,3 +1668,13 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Jun2025 09:20:16.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:56929] logged in with entity id 9952 at (-1028.2589462181393, 94.5625, 54.32313745052027)
 [16Jun2025 09:20:16.390] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
 [16Jun2025 09:20:16.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[16Jun2025 09:23:24.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Odd Looking Rocks]
+[16Jun2025 09:27:55.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.04951000213623) to LOW (avg. 21.818387985229492)
+[16Jun2025 09:28:03.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.818387985229492) to VERY_LOW (avg. 13.651834487915039)
+[16Jun2025 09:28:18.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> ola
+[16Jun2025 09:28:25.589] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.644031524658203) to LOW (avg. 21.63738250732422)
+[16Jun2025 09:28:37.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Once Upon a Cave]
+[16Jun2025 09:28:40.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.63738250732422) to VERY_LOW (avg. 14.497652053833008)
+[16Jun2025 09:29:55.185] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/20147, l='ServerLevel[world]', x=-1546.73, y=36.54, z=263.46, removed=DISCARDED]
+[16Jun2025 09:29:55.232] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/20147, l='ServerLevel[world]', x=-1546.73, y=36.54, z=263.46, removed=DISCARDED]
+[16Jun2025 09:30:03.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.674686431884766) to LOW (avg. 20.70964813232422)
