@@ -246,6 +246,13 @@
             "discoveredTimestamp": 1750070111639,
             "caughtTimestamp": 1750070111639
           }
+        },
+        "wigglytuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750070854428
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -259,9 +266,9 @@
     "totalCaptureCount": 5,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 7,
-    "totalBattleVictoryCount": 70,
+    "totalBattleVictoryCount": 71,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 70,
+    "totalPvWBattleVictoryCount": 71,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 2,
@@ -305,7 +312,8 @@
       "cobblemon:lilligant": 1,
       "cobblemon:petilil": 2,
       "cobblemon:vivillon": 1,
-      "cobblemon:gengar": 1
+      "cobblemon:gengar": 1,
+      "cobblemon:butterfree": 1
     },
     "aspectsCollected": {}
   }

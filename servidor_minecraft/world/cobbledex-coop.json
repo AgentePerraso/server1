@@ -381,6 +381,13 @@
         "discoveredTimestamp": 1750070146297,
         "caughtTimestamp": 1750070146297
       }
+    },
+    "wigglytuff": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750070854428
+      }
     }
   }
 }
