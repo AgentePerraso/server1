@@ -1005,6 +1005,7 @@
       "fungal_jungle": "2025-06-15 09:55:09 +0000",
       "jade_cliffs": "2025-06-15 10:33:35 +0000",
       "clover_patch": "2025-06-15 10:48:51 +0000",
+      "old_growth_woodland": "2025-06-16 10:11:04 +0000",
       "lavender_forest": "2025-06-16 09:42:32 +0000",
       "mediterranean_forest": "2025-06-16 09:31:01 +0000",
       "dune_beach": "2025-06-16 09:47:45 +0000",
@@ -6799,75 +6800,93 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:06:07 +0000"
+      "log_spam_fixer": "2025-06-16 10:16:20 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-16 10:14:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-06-16 10:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-16 10:10:34 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
@@ -6887,6 +6906,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-16 10:10:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-16 10:10:34 +0000"
+    },
+    "done": true
+  },
   "vanillacookbook:recipes/potato": {
     "criteria": {
       "has_potato": "2025-06-16 09:25:25 +0000"
@@ -6896,6 +6927,30 @@
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-06-16 09:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-16 10:13:03 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-16 10:10:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-06-16 10:08:00 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/flowers": {
+    "criteria": {
+      "has_dandelion": "2025-06-16 10:10:32 +0000"
     },
     "done": true
   },
@@ -6917,15 +6972,39 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-16 10:14:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-06-16 09:25:25 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-06-16 10:08:00 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2025-06-16 09:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-16 10:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-16 10:14:21 +0000"
     },
     "done": true
   },

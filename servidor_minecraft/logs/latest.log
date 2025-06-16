@@ -1910,3 +1910,49 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Jun2025 10:10:20.699] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
 [16Jun2025 10:10:55.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.899797439575195) to LOW (avg. 20.719863891601562)
 [16Jun2025 10:10:58.046] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:11:06.897] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/24810, l='ServerLevel[world]', x=-1775.24, y=24.00, z=311.30, removed=DISCARDED]
+[16Jun2025 10:11:18.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.806739807128906) to VERY_LOW (avg. 15.349335670471191)
+[16Jun2025 10:11:41.109] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:11:45.457] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:11:50.726] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:11:58.950] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:12:00.612] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:12:01.400] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:12:03.513] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:12:22.280] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:13:35.650] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
+[16Jun2025 10:13:35.656] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
+[16Jun2025 10:13:35.985] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43689, l='ServerLevel[world]', x=-1826.44, y=-25.46, z=42.56, removed=DISCARDED]
+[16Jun2025 10:13:35.998] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43689, l='ServerLevel[world]', x=-1826.44, y=-25.46, z=42.56, removed=DISCARDED]
+[16Jun2025 10:13:40.346] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
+[16Jun2025 10:13:40.361] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
+[16Jun2025 10:13:43.798] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
+[16Jun2025 10:13:43.814] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
+[16Jun2025 10:13:49.598] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
+[16Jun2025 10:13:49.609] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43691, l='ServerLevel[world]', x=-1829.56, y=-26.86, z=44.74, removed=DISCARDED]
+[16Jun2025 10:13:50.198] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43689, l='ServerLevel[world]', x=-1826.44, y=-25.46, z=42.56, removed=DISCARDED]
+[16Jun2025 10:13:50.210] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/43689, l='ServerLevel[world]', x=-1826.44, y=-25.46, z=42.56, removed=DISCARDED]
+[16Jun2025 10:14:12.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Incendium]
+[16Jun2025 10:14:12.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [We Need to Go Deeper]
+[16Jun2025 10:14:15.425] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/124740, l='ServerLevel[world]', x=-267.00, y=31.00, z=-7.00] as it would cause deadlock
+[16Jun2025 10:14:17.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10456ms or 209 ticks behind
+[16Jun2025 10:14:21.035] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.28579330444336) to LOW (avg. 36.7982177734375)
+[16Jun2025 10:14:21.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Incendium]
+[16Jun2025 10:14:21.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [We Need to Go Deeper]
+[16Jun2025 10:14:22.265] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 50.407997380000005) to LOW (avg. 26.01198002)
+[16Jun2025 10:14:24.074] [Worker-Main-21/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/124934, l='ServerLevel[world]', x=-334.00, y=31.00, z=24.00] as it would cause deadlock
+[16Jun2025 10:14:26.382] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/124993, l='ServerLevel[world]', x=-337.00, y=31.00, z=11.00] as it would cause deadlock
+[16Jun2025 10:14:29.799] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 4.90622554) to LOW (avg. 21.3869907)
+[16Jun2025 10:14:33.190] [Worker-Main-21/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/125029, l='ServerLevel[world]', x=-259.00, y=31.00, z=147.00] as it would cause deadlock
+[16Jun2025 10:15:24.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Camerupt
+[16Jun2025 10:15:24.252] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 10:15:26.912] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:15:46.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[16Jun2025 10:18:57.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote starved to death
+[16Jun2025 10:18:57.106] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 10:19:00.008] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:19:03.261] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/29944, l='ServerLevel[world]', x=-1875.58, y=64.00, z=310.01, removed=DISCARDED]
+[16Jun2025 10:19:44.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Sizzlipede
+[16Jun2025 10:19:44.934] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 10:20:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Take Aim]
+[16Jun2025 10:21:08.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Full House]

@@ -222,6 +222,14 @@
             "discoveredTimestamp": 1750067624180,
             "caughtTimestamp": 1750067624180
           }
+        },
+        "crocalor": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750069130866,
+            "caughtTimestamp": 1750069130866
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -232,12 +240,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 4,
+    "totalCaptureCount": 5,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 67,
+    "totalBattleVictoryCount": 69,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 67,
+    "totalPvWBattleVictoryCount": 69,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -247,7 +255,8 @@
       "water": 1,
       "normal": 1,
       "flying": 1,
-      "ground": 1
+      "ground": 1,
+      "fire": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,
@@ -262,7 +271,7 @@
       "cobblemon:dubwool": 1,
       "cobblemon:tauros": 2,
       "cobblemon:furret": 1,
-      "cobblemon:combee": 4,
+      "cobblemon:combee": 5,
       "cobblemon:bouffalant": 2,
       "cobblemon:zigzagoon": 2,
       "cobblemon:lickitung": 1,

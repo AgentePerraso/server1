@@ -325,6 +325,45 @@
         "status": "SEEN",
         "discoveredTimestamp": 1750068500031
       }
+    },
+    "gastly": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750068915699,
+        "caughtTimestamp": 1750068915699
+      }
+    },
+    "haunter": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750069089642,
+        "caughtTimestamp": 1750069089642
+      }
+    },
+    "crocalor": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750069130867,
+        "caughtTimestamp": 1750069130867
+      }
+    },
+    "centiskorch": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750069212406
+      }
+    },
+    "sizzlipede": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750069268406,
+        "caughtTimestamp": 1750069268406
+      }
     }
   }
 }
