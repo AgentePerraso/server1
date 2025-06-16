@@ -2599,3 +2599,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Jun2025 16:12:03.673] [Server thread/INFO] [com.peeko32213.unusualprehistory.common.data.AnalyzerRecipeJsonManager/]: Registered 17 jsons with items!
 [16Jun2025 16:12:03.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3693ms or 73 ticks behind
 [16Jun2025 16:12:06.013] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 29.00496166) to VERY_LOW (avg. 10.156152050000001)
+[16Jun2025 16:15:31.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Goat Man
+[16Jun2025 16:15:31.880] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 16:22:36.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Krabby
+[16Jun2025 16:22:36.645] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 16:23:21.576] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.623 ms. 4649/4695 recipes are parallelized.
