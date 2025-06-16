@@ -1629,3 +1629,16 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Jun2025 08:35:50.584] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
 [16Jun2025 08:38:59.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo tried to swim in lava to escape Zombie
 [16Jun2025 08:38:59.638] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 08:42:52.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Drowned
+[16Jun2025 08:42:52.826] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 08:44:21.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Magic Writing]
+[16Jun2025 08:44:27.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Alex's Caves]
+[16Jun2025 08:44:51.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [It Belongs in a Museum]
+[16Jun2025 08:44:52.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Once Upon a Cave]
+[16Jun2025 08:44:58.608] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.238090515136719) to LOW (avg. 22.138023376464844)
+[16Jun2025 08:45:13.608] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.138023376464844) to VERY_LOW (avg. 11.247032165527344)
+[16Jun2025 08:45:45.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [A little cleaning is necessary]
+[16Jun2025 08:46:08.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Drowned
+[16Jun2025 08:46:08.842] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 08:51:11.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Swellow
+[16Jun2025 08:51:11.493] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
