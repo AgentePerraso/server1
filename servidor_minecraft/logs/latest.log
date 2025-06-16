@@ -1649,3 +1649,22 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Jun2025 09:09:16.697] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
 [16Jun2025 09:09:18.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.793270111083984) to LOW (avg. 21.10056495666504)
 [16Jun2025 09:09:33.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.10056495666504) to VERY_LOW (avg. 15.593035697937012)
+[16Jun2025 09:10:09.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Krabby
+[16Jun2025 09:10:09.898] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 09:10:49.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote fell from a high place
+[16Jun2025 09:10:49.804] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 09:14:25.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
+[16Jun2025 09:14:25.051] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 09:14:25.081] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Jun2025 09:14:25.081] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[16Jun2025 09:14:25.082] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[16Jun2025 09:14:25.082] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[16Jun2025 09:14:25.082] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[16Jun2025 09:16:13.333] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 632.4 μs. 264/264 recipes are parallelized.
+[16Jun2025 09:16:26.459] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.508 ms. 4017/4061 recipes are parallelized.
+[16Jun2025 09:20:11.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[16Jun2025 09:20:11.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
+[16Jun2025 09:20:14.154] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[16Jun2025 09:20:16.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:56929] logged in with entity id 9952 at (-1028.2589462181393, 94.5625, 54.32313745052027)
+[16Jun2025 09:20:16.390] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[16Jun2025 09:20:16.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game

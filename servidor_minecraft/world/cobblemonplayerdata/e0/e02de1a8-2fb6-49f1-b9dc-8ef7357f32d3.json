@@ -77,6 +77,14 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749988748857
           }
+        },
+        "wimpod": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750065574194,
+            "caughtTimestamp": 1750065574194
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -87,25 +95,26 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 3,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 11,
+    "totalBattleVictoryCount": 13,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 11,
+    "totalPvWBattleVictoryCount": 13,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "rock": 1,
-      "bug": 1,
-      "poison": 1
+      "bug": 2,
+      "poison": 1,
+      "water": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:flabebe": 1,
       "cobblemon:mudbray": 1,
       "cobblemon:bouffalant": 1,
-      "cobblemon:bunnelby": 3,
+      "cobblemon:bunnelby": 4,
       "cobblemon:diggersby": 1,
       "cobblemon:combee": 1,
       "cobblemon:miltank": 1

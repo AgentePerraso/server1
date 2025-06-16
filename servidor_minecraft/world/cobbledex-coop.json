@@ -245,6 +245,14 @@
         "status": "SEEN",
         "discoveredTimestamp": 1750008227923
       }
+    },
+    "wimpod": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750065574195,
+        "caughtTimestamp": 1750065574195
+      }
     }
   }
 }

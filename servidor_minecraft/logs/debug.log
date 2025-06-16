@@ -8648,3 +8648,640 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Jun2025 09:10:02.815] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
 [16Jun2025 09:10:02.815] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [16Jun2025 09:10:02.816] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[16Jun2025 09:10:09.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Krabby
+[16Jun2025 09:10:09.875] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ansoooooo was created at position [x:-988, y:80, z:25, dim:minecraft:overworld]
+[16Jun2025 09:10:09.898] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 09:10:32.865] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:10:32.865] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:10:32.867] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:10:49.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote fell from a high place
+[16Jun2025 09:10:49.781] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-1049, y:79, z:65, dim:minecraft:overworld]
+[16Jun2025 09:10:49.804] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[16Jun2025 09:11:02.915] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:11:02.915] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:11:02.917] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:11:32.965] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:11:32.965] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:11:32.967] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:12:02.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 09:12:02.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 09:12:03.015] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:12:03.015] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:12:03.017] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:12:33.065] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:12:33.065] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:12:33.067] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:13:03.115] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:13:03.115] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:13:03.117] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:13:33.165] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:13:33.165] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:13:33.167] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:14:03.215] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:14:03.215] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:14:03.217] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:14:25.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
+[16Jun2025 09:14:25.045] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ansoooooo was created at position [x:-1028, y:94, z:53, dim:minecraft:overworld]
+[16Jun2025 09:14:25.051] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[16Jun2025 09:14:25.081] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Jun2025 09:14:25.081] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[16Jun2025 09:14:25.082] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[16Jun2025 09:14:25.082] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[16Jun2025 09:14:25.082] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[16Jun2025 09:14:33.265] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:14:33.265] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:14:33.271] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:14:59.218] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.36, y=98.00, z=76.73]]
+[16Jun2025 09:14:59.316] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1025.96, y=99.00, z=76.68]]
+[16Jun2025 09:14:59.516] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1025.96, y=99.00, z=76.68]]
+[16Jun2025 09:14:59.566] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1025.96, y=99.00, z=76.68]]
+[16Jun2025 09:15:00.366] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.36, y=98.00, z=76.73]]
+[16Jun2025 09:15:02.666] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1025.96, y=99.00, z=76.68]]
+[16Jun2025 09:15:03.315] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:15:03.315] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:15:03.317] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:15:03.666] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.36, y=98.00, z=76.73]]
+[16Jun2025 09:15:03.966] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.36, y=98.00, z=76.73]]
+[16Jun2025 09:15:04.516] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.36, y=98.00, z=76.73]]
+[16Jun2025 09:15:05.316] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.36, y=98.00, z=76.73]]
+[16Jun2025 09:15:06.816] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1026.90, y=98.00, z=75.91]]
+[16Jun2025 09:15:07.716] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1029.10, y=98.00, z=76.33]]
+[16Jun2025 09:15:07.817] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1029.11, y=98.00, z=76.11]]
+[16Jun2025 09:15:10.516] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1029.11, y=98.00, z=75.99]]
+[16Jun2025 09:15:12.816] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1029.29, y=98.00, z=75.55]]
+[16Jun2025 09:15:14.166] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.39, y=98.00, z=75.15]]
+[16Jun2025 09:15:15.416] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.39, y=98.00, z=75.15]]
+[16Jun2025 09:15:15.966] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1029.29, y=98.00, z=75.55]]
+[16Jun2025 09:15:16.816] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1029.29, y=98.00, z=75.55]]
+[16Jun2025 09:15:17.466] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1028.14, y=98.00, z=75.69]]
+[16Jun2025 09:15:18.966] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1029.24, y=98.00, z=78.29]]
+[16Jun2025 09:15:19.566] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1029.82, y=98.80, z=80.61]]
+[16Jun2025 09:15:20.266] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1028.17, y=99.00, z=81.84]]
+[16Jun2025 09:15:22.616] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1026.22, y=99.00, z=77.61]]
+[16Jun2025 09:15:25.216] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1026.30, y=99.00, z=77.70]]
+[16Jun2025 09:15:25.766] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1028.25, y=100.18, z=77.43]]
+[16Jun2025 09:15:26.716] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1032.30, y=98.00, z=76.34]]
+[16Jun2025 09:15:27.016] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1026.66, y=99.00, z=81.85]]
+[16Jun2025 09:15:27.466] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1029.33, y=98.00, z=76.45]]
+[16Jun2025 09:15:28.465] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1029.17, y=98.75, z=78.05]]
+[16Jun2025 09:15:30.716] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1020.77, y=101.25, z=84.18]]
+[16Jun2025 09:15:32.715] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1009.29, y=105.00, z=86.22]]
+[16Jun2025 09:15:33.365] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:15:33.365] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:15:33.367] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:15:34.066] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1009.46, y=106.18, z=86.95]]
+[16Jun2025 09:15:37.715] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1033.79, y=97.25, z=78.53]]
+[16Jun2025 09:15:38.816] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1029.65, y=98.00, z=79.19]]
+[16Jun2025 09:15:40.116] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1026.19, y=109.75, z=97.48]]
+[16Jun2025 09:15:42.316] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1029.64, y=104.25, z=91.69]]
+[16Jun2025 09:15:43.016] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1031.89, y=104.80, z=92.65]]
+[16Jun2025 09:15:44.165] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1031.00, y=107.00, z=95.50]]
+[16Jun2025 09:15:44.365] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1039.24, y=106.00, z=92.71]]
+[16Jun2025 09:15:45.666] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1033.64, y=109.00, z=98.66]]
+[16Jun2025 09:15:46.015] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1033.13, y=110.18, z=98.93]]
+[16Jun2025 09:15:47.166] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1043.15, y=111.00, z=97.97]]
+[16Jun2025 09:15:47.916] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1031.64, y=113.00, z=104.59]]
+[16Jun2025 09:15:49.065] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1031.63, y=113.00, z=104.59]]
+[16Jun2025 09:15:49.665] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1043.52, y=112.00, z=99.82]]
+[16Jun2025 09:15:50.166] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1043.43, y=111.00, z=99.63]]
+[16Jun2025 09:15:52.216] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1040.00, y=111.00, z=96.98]]
+[16Jun2025 09:15:53.266] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1033.43, y=107.54, z=94.68]]
+[16Jun2025 09:15:54.366] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1038.41, y=105.00, z=92.58]]
+[16Jun2025 09:15:56.515] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1020.24, y=107.17, z=93.19]]
+[16Jun2025 09:15:56.766] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1036.17, y=101.00, z=89.16]]
+[16Jun2025 09:15:57.116] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1035.30, y=101.00, z=89.32]]
+[16Jun2025 09:15:58.366] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1035.82, y=101.00, z=89.70]]
+[16Jun2025 09:16:02.116] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-997.22, y=113.02, z=92.70]]
+[16Jun2025 09:16:02.816] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1027.37, y=94.77, z=70.10]]
+[16Jun2025 09:16:03.415] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:16:03.415] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:16:03.417] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:16:03.666] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-994.62, y=112.00, z=93.70]]
+[16Jun2025 09:16:04.016] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1027.56, y=89.00, z=65.60]]
+[16Jun2025 09:16:05.465] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-994.60, y=112.50, z=93.70]]
+[16Jun2025 09:16:05.565] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-994.60, y=112.00, z=93.70]]
+[16Jun2025 09:16:05.616] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-994.60, y=112.00, z=93.70]]
+[16Jun2025 09:16:07.115] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-992.74, y=114.75, z=95.70]]
+[16Jun2025 09:16:08.765] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-998.52, y=114.80, z=93.01]]
+[16Jun2025 09:16:08.916] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-999.38, y=114.00, z=92.85]]
+[16Jun2025 09:16:09.216] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1001.72, y=115.25, z=92.51]]
+[16Jun2025 09:16:09.366] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1026.47, y=91.84, z=60.48]]
+[16Jun2025 09:16:10.265] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1007.34, y=113.00, z=90.67]]
+[16Jun2025 09:16:11.565] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1007.50, y=111.00, z=90.63]]
+[16Jun2025 09:16:12.265] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1007.50, y=111.00, z=90.63]]
+[16Jun2025 09:16:12.916] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1007.50, y=111.00, z=90.63]]
+[16Jun2025 09:16:13.333] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 632.4 μs. 264/264 recipes are parallelized.
+[16Jun2025 09:16:14.515] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1013.74, y=110.00, z=92.15]]
+[16Jun2025 09:16:15.266] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1016.72, y=108.00, z=92.70]]
+[16Jun2025 09:16:15.316] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1026.85, y=94.00, z=55.01]]
+[16Jun2025 09:16:15.815] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1019.29, y=108.00, z=93.50]]
+[16Jun2025 09:16:17.565] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1024.10, y=108.12, z=96.35]]
+[16Jun2025 09:16:19.366] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1026.84, y=94.00, z=55.08]]
+[16Jun2025 09:16:19.715] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1031.48, y=110.02, z=98.86]]
+[16Jun2025 09:16:21.216] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1026.84, y=94.00, z=55.08]]
+[16Jun2025 09:16:23.416] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1026.84, y=94.00, z=55.08]]
+[16Jun2025 09:16:23.466] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1026.84, y=94.00, z=55.08]]
+[16Jun2025 09:16:23.815] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1042.81, y=112.18, z=99.96]]
+[16Jun2025 09:16:26.415] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1044.15, y=112.00, z=102.72]]
+[16Jun2025 09:16:26.459] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.508 ms. 4017/4061 recipes are parallelized.
+[16Jun2025 09:16:26.866] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1043.61, y=112.00, z=101.87]]
+[16Jun2025 09:16:27.716] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1026.84, y=94.00, z=55.08]]
+[16Jun2025 09:16:29.315] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1042.39, y=112.00, z=99.85]]
+[16Jun2025 09:16:29.515] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1026.84, y=94.00, z=55.08]]
+[16Jun2025 09:16:29.666] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1026.84, y=94.00, z=55.08]]
+[16Jun2025 09:16:33.115] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1042.39, y=112.00, z=99.85]]
+[16Jun2025 09:16:33.465] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:16:33.465] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:16:33.467] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:16:33.565] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1042.39, y=112.00, z=99.85]]
+[16Jun2025 09:16:36.765] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1040.27, y=113.00, z=99.99]]
+[16Jun2025 09:16:37.515] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1040.27, y=113.00, z=99.99]]
+[16Jun2025 09:16:37.615] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1040.27, y=113.00, z=99.99]]
+[16Jun2025 09:16:38.515] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1040.27, y=113.00, z=99.99]]
+[16Jun2025 09:16:39.115] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1040.27, y=113.00, z=99.99]]
+[16Jun2025 09:16:39.968] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1040.27, y=113.00, z=99.99]]
+[16Jun2025 09:16:41.665] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1040.27, y=113.00, z=99.99]]
+[16Jun2025 09:16:41.865] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1040.27, y=113.00, z=99.99]]
+[16Jun2025 09:16:46.015] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.35, y=101.85, z=89.24]]
+[16Jun2025 09:16:48.166] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1025.18, y=99.00, z=76.79]]
+[16Jun2025 09:16:49.566] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.76, y=96.77, z=72.12]]
+[16Jun2025 09:16:50.116] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.88, y=95.00, z=71.08]]
+[16Jun2025 09:16:52.616] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1026.97, y=92.00, z=69.11]]
+[16Jun2025 09:16:53.266] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1026.97, y=92.00, z=69.11]]
+[16Jun2025 09:16:54.615] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1026.97, y=92.00, z=69.11]]
+[16Jun2025 09:16:55.716] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1026.97, y=92.00, z=69.11]]
+[16Jun2025 09:16:57.216] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1026.97, y=92.00, z=69.11]]
+[16Jun2025 09:16:58.916] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1022.69, y=94.00, z=70.97]]
+[16Jun2025 09:17:00.416] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1021.02, y=93.00, z=71.70]]
+[16Jun2025 09:17:02.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 09:17:02.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 09:17:02.209] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1021.02, y=93.00, z=71.70]]
+[16Jun2025 09:17:02.416] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1021.02, y=93.00, z=71.70]]
+[16Jun2025 09:17:02.466] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1021.02, y=93.00, z=71.70]]
+[16Jun2025 09:17:03.515] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:17:03.515] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:17:03.517] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:17:05.916] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1021.02, y=93.00, z=71.70]]
+[16Jun2025 09:17:07.216] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1021.02, y=93.00, z=71.70]]
+[16Jun2025 09:17:07.816] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1021.02, y=93.00, z=71.70]]
+[16Jun2025 09:17:08.166] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1021.02, y=93.00, z=71.70]]
+[16Jun2025 09:17:08.316] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1021.02, y=93.00, z=71.70]]
+[16Jun2025 09:17:08.816] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1021.02, y=93.00, z=71.70]]
+[16Jun2025 09:17:09.616] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1021.02, y=93.00, z=71.70]]
+[16Jun2025 09:17:10.266] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1020.61, y=94.17, z=71.74]]
+[16Jun2025 09:17:10.716] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1019.35, y=94.00, z=72.69]]
+[16Jun2025 09:17:10.816] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1018.97, y=94.00, z=73.03]]
+[16Jun2025 09:17:11.266] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1018.06, y=93.00, z=73.70]]
+[16Jun2025 09:17:11.366] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1017.68, y=93.00, z=73.70]]
+[16Jun2025 09:17:12.416] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1015.37, y=94.02, z=74.96]]
+[16Jun2025 09:17:13.316] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1012.37, y=94.25, z=75.81]]
+[16Jun2025 09:17:13.466] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1012.17, y=94.02, z=76.05]]
+[16Jun2025 09:17:15.016] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1008.28, y=96.00, z=76.28]]
+[16Jun2025 09:17:15.666] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1006.70, y=97.25, z=76.38]]
+[16Jun2025 09:17:17.866] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-997.84, y=100.02, z=78.48]]
+[16Jun2025 09:17:19.516] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-988.96, y=103.42, z=79.70]]
+[16Jun2025 09:17:21.115] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-986.16, y=107.00, z=82.94]]
+[16Jun2025 09:17:21.266] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-985.72, y=107.25, z=83.73]]
+[16Jun2025 09:17:21.615] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-983.98, y=108.00, z=85.52]]
+[16Jun2025 09:17:22.115] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-981.47, y=109.00, z=85.94]]
+[16Jun2025 09:17:22.315] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-980.73, y=109.18, z=86.13]]
+[16Jun2025 09:17:22.965] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-977.14, y=109.02, z=87.51]]
+[16Jun2025 09:17:23.666] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-972.39, y=108.50, z=87.72]]
+[16Jun2025 09:17:25.816] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-967.98, y=107.00, z=86.51]]
+[16Jun2025 09:17:26.216] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1023.54, y=93.00, z=59.96]]
+[16Jun2025 09:17:29.716] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-994.06, y=101.00, z=73.84]]
+[16Jun2025 09:17:31.766] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-985.48, y=110.94, z=85.57]]
+[16Jun2025 09:17:32.266] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-984.91, y=109.00, z=85.01]]
+[16Jun2025 09:17:32.866] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-967.98, y=107.00, z=86.51]]
+[16Jun2025 09:17:33.216] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-967.98, y=107.00, z=86.51]]
+[16Jun2025 09:17:33.565] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:17:33.565] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:17:33.567] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:17:33.916] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-968.61, y=109.94, z=86.05]]
+[16Jun2025 09:17:35.165] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-968.76, y=108.92, z=88.41]]
+[16Jun2025 09:17:37.264] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:earthquake 1: [e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3]
+[16Jun2025 09:17:37.716] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-967.71, y=107.00, z=87.84]]
+[16Jun2025 09:17:40.165] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-961.44, y=109.00, z=92.24]]
+[16Jun2025 09:17:40.815] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-958.87, y=110.00, z=92.70]]
+[16Jun2025 09:17:41.715] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-967.74, y=107.00, z=87.39]]
+[16Jun2025 09:17:42.865] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-965.43, y=107.00, z=88.07]]
+[16Jun2025 09:17:48.466] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-974.37, y=108.00, z=84.24]]
+[16Jun2025 09:17:50.215] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-948.54, y=116.00, z=95.97]]
+[16Jun2025 09:17:52.315] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-948.54, y=116.00, z=95.97]]
+[16Jun2025 09:17:53.065] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-948.54, y=116.00, z=95.97]]
+[16Jun2025 09:17:54.415] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-948.54, y=116.00, z=95.97]]
+[16Jun2025 09:17:54.615] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-965.74, y=107.00, z=88.10]]
+[16Jun2025 09:17:55.515] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-948.54, y=116.00, z=95.97]]
+[16Jun2025 09:17:56.965] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:17:57.915] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:17:58.465] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-962.55, y=112.00, z=94.05]]
+[16Jun2025 09:17:58.665] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:17:58.916] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-962.48, y=111.54, z=93.30]]
+[16Jun2025 09:18:00.065] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:00.665] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:01.365] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:01.565] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:01.765] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:02.365] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-952.99, y=111.02, z=93.23]]
+[16Jun2025 09:18:03.015] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:03.115] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-949.95, y=112.00, z=93.20]]
+[16Jun2025 09:18:03.615] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-948.87, y=112.00, z=93.29]]
+[16Jun2025 09:18:03.615] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:18:03.616] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:18:03.617] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:18:04.615] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:05.615] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-947.20, y=110.00, z=89.27]]
+[16Jun2025 09:18:06.015] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-945.98, y=111.17, z=87.00]]
+[16Jun2025 09:18:06.766] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-942.71, y=112.25, z=86.20]]
+[16Jun2025 09:18:06.866] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-942.50, y=112.18, z=86.13]]
+[16Jun2025 09:18:07.266] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-941.77, y=112.00, z=85.67]]
+[16Jun2025 09:18:07.365] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:07.765] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:08.165] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:08.765] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-943.02, y=111.00, z=87.66]]
+[16Jun2025 09:18:09.465] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-944.80, y=111.00, z=88.57]]
+[16Jun2025 09:18:10.315] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:10.465] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-945.27, y=111.00, z=87.11]]
+[16Jun2025 09:18:11.015] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:11.365] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:12.215] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-949.57, y=116.00, z=96.09]]
+[16Jun2025 09:18:12.965] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-947.65, y=110.16, z=80.67]]
+[16Jun2025 09:18:14.165] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-950.51, y=103.00, z=77.90]]
+[16Jun2025 09:18:16.016] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-947.37, y=110.00, z=90.06]]
+[16Jun2025 09:18:16.116] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-947.37, y=110.00, z=90.06]]
+[16Jun2025 09:18:16.966] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-967.83, y=104.18, z=78.62]]
+[16Jun2025 09:18:17.416] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-944.37, y=112.18, z=87.27]]
+[16Jun2025 09:18:18.615] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-941.41, y=113.02, z=84.62]]
+[16Jun2025 09:18:18.815] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-941.52, y=112.00, z=83.99]]
+[16Jun2025 09:18:19.465] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-984.82, y=103.50, z=77.79]]
+[16Jun2025 09:18:22.015] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-943.33, y=111.00, z=83.33]]
+[16Jun2025 09:18:23.415] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1009.65, y=97.00, z=78.56]]
+[16Jun2025 09:18:25.965] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-940.99, y=112.77, z=83.22]]
+[16Jun2025 09:18:27.265] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-946.99, y=107.85, z=84.70]]
+[16Jun2025 09:18:28.015] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/2340, l='ServerLevel[world]', x=-1027.77, y=88.00, z=64.23]]
+[16Jun2025 09:18:28.365] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-951.03, y=104.00, z=86.22]]
+[16Jun2025 09:18:29.165] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-954.91, y=106.25, z=86.42]]
+[16Jun2025 09:18:29.315] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-955.26, y=106.00, z=86.45]]
+[16Jun2025 09:18:29.916] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-958.72, y=106.12, z=87.54]]
+[16Jun2025 09:18:30.365] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-961.88, y=107.02, z=87.63]]
+[16Jun2025 09:18:33.565] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-979.78, y=108.00, z=86.47]]
+[16Jun2025 09:18:33.665] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:18:33.665] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:18:33.666] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:18:33.716] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-980.57, y=108.00, z=86.64]]
+[16Jun2025 09:18:37.515] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-997.11, y=106.00, z=84.57]]
+[16Jun2025 09:18:38.665] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1004.96, y=106.80, z=86.04]]
+[16Jun2025 09:18:40.015] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1013.62, y=105.00, z=87.97]]
+[16Jun2025 09:18:40.715] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1017.38, y=104.00, z=89.27]]
+[16Jun2025 09:18:41.215] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1020.24, y=103.00, z=89.05]]
+[16Jun2025 09:18:41.566] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1022.18, y=102.54, z=89.12]]
+[16Jun2025 09:18:41.666] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1022.59, y=102.00, z=88.98]]
+[16Jun2025 09:18:41.715] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1022.90, y=102.00, z=88.81]]
+[16Jun2025 09:18:43.415] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.49, y=99.00, z=80.17]]
+[16Jun2025 09:18:46.215] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1030.45, y=96.00, z=72.97]]
+[16Jun2025 09:18:46.365] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1029.75, y=96.00, z=72.70]]
+[16Jun2025 09:18:47.516] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.30, y=95.00, z=72.04]]
+[16Jun2025 09:18:47.716] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.30, y=95.00, z=72.04]]
+[16Jun2025 09:18:47.866] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.30, y=95.00, z=72.04]]
+[16Jun2025 09:18:48.566] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.13, y=95.00, z=71.41]]
+[16Jun2025 09:18:49.316] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.87, y=95.00, z=70.97]]
+[16Jun2025 09:18:49.666] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.87, y=95.00, z=70.97]]
+[16Jun2025 09:18:49.815] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.87, y=95.00, z=70.97]]
+[16Jun2025 09:18:50.066] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.87, y=95.00, z=70.97]]
+[16Jun2025 09:18:50.866] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.87, y=95.00, z=70.97]]
+[16Jun2025 09:18:51.865] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.87, y=95.00, z=70.97]]
+[16Jun2025 09:18:52.715] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.87, y=95.00, z=70.97]]
+[16Jun2025 09:18:53.565] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.87, y=95.00, z=70.97]]
+[16Jun2025 09:18:53.866] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.87, y=95.00, z=70.97]]
+[16Jun2025 09:18:54.766] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.87, y=95.00, z=70.97]]
+[16Jun2025 09:18:54.965] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.87, y=95.00, z=70.97]]
+[16Jun2025 09:19:00.215] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1032.30, y=90.77, z=69.32]]
+[16Jun2025 09:19:01.315] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1030.44, y=89.00, z=67.58]]
+[16Jun2025 09:19:02.866] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1031.29, y=89.00, z=67.02]]
+[16Jun2025 09:19:03.116] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1031.30, y=89.00, z=67.02]]
+[16Jun2025 09:19:03.715] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:19:03.715] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:19:03.717] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:19:04.415] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1031.30, y=89.00, z=67.02]]
+[16Jun2025 09:19:04.465] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1031.30, y=89.00, z=67.02]]
+[16Jun2025 09:19:04.865] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1031.30, y=89.00, z=67.02]]
+[16Jun2025 09:19:06.215] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.32, y=89.00, z=66.89]]
+[16Jun2025 09:19:08.566] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1024.24, y=91.00, z=69.15]]
+[16Jun2025 09:19:08.766] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1023.57, y=92.17, z=69.70]]
+[16Jun2025 09:19:11.116] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1020.94, y=95.00, z=73.12]]
+[16Jun2025 09:19:11.215] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1020.96, y=95.42, z=73.54]]
+[16Jun2025 09:19:17.016] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.48, y=99.00, z=84.71]]
+[16Jun2025 09:19:17.215] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.04, y=99.00, z=85.06]]
+[16Jun2025 09:19:17.515] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.11, y=99.00, z=85.10]]
+[16Jun2025 09:19:17.615] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.11, y=99.00, z=85.10]]
+[16Jun2025 09:19:18.365] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1030.13, y=99.00, z=86.17]]
+[16Jun2025 09:19:19.215] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1030.40, y=99.00, z=86.24]]
+[16Jun2025 09:19:19.615] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1030.40, y=99.00, z=86.24]]
+[16Jun2025 09:19:19.915] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1030.40, y=99.00, z=86.24]]
+[16Jun2025 09:19:20.015] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1030.40, y=99.00, z=86.24]]
+[16Jun2025 09:19:20.215] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1030.40, y=99.00, z=86.24]]
+[16Jun2025 09:19:20.765] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1030.40, y=99.00, z=86.24]]
+[16Jun2025 09:19:22.566] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1030.40, y=99.00, z=86.24]]
+[16Jun2025 09:19:22.965] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1030.40, y=99.00, z=86.24]]
+[16Jun2025 09:19:25.766] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1031.99, y=98.00, z=85.70]]
+[16Jun2025 09:19:28.916] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1033.06, y=100.00, z=88.13]]
+[16Jun2025 09:19:29.565] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1031.83, y=100.00, z=87.90]]
+[16Jun2025 09:19:29.916] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1030.35, y=100.00, z=87.08]]
+[16Jun2025 09:19:30.765] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.86, y=99.00, z=84.96]]
+[16Jun2025 09:19:31.865] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.86, y=99.00, z=84.94]]
+[16Jun2025 09:19:32.016] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.86, y=99.00, z=84.94]]
+[16Jun2025 09:19:32.765] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.86, y=99.00, z=84.94]]
+[16Jun2025 09:19:33.765] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:19:33.765] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:19:33.767] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:19:34.065] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.86, y=99.00, z=84.94]]
+[16Jun2025 09:19:34.165] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.86, y=99.00, z=84.94]]
+[16Jun2025 09:19:34.195] [Server thread/DEBUG] [Cobbledex/]: Saving 34 entries to /workspaces/server1/servidor_minecraft/./world/./cobbledex-coop.json
+[16Jun2025 09:19:34.465] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.86, y=99.00, z=84.94]]
+[16Jun2025 09:19:34.565] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.86, y=99.00, z=84.94]]
+[16Jun2025 09:19:35.615] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.86, y=99.00, z=84.94]]
+[16Jun2025 09:19:36.066] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.86, y=99.00, z=84.94]]
+[16Jun2025 09:19:36.115] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.86, y=99.00, z=84.94]]
+[16Jun2025 09:19:37.565] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1028.90, y=99.00, z=83.45]]
+[16Jun2025 09:19:40.116] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1031.99, y=97.00, z=75.70]]
+[16Jun2025 09:19:42.665] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1029.44, y=97.00, z=73.85]]
+[16Jun2025 09:19:45.266] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1026.93, y=92.00, z=69.70]]
+[16Jun2025 09:19:46.066] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1024.93, y=93.25, z=69.75]]
+[16Jun2025 09:19:50.016] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1019.96, y=93.00, z=71.29]]
+[16Jun2025 09:19:51.166] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1023.03, y=91.54, z=69.13]]
+[16Jun2025 09:19:51.215] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1023.11, y=91.23, z=69.00]]
+[16Jun2025 09:19:51.766] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1025.19, y=90.00, z=67.90]]
+[16Jun2025 09:19:51.865] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1025.69, y=90.00, z=67.74]]
+[16Jun2025 09:19:52.266] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.33, y=89.00, z=67.10]]
+[16Jun2025 09:19:52.466] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.78, y=89.42, z=65.92]]
+[16Jun2025 09:19:52.765] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1027.96, y=90.18, z=64.15]]
+[16Jun2025 09:19:54.365] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1025.44, y=90.00, z=60.30]]
+[16Jun2025 09:19:54.465] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1025.30, y=90.00, z=60.30]]
+[16Jun2025 09:19:56.216] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1024.70, y=91.00, z=59.45]]
+[16Jun2025 09:19:56.416] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1024.70, y=91.00, z=59.45]]
+[16Jun2025 09:19:56.516] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1024.70, y=91.75, z=59.44]]
+[16Jun2025 09:19:56.815] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1025.00, y=92.02, z=59.44]]
+[16Jun2025 09:19:56.966] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1025.42, y=92.42, z=59.47]]
+[16Jun2025 09:19:57.265] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1025.70, y=93.18, z=59.54]]
+[16Jun2025 09:20:03.565] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1029.50, y=94.69, z=53.50]]
+[16Jun2025 09:20:03.815] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[16Jun2025 09:20:03.815] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[16Jun2025 09:20:03.817] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[16Jun2025 09:20:04.816] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1029.50, y=94.69, z=53.50]]
+[16Jun2025 09:20:06.116] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1029.50, y=94.69, z=53.50]]
+[16Jun2025 09:20:06.266] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1029.50, y=94.69, z=53.50]]
+[16Jun2025 09:20:10.466] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1029.50, y=94.69, z=53.50]]
+[16Jun2025 09:20:11.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[16Jun2025 09:20:11.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
+[16Jun2025 09:20:12.415] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1029.50, y=94.56, z=54.50]]
+[16Jun2025 09:20:12.516] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1029.50, y=94.56, z=54.50]]
+[16Jun2025 09:20:12.715] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1029.50, y=94.56, z=54.50]]
+[16Jun2025 09:20:13.315] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1029.50, y=94.56, z=54.50]]
+[16Jun2025 09:20:13.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 41 messages to dispatch.
+[16Jun2025 09:20:13.915] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1029.50, y=94.56, z=54.50]]
+[16Jun2025 09:20:14.154] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[16Jun2025 09:20:14.177] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[16Jun2025 09:20:14.228] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig backpacked:server' to 'framework:handshake' sequence 1
+[16Jun2025 09:20:14.252] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[16Jun2025 09:20:14.252] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[16Jun2025 09:20:14.252] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.278] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 2
+[16Jun2025 09:20:14.302] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 1
+[16Jun2025 09:20:14.302] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[16Jun2025 09:20:14.302] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.327] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 3
+[16Jun2025 09:20:14.380] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 4
+[16Jun2025 09:20:14.429] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 5
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [cyclopscore, dynamiclightsreforged, treechop, adaptive_performance_tweaks_core, kuma_api, betterdungeons, easyanvils, playeranimator, botarium, betteroceanmonuments, hammerlib, incendium, gpumemleakfix, insanelib, structureessentials, prism, placebo, citadel, alexsmobs, modernfix, zombieawareness, yungsapi, mixinextras, void_lib, cobweb, itemzoom, uteamcore, fastconfigapi, takesapillage, zetter, balm, dynview, jeresources, exposure, dragonfight, betterfortresses, cloth_config, sound_physics_remastered, embeddium, rubidium, diagonalblocks, solapplepie, entity_model_features, tenshilib, entity_texture_features, ambientsounds, cobblemonintegrations, gml, simpletms, loot_journal, resourcefulconfig, lionfishapi, spark, cataclysm, curios, patchouli, oculus, iris, megamons, commongroovylibrary, cerbons_api, cobblemon, cobbledex, mr_dungeons_andtaverns, bettervillage, elevatorid, betterstrongholds, tombstone, fightorflight, resourcefullib, inventoryprofilesnext, architectury, nerb, aiimprovements, cupboard, refurbished_furniture, itemphysic, betterendisland, dynamic_fps, enhancedai, rubidium_extra, framework, adaptive_performance_tweaks_items, bettermineshafts, betterjungletemples, mowziesmobs, geckolib, themimic_er, fastload, mca, octolib, easymagic, jei, lithostitched, visualworkbench, attributefix, libraryferret, caelus, waystones, fastsuite, clumps, configured, dungeoncrawl, spawn_notification, farsight_view, terralith, blueprint, vanillacookbook, goat_man, puzzlesaccessapi, skinlayers3d, rubidium_extras, forge, dungeons_arise, minecraft, the_deep_void, man, smoothchunk, alexscaves, libipn, moonlight, terrablender, biomesoplenty, mousetweaks, bettercombat, regions_unexplored, shouldersurfing, culllessleaves, creativecore, unusualprehistory, ohthetreesyoullgrow, corgilib, recipes_lib, betterfpsdist, kotlinforforge, capture_xp, brutalbosses, xaerominimap, fastbench, legendary_monsters, irons_spellbooks, immersive_paintings, diagonalfences, cobblepedia, entityculling, backpacked, betterchunkloading, canary, coroutil, immediatelyfast, fastfurnace, appleskin, ferritecore, lootr, cobblemonrider, puzzleslib, immersive_melodies, textrues_embeddium_options, reeses_sodium_options, horde_hoard, improvedmobs, cosmeticarmorreworked, wan_ancient_beasts, explosiveenhancement, chunksending, ad_astra]
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobbledex:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'insanelib:network_channel' : Version test of '2' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'legendary_monsters:main_channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_im:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explosiveenhancement:main_channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'solapplepie:main' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Version test of '7' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fastbench:channel' : Version test of '4.6.0' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_deep_void:the_deep_void' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.473] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'themimic_er:main' : Version test of '2' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'itemphysic:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hammerlib:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tenshilib:packets' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ip:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of '2' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:ingredient_sync' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobblemonintegrations:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blueprint:net' : Version test of 'BP1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'goat_man:main' : Version test of '2' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'improvedmobs:packets' : Version test of 'v1.0' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wan_ancient_beasts:main' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobblemonrider:network' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ad_astra:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network_forge' : Version test of '1.20.1-1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cyclopscore:channel_main' : Version test of '1.0.0' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'exposure:packets' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.9.6' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'brutalbosses:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network' : Version test of '1.20.1-1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easyanvils:1' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'man:man' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zetter:zetter_channel' : Version test of '0.3' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'elevatorid:main_channel' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobblemon:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horde_hoard:horde_hoard' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'backpacked:play' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simpletms:main' : Version test of '1' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'unusualprehistory:messages' : Version test of '1.0' from client : ACCEPTED
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[16Jun2025 09:20:14.474] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:14.475] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.475] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[16Jun2025 09:20:14.475] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:14.475] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.479] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[16Jun2025 09:20:14.522] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[16Jun2025 09:20:14.522] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:14.522] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.527] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[16Jun2025 09:20:14.580] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[16Jun2025 09:20:14.631] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[16Jun2025 09:20:14.676] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 10
+[16Jun2025 09:20:14.726] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 11
+[16Jun2025 09:20:14.726] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[16Jun2025 09:20:14.726] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:14.726] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.726] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[16Jun2025 09:20:14.726] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:14.726] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.767] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[16Jun2025 09:20:14.767] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:14.767] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.767] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[16Jun2025 09:20:14.767] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:14.767] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.777] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry hammerlib:level_actions' to 'fml:handshake' sequence 12
+[16Jun2025 09:20:14.793] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[16Jun2025 09:20:14.793] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:14.793] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.827] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[16Jun2025 09:20:14.836] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[16Jun2025 09:20:14.836] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:14.836] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.877] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 14
+[16Jun2025 09:20:14.878] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[16Jun2025 09:20:14.878] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:14.878] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[16Jun2025 09:20:14.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:14.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.929] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 15
+[16Jun2025 09:20:14.972] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[16Jun2025 09:20:14.972] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:14.972] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:14.978] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 16
+[16Jun2025 09:20:15.026] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 17
+[16Jun2025 09:20:15.064] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[16Jun2025 09:20:15.064] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.064] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.092] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 18
+[16Jun2025 09:20:15.111] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[16Jun2025 09:20:15.111] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.111] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.128] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry zetter:canvas_type' to 'fml:handshake' sequence 19
+[16Jun2025 09:20:15.148] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[16Jun2025 09:20:15.148] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.148] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.177] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 20
+[16Jun2025 09:20:15.190] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[16Jun2025 09:20:15.190] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.190] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.228] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 21
+[16Jun2025 09:20:15.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[16Jun2025 09:20:15.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.275] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[16Jun2025 09:20:15.275] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.275] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.277] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 22
+[16Jun2025 09:20:15.326] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 23
+[16Jun2025 09:20:15.378] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 24
+[16Jun2025 09:20:15.382] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[16Jun2025 09:20:15.382] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.382] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.423] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[16Jun2025 09:20:15.423] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.423] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.429] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 25
+[16Jun2025 09:20:15.462] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[16Jun2025 09:20:15.462] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.462] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.478] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry hammerlib:obj_sources' to 'fml:handshake' sequence 26
+[16Jun2025 09:20:15.504] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[16Jun2025 09:20:15.504] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.504] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.529] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 27
+[16Jun2025 09:20:15.547] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[16Jun2025 09:20:15.547] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.547] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.576] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 28
+[16Jun2025 09:20:15.589] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[16Jun2025 09:20:15.589] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.589] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.628] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 29
+[16Jun2025 09:20:15.681] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config solapplepie-server.toml' to 'fml:handshake' sequence 30
+[16Jun2025 09:20:15.726] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config themimic_er-server.toml' to 'fml:handshake' sequence 31
+[16Jun2025 09:20:15.778] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 32
+[16Jun2025 09:20:15.808] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[16Jun2025 09:20:15.808] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.808] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.828] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 33
+[16Jun2025 09:20:15.829] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[16Jun2025 09:20:15.829] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.829] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.829] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[16Jun2025 09:20:15.829] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.829] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.829] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[16Jun2025 09:20:15.829] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.829] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.870] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[16Jun2025 09:20:15.870] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.870] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.877] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config elevatorid-server.toml' to 'fml:handshake' sequence 34
+[16Jun2025 09:20:15.893] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[16Jun2025 09:20:15.893] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.893] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.926] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config zetter-server.toml' to 'fml:handshake' sequence 35
+[16Jun2025 09:20:15.935] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[16Jun2025 09:20:15.935] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.935] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.977] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[16Jun2025 09:20:15.977] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:15.977] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:15.978] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config wan_ancient_beasts-server.toml' to 'fml:handshake' sequence 36
+[16Jun2025 09:20:16.021] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[16Jun2025 09:20:16.021] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:16.021] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:16.027] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easyanvils-server.toml' to 'fml:handshake' sequence 37
+[16Jun2025 09:20:16.078] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easymagic-server.toml' to 'fml:handshake' sequence 38
+[16Jun2025 09:20:16.113] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[16Jun2025 09:20:16.113] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:16.113] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:16.126] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 39
+[16Jun2025 09:20:16.155] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[16Jun2025 09:20:16.155] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:16.155] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:16.177] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config goat_man-server.toml' to 'fml:handshake' sequence 40
+[16Jun2025 09:20:16.197] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[16Jun2025 09:20:16.197] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:16.197] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:16.242] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[16Jun2025 09:20:16.242] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16Jun2025 09:20:16.242] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16Jun2025 09:20:16.276] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[16Jun2025 09:20:16.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:56929] logged in with entity id 9952 at (-1028.2589462181393, 94.5625, 54.32313745052027)
+[16Jun2025 09:20:16.351] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@2846862a into net.minecraft.network.Connection@57ef6da
+[16Jun2025 09:20:16.351] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 563 classes
+[16Jun2025 09:20:16.390] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[16Jun2025 09:20:16.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[16Jun2025 09:20:19.065] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1073, l='ServerLevel[world]', x=-1026.94, y=93.92, z=60.40]]
