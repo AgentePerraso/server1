@@ -1,5 +1,5 @@
 {
-  "CoopMode": false,
+  "CoopMode": true,
   "GiveCobbledexItemOnStarterChosen": true,
   "HowToFind_IsEnabled": true,
   "HowToFind_NeedSeen": false,
