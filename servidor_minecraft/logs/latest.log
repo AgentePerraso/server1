@@ -1730,3 +1730,12 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Jun2025 15:40:30.478] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.595 ms. 4649/4695 recipes are parallelized.
 [16Jun2025 15:45:23.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
 [16Jun2025 15:45:23.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
+[16Jun2025 15:55:45.735] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[16Jun2025 15:55:47.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:44065] logged in with entity id 2013 at (-1868.5601148427972, 55.0, 244.99423102841905)
+[16Jun2025 15:55:48.001] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[16Jun2025 15:55:48.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[16Jun2025 16:01:40.101] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[16Jun2025 16:01:40.102] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[16Jun2025 16:01:40.102] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[16Jun2025 16:02:08.613] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.350627899169922) to LOW (avg. 28.061187744140625)
+[16Jun2025 16:02:23.613] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.061187744140625) to VERY_LOW (avg. 10.371745109558105)
