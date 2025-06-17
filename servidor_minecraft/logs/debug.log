@@ -12051,3 +12051,113 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [17Jun2025 19:57:38.063] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [17Jun2025 19:57:38.063] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [17Jun2025 19:57:38.063] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 19:58:08.113] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 19:58:08.113] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 19:58:08.113] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 19:58:38.163] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 19:58:38.163] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 19:58:38.163] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 19:59:06.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 19:59:06.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 19:59:08.213] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 19:59:08.213] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 19:59:08.213] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 19:59:38.263] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 19:59:38.263] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 19:59:38.263] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:00:08.313] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:00:08.313] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:00:08.313] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:00:38.363] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:00:38.363] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:00:38.363] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:01:08.413] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:01:08.413] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:01:08.413] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:01:38.463] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:01:38.463] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:01:38.463] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:01:56.567] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockStatePairKeyMixin from canary.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[17Jun2025 20:02:03.276] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@3cf4f4e4 for service interface com.blamejared.clumps.platform.IEventHelper
+[17Jun2025 20:02:03.277] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@2a41fcaa for service interface com.blamejared.clumps.platform.IPlatformHelper
+[17Jun2025 20:02:08.513] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[17Jun2025 20:02:08.513] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:02:08.514] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[17Jun2025 20:02:38.563] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[17Jun2025 20:02:38.563] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:02:38.564] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[17Jun2025 20:03:08.613] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:03:08.613] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:03:08.614] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:03:38.663] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:03:38.663] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:03:38.663] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:04:06.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 20:04:06.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 20:04:08.713] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:04:08.713] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:04:08.713] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:04:21.464] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:24.214] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:25.164] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:25.264] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:26.565] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:26.864] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:27.514] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:28.717] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:29.364] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:30.918] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:31.863] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:32.014] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:33.916] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:34.214] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:34.814] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:34.964] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:36.314] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:38.763] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:04:38.763] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:04:38.763] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:04:40.264] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:40.914] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:42.014] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:42.414] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:43.264] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:44.116] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:47.963] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:48.564] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:48.764] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:49.314] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:50.864] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:51.114] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:51.766] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:53.064] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:53.364] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:54.314] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:55.114] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:55.813] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:56.268] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:57.864] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:04:59.014] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:05:00.164] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:05:01.614] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:05:02.821] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1083, l='ServerLevel[world]', x=-1874.94, y=55.00, z=243.98]]
+[17Jun2025 20:05:03.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[17Jun2025 20:05:03.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
+[17Jun2025 20:05:08.813] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:05:08.813] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:05:08.813] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:05:38.863] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:05:38.863] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:05:38.863] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:06:08.913] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:06:08.913] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:06:08.913] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:06:38.963] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:06:38.963] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:06:38.963] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:07:09.013] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:07:09.013] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:07:09.013] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Jun2025 20:07:39.063] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Jun2025 20:07:39.063] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Jun2025 20:07:39.063] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.

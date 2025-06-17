@@ -1682,3 +1682,5 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [17Jun2025 19:40:44.876] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 2.8614614009857178) to LOW (avg. 38.873165130615234)
 [17Jun2025 19:40:45.959] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 10.02807475) to LOW (avg. 21.37649991)
 [17Jun2025 19:41:07.113] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.171194076538086) to VERY_LOW (avg. 16.342445373535156)
+[17Jun2025 20:05:03.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[17Jun2025 20:05:03.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
