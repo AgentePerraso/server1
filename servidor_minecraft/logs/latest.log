@@ -1692,3 +1692,13 @@ java.lang.IllegalArgumentException: Invalid UUID string: a+
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [17Jun2025 20:55:58.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Excadrill
 [17Jun2025 20:55:58.676] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[17Jun2025 20:57:02.892] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 616.6 μs. 280/280 recipes are parallelized.
+[17Jun2025 20:57:28.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Xerneas
+[17Jun2025 20:57:28.861] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[17Jun2025 20:58:06.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Xerneas
+[17Jun2025 20:58:06.834] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[17Jun2025 21:00:43.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Your First Receptacle]
+[17Jun2025 21:00:43.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Funeral Theft]
+[17Jun2025 21:01:20.366] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.642 ms. 4649/4695 recipes are parallelized.
+[17Jun2025 21:02:59.452] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.847891807556152) to LOW (avg. 31.51403045654297)
+[17Jun2025 21:03:14.354] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.51403045654297) to VERY_LOW (avg. 13.865381240844727)
