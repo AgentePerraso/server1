@@ -1702,3 +1702,5 @@ java.lang.IllegalArgumentException: Invalid UUID string: a+
 [17Jun2025 21:01:20.366] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.642 ms. 4649/4695 recipes are parallelized.
 [17Jun2025 21:02:59.452] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.847891807556152) to LOW (avg. 31.51403045654297)
 [17Jun2025 21:03:14.354] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.51403045654297) to VERY_LOW (avg. 13.865381240844727)
+[17Jun2025 21:15:36.856] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.39166259765625) to LOW (avg. 29.832557678222656)
+[17Jun2025 21:15:51.854] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.832557678222656) to VERY_LOW (avg. 16.217281341552734)
