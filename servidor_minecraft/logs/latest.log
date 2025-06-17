@@ -1717,3 +1717,112 @@ java.lang.IllegalArgumentException: Invalid UUID string: a+
 [17Jun2025 21:26:10.719] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46467, l='ServerLevel[world]', x=-2414.57, y=14.14, z=343.65, removed=DISCARDED]
 [17Jun2025 21:26:10.822] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46473, l='ServerLevel[world]', x=-2415.63, y=13.36, z=346.40, removed=DISCARDED]
 [17Jun2025 21:26:10.868] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46469, l='ServerLevel[world]', x=-2414.40, y=14.47, z=344.25, removed=DISCARDED]
+[17Jun2025 21:26:35.668] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46467, l='ServerLevel[world]', x=-2414.57, y=14.14, z=343.65, removed=DISCARDED]
+[17Jun2025 21:26:35.818] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46469, l='ServerLevel[world]', x=-2414.40, y=14.47, z=344.25, removed=DISCARDED]
+[17Jun2025 21:26:36.173] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46473, l='ServerLevel[world]', x=-2415.63, y=13.36, z=346.40, removed=DISCARDED]
+[17Jun2025 21:26:36.416] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46468, l='ServerLevel[world]', x=-2413.32, y=14.36, z=345.44, removed=DISCARDED]
+[17Jun2025 21:26:36.864] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46468, l='ServerLevel[world]', x=-2413.32, y=14.36, z=345.44, removed=DISCARDED]
+[17Jun2025 21:27:08.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> hola maren
+[17Jun2025 21:27:08.487] [ForkJoinPool.commonPool-worker-3/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[17Jun2025 21:28:04.666] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Maren'/43066, l='ServerLevel[world]', x=-2483.87, y=52.91, z=270.42] died, message: 'Maren was blown up by Creeper'
+[17Jun2025 21:28:13.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> hola dorthe
+[17Jun2025 21:28:13.149] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[17Jun2025 21:28:15.659] [ForkJoinPool.commonPool-worker-4/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/world/entity/ai/behavior/Behavior for class forge/net/mca/entity/ai/brain/tasks/StayTask in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool.commonPool-worker-4,5,SERVER]
+[17Jun2025 21:28:15.659] [ForkJoinPool.commonPool-worker-4/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.world.entity.ai.behavior.Behavior
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at forge.net.mca.entity.ai.brain.VillagerTasksMCA.getStayingPackage(VillagerTasksMCA.java:182) ~[?:?]
+	at forge.net.mca.entity.ai.brain.VillagerTasksMCA.initializeTasks(VillagerTasksMCA.java:108) ~[?:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_35483_(VillagerEntityMCA.java:210) ~[?:?]
+	at forge.net.mca.entity.ai.brain.VillagerBrain.resetsBrain(VillagerBrain.java:208) ~[?:?]
+	at forge.net.mca.entity.ai.brain.VillagerBrain.setMoveState(VillagerBrain.java:203) ~[?:?]
+	at forge.net.mca.entity.ai.chatAI.TriggerCommandInfos.lambda$static$2(TriggerCommandInfos.java:17) ~[?:?]
+	at forge.net.mca.entity.ai.chatAI.OpenAIChatAI.lambda$answer$4(OpenAIChatAI.java:269) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at forge.net.mca.entity.ai.chatAI.OpenAIChatAI.answer(OpenAIChatAI.java:269) ~[?:?]
+	at forge.net.mca.entity.ai.chatAI.ChatAI.answer(ChatAI.java:51) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.md7cecaf$lambda$mca$runAsyncAnswerRequest$2$0(ServerGamePacketListenerImpl.java:3322) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[17Jun2025 21:28:23.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> que opinas de macarronanso
+[17Jun2025 21:28:23.072] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, move-freely, wear-armor, try-go-home]
+[17Jun2025 21:28:24.374] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46467, l='ServerLevel[world]', x=-2414.57, y=14.14, z=343.65, removed=DISCARDED]
+[17Jun2025 21:28:24.521] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: No sé qué son macarronanso, pero suena delicioso. ¿Me los traerás? (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[17Jun2025 21:28:30.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> que opinas de AgentePerrote
+[17Jun2025 21:28:30.940] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, move-freely, wear-armor, try-go-home]
+[17Jun2025 21:28:32.723] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: Eres un extraño interesante, pero no estoy segura de que sepas más que yo. (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[17Jun2025 21:28:36.854] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.182357788085938) to LOW (avg. 20.916902542114258)
+[17Jun2025 21:28:44.354] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.916902542114258) to VERY_LOW (avg. 12.245548248291016)
+[17Jun2025 21:28:45.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> eres un inutil
+[17Jun2025 21:28:45.999] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, move-freely, wear-armor, try-go-home]
+[17Jun2025 21:28:51.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> subnormal
+[17Jun2025 21:28:51.767] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[17Jun2025 21:28:54.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> te voy a matar
+[17Jun2025 21:28:54.573] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, move-freely, wear-armor, try-go-home]
+[17Jun2025 21:29:02.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> voy a asesinarte
+[17Jun2025 21:29:02.541] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[17Jun2025 21:29:07.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> im going to kill you
+[17Jun2025 21:29:07.946] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, move-freely, wear-armor, try-go-home]
+[17Jun2025 21:29:10.467] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46473, l='ServerLevel[world]', x=-2415.63, y=13.36, z=346.40, removed=DISCARDED]
+[17Jun2025 21:29:11.920] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46469, l='ServerLevel[world]', x=-2414.40, y=14.47, z=344.25, removed=DISCARDED]
+[17Jun2025 21:29:14.175] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46467, l='ServerLevel[world]', x=-2414.57, y=14.14, z=343.65, removed=DISCARDED]
+[17Jun2025 21:29:14.214] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46473, l='ServerLevel[world]', x=-2415.63, y=13.36, z=346.40, removed=DISCARDED]
+[17Jun2025 21:29:14.269] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46469, l='ServerLevel[world]', x=-2414.40, y=14.47, z=344.25, removed=DISCARDED]
+[17Jun2025 21:29:27.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> hola
+[17Jun2025 21:29:41.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> marlen te amo
+[17Jun2025 21:30:19.416] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Burghart'/43069, l='ServerLevel[world]', x=-2481.67, y=71.00, z=288.30] died, message: 'Burghart was slain by Zombie'
+[17Jun2025 21:30:30.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> melanie buenas teta
+[17Jun2025 21:30:30.287] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[17Jun2025 21:30:30.670] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: I don't want to talk about that. (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[17Jun2025 21:30:37.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> melanie buenas proporciones
+[17Jun2025 21:30:37.503] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[17Jun2025 21:30:38.768] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: I suppose compliments are nice, but I'd rather focus on something more meaningful. (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[17Jun2025 21:30:45.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> tienes buenos pechos
+[17Jun2025 21:30:45.751] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[17Jun2025 21:30:47.261] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: That's quite forward, but I think we should talk about more important things in the village. (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[17Jun2025 21:30:52.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> te amo
+[17Jun2025 21:30:52.340] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[17Jun2025 21:30:53.502] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: That's sweet of you, but I'm just trying to get through my day in the village. (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[17Jun2025 21:31:25.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> que tal estas con spatoje
+[17Jun2025 21:31:25.299] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[17Jun2025 21:31:27.034] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: Spatoje? Oh, he's a bit odd, isn't he? I try to keep my distance from his antics. (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[17Jun2025 21:31:33.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> que tal con lilly
+[17Jun2025 21:31:33.198] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[17Jun2025 21:31:35.176] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: Lilly is quite lovely! Always tending to her garden, bringing a bit of cheer to our village. (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[17Jun2025 21:31:41.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> es tu madre muerta
+[17Jun2025 21:31:41.219] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[17Jun2025 21:31:42.609] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: That's a rather harsh question; let’s speak of happier topics instead. (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[17Jun2025 21:31:50.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> habla español
+[17Jun2025 21:31:50.451] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[17Jun2025 21:32:18.116] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46467, l='ServerLevel[world]', x=-2414.57, y=14.14, z=343.65, removed=DISCARDED]
+[17Jun2025 21:32:18.173] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46469, l='ServerLevel[world]', x=-2414.40, y=14.47, z=344.25, removed=DISCARDED]
+[17Jun2025 21:32:18.268] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46473, l='ServerLevel[world]', x=-2415.63, y=13.36, z=346.40, removed=DISCARDED]
+[17Jun2025 21:32:18.470] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/46468, l='ServerLevel[world]', x=-2413.32, y=14.36, z=345.44, removed=DISCARDED]
+[17Jun2025 21:32:55.552] [pool-3-thread-1/INFO] [com.structureessentials.StructureEssentials/]: Structure search for minecraft:monument timed out, took: 50 seconds.
+[17Jun2025 21:37:12.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Stolen Magic]
+[17Jun2025 21:37:18.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Vex
+[17Jun2025 21:37:18.928] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[17Jun2025 21:41:14.354] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.539913177490234) to LOW (avg. 20.706850051879883)
+[17Jun2025 21:41:21.854] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.706850051879883) to VERY_LOW (avg. 14.204129219055176)
+[17Jun2025 21:43:29.354] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.549800872802734) to LOW (avg. 22.676769256591797)
+[17Jun2025 21:43:44.354] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.676769256591797) to VERY_LOW (avg. 11.557562828063965)
