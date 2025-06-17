@@ -138,9 +138,10 @@
         },
         "taillow": {
           "normal": {
-            "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1749993759681
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749993759681,
+            "caughtTimestamp": 1750098415374
           }
         },
         "combee": {
@@ -291,6 +292,30 @@
             "discoveredTimestamp": 1750075230481,
             "caughtTimestamp": 1750075230481
           }
+        },
+        "swellow": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750098423975,
+            "caughtTimestamp": 1750098423975
+          }
+        },
+        "rookidee": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750098828233,
+            "caughtTimestamp": 1750098828233
+          }
+        },
+        "corvisquire": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750169954615,
+            "caughtTimestamp": 1750169954615
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -303,21 +328,21 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 7,
+    "totalCaptureCount": 9,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 90,
+    "totalEvolvedCount": 10,
+    "totalBattleVictoryCount": 93,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 90,
+    "totalPvWBattleVictoryCount": 93,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 0,
+    "totalShinyCaptureCount": 1,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
       "grass": 2,
       "psychic": 1,
       "water": 1,
-      "normal": 2,
-      "flying": 2,
+      "normal": 3,
+      "flying": 4,
       "ground": 1,
       "fire": 1,
       "steel": 1
@@ -359,7 +384,7 @@
       "cobblemon:cutiefly": 1,
       "cobblemon:krabby": 2,
       "cobblemon:ribombee": 1,
-      "cobblemon:wingull": 1,
+      "cobblemon:wingull": 2,
       "cobblemon:ralts": 1
     },
     "aspectsCollected": {}
