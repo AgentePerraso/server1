@@ -622,6 +622,14 @@
         "discoveredTimestamp": 1750410062291,
         "caughtTimestamp": 1750410062291
       }
+    },
+    "machamp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750410457060,
+        "caughtTimestamp": 1750410457060
+      }
     }
   }
 }

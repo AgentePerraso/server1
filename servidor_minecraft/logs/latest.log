@@ -3023,3 +3023,8 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 09:01:20.768] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
 [20Jun2025 09:02:37.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Knowledge raises the soul]
 [20Jun2025 09:03:34.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [Magic Siphoner]
+[20Jun2025 09:05:32.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Starly
+[20Jun2025 09:05:32.253] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 09:09:17.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Enderman
+[20Jun2025 09:09:17.054] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 09:09:48.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> º
