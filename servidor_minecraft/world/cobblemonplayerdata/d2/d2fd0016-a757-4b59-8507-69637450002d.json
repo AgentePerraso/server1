@@ -704,6 +704,14 @@
             "discoveredTimestamp": 1750415401290,
             "caughtTimestamp": 1750415401290
           }
+        },
+        "joltik": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750416434441,
+            "caughtTimestamp": 1750416434441
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -720,7 +728,7 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 45,
+    "totalCaptureCount": 46,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 27,
     "totalBattleVictoryCount": 125,
@@ -741,8 +749,8 @@
       "dark": 3,
       "ice": 1,
       "fighting": 3,
-      "bug": 8,
-      "electric": 2,
+      "bug": 9,
+      "electric": 3,
       "fairy": 4,
       "rock": 1,
       "poison": 2

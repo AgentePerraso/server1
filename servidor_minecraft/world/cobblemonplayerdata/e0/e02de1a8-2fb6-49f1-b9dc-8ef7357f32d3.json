@@ -634,6 +634,22 @@
             "discoveredTimestamp": 1750415714140,
             "caughtTimestamp": 1750415714140
           }
+        },
+        "roggenrola": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750416898737,
+            "caughtTimestamp": 1750416898737
+          }
+        },
+        "geodude": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750416960788,
+            "caughtTimestamp": 1750416960788
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -649,17 +665,17 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 45,
+    "totalCaptureCount": 47,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 19,
-    "totalBattleVictoryCount": 70,
+    "totalBattleVictoryCount": 72,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 70,
+    "totalPvWBattleVictoryCount": 72,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
-      "rock": 2,
+      "rock": 4,
       "bug": 8,
       "poison": 4,
       "water": 10,
@@ -669,7 +685,7 @@
       "fairy": 2,
       "normal": 14,
       "flying": 6,
-      "ground": 2,
+      "ground": 3,
       "grass": 5,
       "fighting": 3,
       "psychic": 1,

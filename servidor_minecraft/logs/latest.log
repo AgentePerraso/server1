@@ -3149,3 +3149,20 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 10:45:28.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.065645217895508) to VERY_LOW (avg. 13.183235168457031)
 [20Jun2025 10:45:43.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.183235168457031) to LOW (avg. 24.42770767211914)
 [20Jun2025 10:45:51.714] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/207955, l='ServerLevel[world]', x=-1734.56, y=-8.00, z=534.25, removed=DISCARDED]
+[20Jun2025 10:46:25.133] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Avión'/218271, l='ServerLevel[world]', x=-1807.97, y=-7.00, z=525.29] died: Avión was bitten by Zombie
+[20Jun2025 10:46:41.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Spider
+[20Jun2025 10:46:41.405] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 10:47:13.244] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 580231c4-bf1c-4083-8780-06e48bb4e6c8
+[20Jun2025 10:47:13.244] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 580231c4-bf1c-4083-8780-06e48bb4e6c8
+[20Jun2025 10:47:28.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.696453094482422) to VERY_LOW (avg. 16.49940299987793)
+[20Jun2025 10:47:57.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Creeper
+[20Jun2025 10:47:57.902] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 10:48:16.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Oretoise
+[20Jun2025 10:48:16.139] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 10:51:48.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [Fortuitous Militia]
+[20Jun2025 10:52:29.807] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 615.7 μs. 1425/1425 recipes are parallelized.
+[20Jun2025 10:52:44.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Gastly
+[20Jun2025 10:52:44.659] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 10:54:17.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
+[20Jun2025 10:54:17.655] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 10:56:13.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.741724014282227) to LOW (avg. 21.684539794921875)

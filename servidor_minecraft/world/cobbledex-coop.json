@@ -1021,6 +1021,22 @@
         "discoveredTimestamp": 1750415714141,
         "caughtTimestamp": 1750415714141
       }
+    },
+    "joltik": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750416434442,
+        "caughtTimestamp": 1750416434442
+      }
+    },
+    "roggenrola": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750416898737,
+        "caughtTimestamp": 1750416898737
+      }
     }
   }
 }
