@@ -3194,3 +3194,40 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 11:05:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.14783477783203) to LOW (avg. 23.33092498779297)
 [20Jun2025 11:05:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.929645538330078) to VERY_LOW (avg. 18.82766342163086)
 [20Jun2025 11:06:13.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.82766342163086) to LOW (avg. 20.15097427368164)
+[20Jun2025 11:06:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.451282501220703) to VERY_LOW (avg. 18.317920684814453)
+[20Jun2025 11:06:43.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.317920684814453) to LOW (avg. 20.59525489807129)
+[20Jun2025 11:06:50.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.59525489807129) to VERY_LOW (avg. 18.338932037353516)
+[20Jun2025 11:07:20.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.75118637084961) to LOW (avg. 21.21908950805664)
+[20Jun2025 11:07:28.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.21908950805664) to VERY_LOW (avg. 19.945398330688477)
+[20Jun2025 11:07:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.42339324951172) to LOW (avg. 20.104022979736328)
+[20Jun2025 11:08:28.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.794158935546875) to VERY_LOW (avg. 19.623220443725586)
+[20Jun2025 11:08:43.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.623220443725586) to LOW (avg. 20.443767547607422)
+[20Jun2025 11:09:45.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Goat Man
+[20Jun2025 11:09:45.454] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 11:09:50.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.693117141723633) to VERY_LOW (avg. 19.451688766479492)
+[20Jun2025 11:09:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.451688766479492) to LOW (avg. 23.21989631652832)
+[20Jun2025 11:10:13.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.21989631652832) to VERY_LOW (avg. 19.109088897705078)
+[20Jun2025 11:10:28.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.109088897705078) to LOW (avg. 24.098587036132812)
+[20Jun2025 11:11:00.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Gastly
+[20Jun2025 11:11:00.362] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 11:11:21.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Creeper
+[20Jun2025 11:11:21.216] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 11:11:21.303] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Jun2025 11:11:21.303] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[20Jun2025 11:11:21.303] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[20Jun2025 11:11:21.303] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Jun2025 11:11:21.304] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[20Jun2025 11:11:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.755111694335938) to VERY_LOW (avg. 19.772159576416016)
+[20Jun2025 11:11:43.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.772159576416016) to LOW (avg. 23.699352264404297)
+[20Jun2025 11:13:43.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.291057586669922) to VERY_LOW (avg. 19.248064041137695)
+[20Jun2025 11:14:05.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.640966415405273) to LOW (avg. 21.869632720947266)
+[20Jun2025 11:14:38.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Zombie
+[20Jun2025 11:14:38.253] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 11:14:40.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/249845, l='ServerLevel[world]', x=-1622.41, y=39.37, z=-16.87] died: Paco Pepe was slain by Creeper
+[20Jun2025 11:15:10.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Zombie
+[20Jun2025 11:15:10.615] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 11:15:56.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Creeper
+[20Jun2025 11:15:56.961] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 11:16:10.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Creeper
+[20Jun2025 11:16:10.112] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 11:16:20.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.22352409362793) to VERY_LOW (avg. 19.80753517150879)
