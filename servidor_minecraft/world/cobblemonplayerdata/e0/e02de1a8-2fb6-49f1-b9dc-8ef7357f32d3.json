@@ -285,6 +285,14 @@
             "discoveredTimestamp": 1750410440393,
             "caughtTimestamp": 1750410440393
           }
+        },
+        "xerneas": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750411950387,
+            "caughtTimestamp": 1750411950387
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -297,12 +305,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 7,
+    "totalCaptureCount": 8,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 33,
+    "totalBattleVictoryCount": 34,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 33,
+    "totalPvWBattleVictoryCount": 34,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 4,
@@ -313,7 +321,8 @@
       "water": 2,
       "ghost": 1,
       "fire": 1,
-      "ice": 1
+      "ice": 1,
+      "fairy": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:flabebe": 1,

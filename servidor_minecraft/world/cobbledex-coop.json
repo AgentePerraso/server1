@@ -630,6 +630,14 @@
         "discoveredTimestamp": 1750410457060,
         "caughtTimestamp": 1750410457060
       }
+    },
+    "xerneas": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750411950388,
+        "caughtTimestamp": 1750411950388
+      }
     }
   }
 }

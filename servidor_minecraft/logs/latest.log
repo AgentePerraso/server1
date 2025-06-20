@@ -3030,3 +3030,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 09:09:48.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> º
 [20Jun2025 09:20:51.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
 [20Jun2025 09:21:02.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> ºwº
+[20Jun2025 09:28:49.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Goat Man
+[20Jun2025 09:28:49.155] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 09:28:50.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [The Most Useful Key]
