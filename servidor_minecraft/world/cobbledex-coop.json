@@ -568,6 +568,20 @@
         "discoveredTimestamp": 1750407967404,
         "caughtTimestamp": 1750407967404
       }
+    },
+    "fidough": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750408490494
+      }
+    },
+    "skitty": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750408496802
+      }
     }
   }
 }

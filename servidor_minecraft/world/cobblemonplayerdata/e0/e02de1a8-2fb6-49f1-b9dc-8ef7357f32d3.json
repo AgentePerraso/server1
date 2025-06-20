@@ -233,6 +233,27 @@
             "discoveredTimestamp": 1750407967401,
             "caughtTimestamp": 1750407967401
           }
+        },
+        "lickitung": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750408470337
+          }
+        },
+        "fidough": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750408490493
+          }
+        },
+        "skitty": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750408496801
+          }
         }
       },
       "name": "cobbledex_discovery"

@@ -2956,3 +2956,55 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 08:30:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.41632652282715) to VERY_LOW (avg. 14.91770076751709)
 [20Jun2025 08:31:13.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
 [20Jun2025 08:31:13.709] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 08:34:21.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Jun2025 08:34:21.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elije se acerca<--[HERE]
+[20Jun2025 08:34:28.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Jun2025 08:34:28.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3<--[HERE]
+[20Jun2025 08:34:29.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Jun2025 08:34:29.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2<--[HERE]
+[20Jun2025 08:34:29.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Jun2025 08:34:29.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[20Jun2025 08:34:36.603] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[20Jun2025 08:34:39.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:47187] logged in with entity id 12922 at (-1896.3312334226325, 68.0, 219.64349895514226)
+[20Jun2025 08:34:39.151] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[20Jun2025 08:34:39.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[20Jun2025 08:34:43.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.95501708984375) to LOW (avg. 26.00759506225586)
+[20Jun2025 08:34:46.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> agente perrosanxe
+[20Jun2025 08:34:55.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Minecraft Comes Alive]
+[20Jun2025 08:35:28.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [A Moment in Time]
+[20Jun2025 08:37:20.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12829, l='ServerLevel[world]', x=-1291.50, y=118.00, z=-374.70] died, message: 'Villager froze to death'
+[20Jun2025 08:37:50.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12828, l='ServerLevel[world]', x=-1291.70, y=118.51, z=-373.50] died, message: 'Villager froze to death'
+[20Jun2025 08:37:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.16790199279785) to VERY_LOW (avg. 18.928211212158203)
+[20Jun2025 08:38:50.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.43917465209961) to LOW (avg. 23.844697952270508)
+[20Jun2025 08:39:05.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.844697952270508) to VERY_LOW (avg. 19.381990432739258)
+[20Jun2025 08:39:15.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Penteconter]
+[20Jun2025 08:39:26.589] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12627, l='ServerLevel[world]', x=-1317.20, y=111.11, z=-373.31] died, message: 'Villager was slain by Zombie'
+[20Jun2025 08:39:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.233476638793945) to LOW (avg. 21.631746292114258)
+[20Jun2025 08:39:43.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.631746292114258) to VERY_LOW (avg. 18.859193801879883)
+[20Jun2025 08:39:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.859193801879883) to LOW (avg. 21.86673927307129)
+[20Jun2025 08:40:04.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/12833, l='ServerLevel[world]', x=-1290.93, y=106.00, z=-420.69] died, message: 'Librarian was slain by Zombie'
+[20Jun2025 08:40:05.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.86673927307129) to VERY_LOW (avg. 19.862655639648438)
+[20Jun2025 08:40:17.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12356, l='ServerLevel[world]', x=-1405.52, y=68.11, z=-381.60] died, message: 'Villager was blown up by Creeper'
+[20Jun2025 08:40:19.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12832, l='ServerLevel[world]', x=-1293.90, y=107.51, z=-446.34] died, message: 'Villager was blown up by Creeper'
+[20Jun2025 08:40:20.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.862655639648438) to LOW (avg. 28.058578491210938)
+[20Jun2025 08:40:32.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/12398, l='ServerLevel[world]', x=-1384.99, y=85.75, z=-335.35] died, message: 'Nitwit was blown up by Creeper'
+[20Jun2025 08:40:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.058578491210938) to VERY_LOW (avg. 19.599905014038086)
+[20Jun2025 08:40:50.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was doomed to fall by Creeper
+[20Jun2025 08:40:50.533] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 08:40:50.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.599905014038086) to LOW (avg. 20.824657440185547)
+[20Jun2025 08:41:28.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.104129791259766) to VERY_LOW (avg. 18.941129684448242)
+[20Jun2025 08:41:43.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/12625, l='ServerLevel[world]', x=-1337.89, y=92.00, z=-386.27] died, message: 'Farmer was shot by Skeleton'
+[20Jun2025 08:41:43.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.941129684448242) to LOW (avg. 20.707965850830078)
+[20Jun2025 08:41:48.635] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12601, l='ServerLevel[world]', x=-1344.06, y=99.00, z=-346.42] died, message: 'Villager was blown up by Creeper'
+[20Jun2025 08:41:48.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12665, l='ServerLevel[world]', x=-1343.45, y=99.00, z=-347.62] died, message: 'Villager was blown up by Creeper'
+[20Jun2025 08:41:48.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12666, l='ServerLevel[world]', x=-1343.69, y=99.00, z=-346.27] died, message: 'Villager was blown up by Creeper'
+[20Jun2025 08:41:50.387] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12302, l='ServerLevel[world]', x=-1405.97, y=64.56, z=-379.41] died, message: 'Villager was blown up by Creeper'
+[20Jun2025 08:42:04.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was blown up by Creeper
+[20Jun2025 08:42:04.871] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 08:42:23.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12300, l='ServerLevel[world]', x=-1382.08, y=76.96, z=-371.70] died, message: 'Villager was blown up by Creeper'
+[20Jun2025 08:42:28.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.27052879333496) to VERY_LOW (avg. 19.647991180419922)
+[20Jun2025 08:42:43.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.647991180419922) to LOW (avg. 25.705734252929688)
+[20Jun2025 08:43:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.79494857788086) to VERY_LOW (avg. 15.869155883789062)
+[20Jun2025 08:43:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.278120040893555) to LOW (avg. 20.83283042907715)
+[20Jun2025 08:44:05.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.83283042907715) to VERY_LOW (avg. 18.451679229736328)
+[20Jun2025 08:44:13.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.451679229736328) to LOW (avg. 21.729307174682617)
