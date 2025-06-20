@@ -650,6 +650,14 @@
             "discoveredTimestamp": 1750416960788,
             "caughtTimestamp": 1750416960788
           }
+        },
+        "zubat": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750417311042,
+            "caughtTimestamp": 1750417311042
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -665,26 +673,26 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 47,
+    "totalCaptureCount": 48,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 19,
-    "totalBattleVictoryCount": 72,
+    "totalBattleVictoryCount": 73,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 72,
+    "totalPvWBattleVictoryCount": 73,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
       "rock": 4,
       "bug": 8,
-      "poison": 4,
+      "poison": 5,
       "water": 10,
       "ghost": 2,
       "fire": 1,
       "ice": 1,
       "fairy": 2,
       "normal": 14,
-      "flying": 6,
+      "flying": 7,
       "ground": 3,
       "grass": 5,
       "fighting": 3,

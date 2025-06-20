@@ -3166,3 +3166,31 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 10:54:17.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
 [20Jun2025 10:54:17.655] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
 [20Jun2025 10:56:13.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.741724014282227) to LOW (avg. 21.684539794921875)
+[20Jun2025 10:56:28.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.684539794921875) to VERY_LOW (avg. 18.322643280029297)
+[20Jun2025 10:56:53.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/228046, l='ServerLevel[world]', x=-1841.08, y=-21.00, z=200.54] died: Paco Pepe was slain by Zombie
+[20Jun2025 10:57:21.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Mine Turtle!]
+[20Jun2025 10:58:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.230628967285156) to LOW (avg. 20.107479095458984)
+[20Jun2025 10:59:05.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.107479095458984) to VERY_LOW (avg. 15.347743034362793)
+[20Jun2025 10:59:20.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.347743034362793) to LOW (avg. 23.84294319152832)
+[20Jun2025 10:59:28.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.84294319152832) to VERY_LOW (avg. 16.082704544067383)
+[20Jun2025 10:59:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.110414505004883) to LOW (avg. 28.469512939453125)
+[20Jun2025 11:00:13.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.469512939453125) to VERY_LOW (avg. 18.087247848510742)
+[20Jun2025 11:00:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.64295196533203) to LOW (avg. 21.771526336669922)
+[20Jun2025 11:00:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.720932006835938) to VERY_LOW (avg. 17.45530891418457)
+[20Jun2025 11:01:05.976] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.45530891418457) to LOW (avg. 29.176753997802734)
+[20Jun2025 11:01:28.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.24879264831543) to VERY_LOW (avg. 16.847736358642578)
+[20Jun2025 11:01:50.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.588062286376953) to LOW (avg. 22.717966079711914)
+[20Jun2025 11:02:05.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.717966079711914) to VERY_LOW (avg. 15.861851692199707)
+[20Jun2025 11:02:12.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was blown up by Creeper
+[20Jun2025 11:02:12.059] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 11:03:22.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was shot by Skeleton
+[20Jun2025 11:03:22.506] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 11:03:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.80454444885254) to LOW (avg. 20.206289291381836)
+[20Jun2025 11:04:05.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.206289291381836) to VERY_LOW (avg. 19.75467872619629)
+[20Jun2025 11:04:13.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.75467872619629) to LOW (avg. 20.28097152709961)
+[20Jun2025 11:04:59.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was blown up by Creeper
+[20Jun2025 11:04:59.209] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 11:05:13.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.42321014404297) to VERY_LOW (avg. 14.929317474365234)
+[20Jun2025 11:05:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.14783477783203) to LOW (avg. 23.33092498779297)
+[20Jun2025 11:05:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.929645538330078) to VERY_LOW (avg. 18.82766342163086)
+[20Jun2025 11:06:13.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.82766342163086) to LOW (avg. 20.15097427368164)

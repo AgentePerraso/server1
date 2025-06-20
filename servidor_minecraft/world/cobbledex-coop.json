@@ -1037,6 +1037,14 @@
         "discoveredTimestamp": 1750416898737,
         "caughtTimestamp": 1750416898737
       }
+    },
+    "zubat": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750417311043,
+        "caughtTimestamp": 1750417311043
+      }
     }
   }
 }
