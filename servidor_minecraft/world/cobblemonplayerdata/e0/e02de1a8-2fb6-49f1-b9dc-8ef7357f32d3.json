@@ -254,6 +254,14 @@
             "status": "SEEN",
             "discoveredTimestamp": 1750408496801
           }
+        },
+        "rampardos": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750409545752,
+            "caughtTimestamp": 1750409545752
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -268,7 +276,7 @@
   "advancementData": {
     "totalCaptureCount": 6,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 7,
+    "totalEvolvedCount": 8,
     "totalBattleVictoryCount": 32,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 32,

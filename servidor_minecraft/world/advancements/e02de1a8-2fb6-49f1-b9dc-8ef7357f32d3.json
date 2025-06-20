@@ -104,6 +104,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "blackwood_taiga": "2025-06-15 09:47:27 +0000",
+      "rocky_meadow": "2025-06-20 08:42:43 +0000",
       "blackstone_basin": "2025-06-16 10:24:55 +0000",
       "pine_slopes": "2025-06-15 09:44:57 +0000",
       "lupine_plains": "2025-06-15 10:50:48 +0000"
@@ -113,6 +114,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "blackwood_taiga": "2025-06-15 09:47:27 +0000",
+      "rocky_meadow": "2025-06-20 08:42:43 +0000",
       "pine_slopes": "2025-06-15 09:44:57 +0000",
       "lupine_plains": "2025-06-15 10:50:48 +0000"
     },
@@ -158,7 +160,8 @@
       "minecraft:creeper": "2025-06-15 10:28:59 +0000",
       "minecraft:phantom": "2025-06-15 11:23:35 +0000",
       "minecraft:zombie": "2025-06-15 09:47:01 +0000",
-      "minecraft:drowned": "2025-06-15 11:17:12 +0000"
+      "minecraft:drowned": "2025-06-15 11:17:12 +0000",
+      "minecraft:zombie_villager": "2025-06-20 08:41:26 +0000"
     },
     "done": false
   },
@@ -262,6 +265,7 @@
       "cooked_cod": "2025-06-16 10:45:14 +0000",
       "mutton": "2025-06-15 11:54:57 +0000",
       "golden_apple": "2025-06-15 11:17:20 +0000",
+      "bread": "2025-06-20 08:48:38 +0000",
       "rotten_flesh": "2025-06-15 09:49:29 +0000",
       "suspicious_stew": "2025-06-16 10:38:42 +0000",
       "cooked_chicken": "2025-06-16 09:23:34 +0000",
@@ -326,6 +330,7 @@
       "minecraft:lukewarm_ocean": "2025-06-15 10:38:48 +0000",
       "minecraft:river": "2025-06-15 10:01:27 +0000",
       "minecraft:stony_shore": "2025-06-15 09:53:36 +0000",
+      "minecraft:jagged_peaks": "2025-06-20 08:44:43 +0000",
       "minecraft:ocean": "2025-06-15 10:58:14 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-16 09:30:29 +0000",
       "minecraft:plains": "2025-06-16 09:34:46 +0000"
@@ -581,7 +586,8 @@
   },
   "vanillacookbook:more_balanced_diet": {
     "criteria": {
-      "miners_salad": "2025-06-15 11:07:34 +0000"
+      "miners_salad": "2025-06-15 11:07:34 +0000",
+      "apple_pie": "2025-06-20 08:49:16 +0000"
     },
     "done": false
   },
@@ -857,73 +863,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 08:39:32 +0000"
+      "log_spam_fixer": "2025-06-20 08:49:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 08:39:32 +0000"
+      "log_spam_fixer": "2025-06-20 08:49:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 08:39:32 +0000"
+      "log_spam_fixer": "2025-06-20 08:49:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 08:39:32 +0000"
+      "log_spam_fixer": "2025-06-20 08:49:32 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 08:39:32 +0000"
+      "log_spam_fixer": "2025-06-20 08:49:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 08:39:32 +0000"
+      "log_spam_fixer": "2025-06-20 08:49:32 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 08:39:32 +0000"
+      "log_spam_fixer": "2025-06-20 08:49:32 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 08:39:32 +0000"
+      "log_spam_fixer": "2025-06-20 08:49:32 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 08:39:32 +0000"
+      "log_spam_fixer": "2025-06-20 08:49:32 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 08:39:32 +0000"
+      "log_spam_fixer": "2025-06-20 08:49:32 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 08:39:32 +0000"
+      "log_spam_fixer": "2025-06-20 08:49:32 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 08:39:32 +0000"
+      "log_spam_fixer": "2025-06-20 08:49:32 +0000"
     },
     "done": false
   },
@@ -1146,6 +1152,12 @@
   "exposure:adventure/moment_in_time": {
     "criteria": {
       "get_photograph": "2025-06-20 08:35:28 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/wheat": {
+    "criteria": {
+      "has_wheat": "2025-06-20 08:40:55 +0000"
     },
     "done": true
   },

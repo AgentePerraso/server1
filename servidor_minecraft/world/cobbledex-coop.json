@@ -582,6 +582,14 @@
         "status": "SEEN",
         "discoveredTimestamp": 1750408496802
       }
+    },
+    "rampardos": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750409545753,
+        "caughtTimestamp": 1750409545753
+      }
     }
   }
 }
