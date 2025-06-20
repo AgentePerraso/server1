@@ -3084,3 +3084,27 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 10:02:40.543] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 8c65fa2b-ef0b-4b91-ae63-d9cd1f68a09e
 [20Jun2025 10:02:40.543] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 8c65fa2b-ef0b-4b91-ae63-d9cd1f68a09e
 [20Jun2025 10:06:13.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Sweet Tooth]
+[20Jun2025 10:26:16.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 10:26:16.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 10:26:16.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 10:26:17.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 10:26:17.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 10:26:18.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 10:26:19.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> zzz
+[20Jun2025 10:28:22.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [Strong or Careful]
+[20Jun2025 10:28:22.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was blown up by Creeper
+[20Jun2025 10:28:22.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/195235, l='ServerLevel[world]', x=-1851.50, y=32.00, z=228.52] died: Paco Pepe was blown up by Creeper
+[20Jun2025 10:28:22.764] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 10:29:25.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
+[20Jun2025 10:29:25.720] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 10:30:27.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/162929, l='ServerLevel[world]', x=-1816.15, y=12.40, z=229.12] died: Angry Creeper was slain by Ansoooooo
+[20Jun2025 10:31:03.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/197225, l='ServerLevel[world]', x=-1824.06, y=13.00, z=233.28] died: Paco Pepe was shot by Skeleton
+[20Jun2025 10:31:17.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
+[20Jun2025 10:31:17.159] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 10:32:31.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Skeleton
+[20Jun2025 10:32:31.306] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 10:33:07.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [Bone Crusher]
+[20Jun2025 10:34:11.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was shot by Skeleton
+[20Jun2025 10:34:11.516] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 10:34:52.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has completed the challenge [Unusual Park]
+[20Jun2025 10:35:05.229] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Avión'/202428, l='ServerLevel[world]', x=-1828.83, y=8.00, z=300.48] died: Avión was blown up by Creeper

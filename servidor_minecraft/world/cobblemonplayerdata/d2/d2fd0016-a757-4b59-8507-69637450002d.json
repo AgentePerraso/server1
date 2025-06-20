@@ -688,6 +688,22 @@
             "status": "SEEN",
             "discoveredTimestamp": 1750413947485
           }
+        },
+        "morelull": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750415367237,
+            "caughtTimestamp": 1750415367237
+          }
+        },
+        "shiinotic": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750415401290,
+            "caughtTimestamp": 1750415401290
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -697,23 +713,24 @@
         "15",
         "30",
         "45",
-        "60"
+        "60",
+        "75"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 44,
+    "totalCaptureCount": 45,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 26,
-    "totalBattleVictoryCount": 124,
+    "totalEvolvedCount": 27,
+    "totalBattleVictoryCount": 125,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 124,
+    "totalPvWBattleVictoryCount": 125,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
-      "grass": 8,
+      "grass": 9,
       "psychic": 2,
       "water": 6,
       "normal": 11,
@@ -726,7 +743,7 @@
       "fighting": 3,
       "bug": 8,
       "electric": 2,
-      "fairy": 3,
+      "fairy": 4,
       "rock": 1,
       "poison": 2
     },

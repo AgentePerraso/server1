@@ -997,6 +997,30 @@
         "discoveredTimestamp": 1750413987647,
         "caughtTimestamp": 1750413987647
       }
+    },
+    "morelull": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750415367238,
+        "caughtTimestamp": 1750415367238
+      }
+    },
+    "shiinotic": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750415401292,
+        "caughtTimestamp": 1750415401292
+      }
+    },
+    "diglett": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750415714141,
+        "caughtTimestamp": 1750415714141
+      }
     }
   }
 }
