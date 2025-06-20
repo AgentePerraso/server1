@@ -162,8 +162,9 @@
         "patrat": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1749996375091
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749996375091,
+            "caughtTimestamp": 1750412846689
           }
         },
         "sentret": {
@@ -268,8 +269,9 @@
         "cutiefly": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1750071108478
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750071108478,
+            "caughtTimestamp": 1750413322188
           }
         },
         "gossifleur": {
@@ -565,6 +567,78 @@
             "discoveredTimestamp": 1750412705236,
             "caughtTimestamp": 1750412705236
           }
+        },
+        "skiploom": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412826144,
+            "caughtTimestamp": 1750412826144
+          }
+        },
+        "roserade": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412970792,
+            "caughtTimestamp": 1750412970792
+          }
+        },
+        "rapidash": {
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412994688,
+            "caughtTimestamp": 1750412994688
+          }
+        },
+        "graveler": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413019484,
+            "caughtTimestamp": 1750413019484
+          }
+        },
+        "golem": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413054101,
+            "caughtTimestamp": 1750413054101
+          }
+        },
+        "jumpluff": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413064659,
+            "caughtTimestamp": 1750413064659
+          }
+        },
+        "flaaffy": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413076684,
+            "caughtTimestamp": 1750413076684
+          }
+        },
+        "obstagoon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413152239,
+            "caughtTimestamp": 1750413152239
+          }
+        },
+        "florges": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413245432,
+            "caughtTimestamp": 1750413245432
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -573,36 +647,37 @@
       "received": [
         "15",
         "30",
-        "45"
+        "45",
+        "60"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 37,
+    "totalCaptureCount": 40,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 15,
-    "totalBattleVictoryCount": 118,
+    "totalEvolvedCount": 23,
+    "totalBattleVictoryCount": 120,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 118,
+    "totalPvWBattleVictoryCount": 120,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
-    "totalTradedCount": 4,
+    "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
-      "grass": 6,
+      "grass": 7,
       "psychic": 2,
       "water": 5,
-      "normal": 8,
-      "flying": 12,
+      "normal": 9,
+      "flying": 13,
       "ground": 3,
       "fire": 2,
       "steel": 2,
       "dark": 3,
       "ice": 1,
       "fighting": 3,
-      "bug": 6,
+      "bug": 7,
       "electric": 2,
-      "fairy": 1,
+      "fairy": 2,
       "rock": 1,
       "poison": 2
     },

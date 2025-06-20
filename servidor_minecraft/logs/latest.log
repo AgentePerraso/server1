@@ -3057,3 +3057,17 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 09:45:04.337] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 26dd0080-852c-43e0-b1c5-9b3da726c7a5
 [20Jun2025 09:45:20.539] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4922d6a7-8b4c-4c9a-b12b-c64520b73f12
 [20Jun2025 09:45:20.539] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4922d6a7-8b4c-4c9a-b12b-c64520b73f12
+[20Jun2025 09:47:03.690] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2c02ce17-d530-4b3b-8642-390e72630dd5
+[20Jun2025 09:47:03.690] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2c02ce17-d530-4b3b-8642-390e72630dd5
+[20Jun2025 09:47:13.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.623674392700195) to LOW (avg. 20.965518951416016)
+[20Jun2025 09:47:28.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.965518951416016) to VERY_LOW (avg. 18.480031967163086)
+[20Jun2025 09:48:16.387] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2d1c38ea-21dd-4478-9cfe-aa0afb96ff2c
+[20Jun2025 09:48:16.387] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2d1c38ea-21dd-4478-9cfe-aa0afb96ff2c
+[20Jun2025 09:49:55.589] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 78f683fd-52ea-4aa5-8535-7dfa7b08064a
+[20Jun2025 09:49:55.589] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 78f683fd-52ea-4aa5-8535-7dfa7b08064a
+[20Jun2025 09:50:19.088] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 39971f02-ac1a-442e-aefa-0a0b76d3668a
+[20Jun2025 09:50:19.088] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 39971f02-ac1a-442e-aefa-0a0b76d3668a
+[20Jun2025 09:50:32.689] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6e51ae8f-780b-4b49-8e99-305b52587662
+[20Jun2025 09:50:32.689] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6e51ae8f-780b-4b49-8e99-305b52587662
+[20Jun2025 09:54:50.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.159961700439453) to LOW (avg. 20.354206085205078)
+[20Jun2025 09:54:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.354206085205078) to VERY_LOW (avg. 18.926992416381836)
