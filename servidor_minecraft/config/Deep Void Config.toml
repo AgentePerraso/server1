@@ -10,6 +10,10 @@
 	TeleportHeight = -70.0
 	#If the Deep Void should have fog or not
 	DeepVoidFog = true
+	#If blocks under specific biomes should generate plants on top of them to make the cave biome (this depends on random tick speed). If the server lags a lot, set this to true
+	StopActiveBlockGeneration = false
+	#If the old structure with the hole to the void should generate in the overworld instead of the new version
+	OldHoleStructure = false
 
 [Spawns]
 	#Whether Abductors will spawn in the Overworld or not
@@ -54,6 +58,10 @@
 	CreepingDarkness = false
 	#The player spawns in the Deep Void
 	EndlessAbyss = false
+	#Like Hell, but when the player dies in the Deep Void, they stay in the Deep Void
+	Purgatory = false
+	#If torches should be given to players that respawn in the Deep Void (through Hell or Purgatory)
+	GiveTorches = true
 
 ["Critical Changes"]
 	#If true, the old structure containing the Weaver Of Souls will be overwritten by the new one (this WILL destroy anything around it)

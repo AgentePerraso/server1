@@ -445,6 +445,109 @@
         "discoveredTimestamp": 1750169954618,
         "caughtTimestamp": 1750169954618
       }
+    },
+    "phione": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750252890873,
+        "caughtTimestamp": 1750252890873
+      }
+    },
+    "sneasel": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750254565828,
+        "caughtTimestamp": 1750254565828
+      }
+    },
+    "machop": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750254634270,
+        "caughtTimestamp": 1750254634270
+      }
+    },
+    "dewpider": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750254885365,
+        "caughtTimestamp": 1750254885365
+      }
+    },
+    "ponyta": {
+      "galar": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750255506808
+      }
+    },
+    "farfetchd": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750256310015,
+        "caughtTimestamp": 1750256310015
+      }
+    },
+    "excadrill": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750256624562,
+        "caughtTimestamp": 1750256624562
+      }
+    },
+    "pawmi": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750257031011,
+        "caughtTimestamp": 1750257031011
+      }
+    },
+    "seedot": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750257053662,
+        "caughtTimestamp": 1750257053662
+      }
+    },
+    "pidove": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750257070609,
+        "caughtTimestamp": 1750257070609
+      }
+    },
+    "flabebe": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750257127609,
+        "caughtTimestamp": 1750257127609
+      }
+    },
+    "machoke": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750257188222,
+        "caughtTimestamp": 1750257188222
+      }
+    },
+    "tauros": {
+      "paldeaaqua": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750257289664,
+        "caughtTimestamp": 1750257289664
+      }
     }
   }
 }
