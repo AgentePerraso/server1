@@ -676,9 +676,9 @@
     "totalCaptureCount": 48,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 19,
-    "totalBattleVictoryCount": 73,
+    "totalBattleVictoryCount": 76,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 73,
+    "totalPvWBattleVictoryCount": 76,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
@@ -715,10 +715,12 @@
       "cobblemon:cutiefly": 1,
       "cobblemon:kingler": 4,
       "cobblemon:butterfree": 1,
-      "cobblemon:crabrawler": 1,
+      "cobblemon:crabrawler": 2,
       "cobblemon:yanma": 1,
       "cobblemon:araquanid": 1,
-      "cobblemon:wingull": 1
+      "cobblemon:wingull": 1,
+      "cobblemon:ponyta": 1,
+      "cobblemon:farfetchd": 1
     },
     "aspectsCollected": {}
   }
