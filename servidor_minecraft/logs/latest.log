@@ -3071,3 +3071,15 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 09:50:32.689] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6e51ae8f-780b-4b49-8e99-305b52587662
 [20Jun2025 09:54:50.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.159961700439453) to LOW (avg. 20.354206085205078)
 [20Jun2025 09:54:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.354206085205078) to VERY_LOW (avg. 18.926992416381836)
+[20Jun2025 09:55:55.437] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 1998ecd2-f449-4f07-a206-b632b755f0cb
+[20Jun2025 09:55:55.438] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 1998ecd2-f449-4f07-a206-b632b755f0cb
+[20Jun2025 09:56:44.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> ./cobbledex config CoopMode true
+[20Jun2025 09:58:05.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.91228485107422) to LOW (avg. 21.202774047851562)
+[20Jun2025 09:58:13.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> ./cobbledex config CoopMode true
+[20Jun2025 09:59:54.049] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ed5a4796-896d-416a-b3d9-fa912c9f3dca
+[20Jun2025 09:59:54.050] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ed5a4796-896d-416a-b3d9-fa912c9f3dca
+[20Jun2025 10:00:16.645] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6b529cee-c187-42f5-9428-cf2861db0f6f
+[20Jun2025 10:00:16.645] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6b529cee-c187-42f5-9428-cf2861db0f6f
+[20Jun2025 10:00:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.831239700317383) to VERY_LOW (avg. 17.876195907592773)
+[20Jun2025 10:02:40.543] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 8c65fa2b-ef0b-4b91-ae63-d9cd1f68a09e
+[20Jun2025 10:02:40.543] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 8c65fa2b-ef0b-4b91-ae63-d9cd1f68a09e

@@ -280,8 +280,9 @@
     "gossifleur": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1750066829194
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750066829194,
+        "caughtTimestamp": 1750413597200
       }
     },
     "roselia": {
@@ -874,6 +875,102 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750413277340,
         "caughtTimestamp": 1750413277340
+      }
+    },
+    "pawmo": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413362242,
+        "caughtTimestamp": 1750413362242
+      }
+    },
+    "frillish": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413428186,
+        "caughtTimestamp": 1750413428186
+      }
+    },
+    "igglybuff": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413529347,
+        "caughtTimestamp": 1750413529347
+      }
+    },
+    "araquanid": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413561099,
+        "caughtTimestamp": 1750413561099
+      }
+    },
+    "ampharos": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413568695,
+        "caughtTimestamp": 1750413568695
+      }
+    },
+    "eldegoss": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413602648,
+        "caughtTimestamp": 1750413602648
+      }
+    },
+    "pyukumuku": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413747940,
+        "caughtTimestamp": 1750413747940
+      }
+    },
+    "skrelp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413764340,
+        "caughtTimestamp": 1750413764340
+      }
+    },
+    "golisopod": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413851015,
+        "caughtTimestamp": 1750413851015
+      }
+    },
+    "pidgeotto": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413871299,
+        "caughtTimestamp": 1750413871299
+      }
+    },
+    "maushold": {
+      "four": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413879237,
+        "caughtTimestamp": 1750413879237
+      }
+    },
+    "primeape": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413909086,
+        "caughtTimestamp": 1750413909086
       }
     }
   }

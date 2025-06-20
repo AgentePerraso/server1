@@ -199,8 +199,9 @@
         "bunnelby": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1749998158107
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749998158107,
+            "caughtTimestamp": 1750413358085
           }
         },
         "mudsdale": {
@@ -277,8 +278,9 @@
         "gossifleur": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1750071113044
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750071113044,
+            "caughtTimestamp": 1750413597200
           }
         },
         "ferroseed": {
@@ -639,6 +641,46 @@
             "discoveredTimestamp": 1750413245432,
             "caughtTimestamp": 1750413245432
           }
+        },
+        "pawmo": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413362241,
+            "caughtTimestamp": 1750413362241
+          }
+        },
+        "igglybuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413529346,
+            "caughtTimestamp": 1750413529346
+          }
+        },
+        "araquanid": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413561098,
+            "caughtTimestamp": 1750413561098
+          }
+        },
+        "ampharos": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413568695,
+            "caughtTimestamp": 1750413568695
+          }
+        },
+        "eldegoss": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413602648,
+            "caughtTimestamp": 1750413602648
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -654,20 +696,20 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 40,
+    "totalCaptureCount": 44,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 23,
-    "totalBattleVictoryCount": 120,
+    "totalEvolvedCount": 26,
+    "totalBattleVictoryCount": 123,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 120,
+    "totalPvWBattleVictoryCount": 123,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
-      "grass": 7,
+      "grass": 8,
       "psychic": 2,
-      "water": 5,
-      "normal": 9,
+      "water": 6,
+      "normal": 11,
       "flying": 13,
       "ground": 3,
       "fire": 2,
@@ -675,9 +717,9 @@
       "dark": 3,
       "ice": 1,
       "fighting": 3,
-      "bug": 7,
+      "bug": 8,
       "electric": 2,
-      "fairy": 2,
+      "fairy": 3,
       "rock": 1,
       "poison": 2
     },
@@ -711,7 +753,7 @@
       "cobblemon:crabrawler": 4,
       "cobblemon:lilligant": 1,
       "cobblemon:petilil": 2,
-      "cobblemon:vivillon": 5,
+      "cobblemon:vivillon": 6,
       "cobblemon:gengar": 1,
       "cobblemon:butterfree": 2,
       "cobblemon:kingler": 1,
