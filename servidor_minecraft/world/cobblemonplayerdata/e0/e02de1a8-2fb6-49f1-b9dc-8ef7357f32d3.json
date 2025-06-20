@@ -262,6 +262,21 @@
             "discoveredTimestamp": 1750409545752,
             "caughtTimestamp": 1750409545752
           }
+        },
+        "excadrill": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750410056834
+          }
+        },
+        "lapras": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750410062291,
+            "caughtTimestamp": 1750410062291
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -274,12 +289,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 6,
+    "totalCaptureCount": 7,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 32,
+    "totalBattleVictoryCount": 33,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 32,
+    "totalPvWBattleVictoryCount": 33,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 2,
@@ -287,9 +302,10 @@
       "rock": 2,
       "bug": 3,
       "poison": 2,
-      "water": 1,
+      "water": 2,
       "ghost": 1,
-      "fire": 1
+      "fire": 1,
+      "ice": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:flabebe": 1,

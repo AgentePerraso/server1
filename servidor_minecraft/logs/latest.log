@@ -3017,3 +3017,9 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 08:50:54.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Herb your Enthusiasm]
 [20Jun2025 08:51:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Knowledge raises the soul]
 [20Jun2025 08:52:12.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [Die Classy]
+[20Jun2025 08:55:50.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.16730499267578) to LOW (avg. 22.38567352294922)
+[20Jun2025 08:56:05.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.38567352294922) to VERY_LOW (avg. 17.83185386657715)
+[20Jun2025 09:01:20.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Goat Man
+[20Jun2025 09:01:20.768] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 09:02:37.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Knowledge raises the soul]
+[20Jun2025 09:03:34.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [Magic Siphoner]

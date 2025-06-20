@@ -590,6 +590,38 @@
         "discoveredTimestamp": 1750409545753,
         "caughtTimestamp": 1750409545753
       }
+    },
+    "nuzleaf": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750409731038,
+        "caughtTimestamp": 1750409731038
+      }
+    },
+    "floette": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750409762592,
+        "caughtTimestamp": 1750409762592
+      }
+    },
+    "tranquill": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750409776303,
+        "caughtTimestamp": 1750409776303
+      }
+    },
+    "lapras": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750410062291,
+        "caughtTimestamp": 1750410062291
+      }
     }
   }
 }
