@@ -547,6 +547,18 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750257289664,
         "caughtTimestamp": 1750257289664
+      },
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750407572089
+      }
+    },
+    "miltank": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750407581886
       }
     }
   }

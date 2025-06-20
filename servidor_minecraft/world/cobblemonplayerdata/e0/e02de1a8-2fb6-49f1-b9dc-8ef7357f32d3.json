@@ -197,6 +197,34 @@
             "discoveredTimestamp": 1750074317035,
             "caughtTimestamp": 1750074317035
           }
+        },
+        "tauros": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750407572087
+          }
+        },
+        "ponyta": {
+          "galar": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750407579551
+          }
+        },
+        "miltank": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750407581886
+          }
+        },
+        "furret": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750407622539
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -210,9 +238,9 @@
     "totalCaptureCount": 5,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 7,
-    "totalBattleVictoryCount": 30,
+    "totalBattleVictoryCount": 31,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 30,
+    "totalPvWBattleVictoryCount": 31,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 2,
@@ -241,7 +269,8 @@
       "cobblemon:kingler": 3,
       "cobblemon:butterfree": 1,
       "cobblemon:crabrawler": 1,
-      "cobblemon:yanma": 1
+      "cobblemon:yanma": 1,
+      "cobblemon:araquanid": 1
     },
     "aspectsCollected": {}
   }
