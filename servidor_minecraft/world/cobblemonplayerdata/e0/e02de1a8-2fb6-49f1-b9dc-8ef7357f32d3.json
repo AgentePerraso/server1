@@ -93,6 +93,12 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1750066590079
+          },
+          "hisui": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750419745203,
+            "caughtTimestamp": 1750419745203
           }
         },
         "gossifleur": {
@@ -235,8 +241,9 @@
         "furret": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1750407622539
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750407622539,
+            "caughtTimestamp": 1750419790670
           }
         },
         "cranidos": {
@@ -279,8 +286,9 @@
         "excadrill": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1750410056834
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750410056834,
+            "caughtTimestamp": 1750419881050
           }
         },
         "lapras": {
@@ -658,6 +666,102 @@
             "discoveredTimestamp": 1750417311042,
             "caughtTimestamp": 1750417311042
           }
+        },
+        "ribombee": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750419421147,
+            "caughtTimestamp": 1750419421147
+          }
+        },
+        "ledyba": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750419469948,
+            "caughtTimestamp": 1750419469948
+          }
+        },
+        "oddish": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750419518341,
+            "caughtTimestamp": 1750419518341
+          }
+        },
+        "rattata": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750419657586,
+            "caughtTimestamp": 1750419657586
+          }
+        },
+        "crabominable": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750419703587,
+            "caughtTimestamp": 1750419703587
+          }
+        },
+        "ledian": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750419758053,
+            "caughtTimestamp": 1750419758053
+          }
+        },
+        "gloom": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750419765253,
+            "caughtTimestamp": 1750419765253
+          }
+        },
+        "vileplume": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750419776469,
+            "caughtTimestamp": 1750419776469
+          }
+        },
+        "raticate": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750419783557,
+            "caughtTimestamp": 1750419783557
+          }
+        },
+        "nuzleaf": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750419796652,
+            "caughtTimestamp": 1750419796652
+          }
+        },
+        "shiftry": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750419809669,
+            "caughtTimestamp": 1750419809669
+          }
+        },
+        "dottler": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750419821819,
+            "caughtTimestamp": 1750419821819
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -667,34 +771,35 @@
         "15",
         "30",
         "45",
-        "60"
+        "60",
+        "75"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 48,
+    "totalCaptureCount": 51,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 19,
-    "totalBattleVictoryCount": 76,
+    "totalEvolvedCount": 31,
+    "totalBattleVictoryCount": 78,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 76,
+    "totalPvWBattleVictoryCount": 78,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
       "rock": 4,
-      "bug": 8,
-      "poison": 5,
+      "bug": 9,
+      "poison": 6,
       "water": 10,
       "ghost": 2,
       "fire": 1,
       "ice": 1,
       "fairy": 2,
-      "normal": 14,
-      "flying": 7,
+      "normal": 15,
+      "flying": 8,
       "ground": 3,
-      "grass": 5,
+      "grass": 6,
       "fighting": 3,
       "psychic": 1,
       "electric": 1
@@ -711,7 +816,7 @@
       "cobblemon:snorunt": 1,
       "cobblemon:krabby": 1,
       "cobblemon:petilil": 2,
-      "cobblemon:tauros": 2,
+      "cobblemon:tauros": 3,
       "cobblemon:cutiefly": 1,
       "cobblemon:kingler": 4,
       "cobblemon:butterfree": 1,
