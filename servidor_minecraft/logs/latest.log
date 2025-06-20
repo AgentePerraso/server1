@@ -3083,3 +3083,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 10:00:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.831239700317383) to VERY_LOW (avg. 17.876195907592773)
 [20Jun2025 10:02:40.543] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 8c65fa2b-ef0b-4b91-ae63-d9cd1f68a09e
 [20Jun2025 10:02:40.543] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 8c65fa2b-ef0b-4b91-ae63-d9cd1f68a09e
+[20Jun2025 10:06:13.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Sweet Tooth]

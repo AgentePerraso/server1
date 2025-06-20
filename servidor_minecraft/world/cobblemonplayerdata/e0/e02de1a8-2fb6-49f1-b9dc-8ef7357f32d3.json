@@ -556,6 +556,62 @@
             "discoveredTimestamp": 1750413909085,
             "caughtTimestamp": 1750413909085
           }
+        },
+        "kingler": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413946114,
+            "caughtTimestamp": 1750413946114
+          }
+        },
+        "linoone": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413951496,
+            "caughtTimestamp": 1750413951496
+          }
+        },
+        "metapod": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413987646,
+            "caughtTimestamp": 1750413987646
+          }
+        },
+        "butterfree": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413989946,
+            "caughtTimestamp": 1750413989946
+          }
+        },
+        "diggersby": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750413998435,
+            "caughtTimestamp": 1750413998435
+          }
+        },
+        "dubwool": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750414008986,
+            "caughtTimestamp": 1750414008986
+          }
+        },
+        "bouffalant": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750414420844,
+            "caughtTimestamp": 1750414420844
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -564,18 +620,19 @@
       "received": [
         "15",
         "30",
-        "45"
+        "45",
+        "60"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 41,
+    "totalCaptureCount": 42,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 13,
-    "totalBattleVictoryCount": 63,
+    "totalEvolvedCount": 19,
+    "totalBattleVictoryCount": 67,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 63,
+    "totalPvWBattleVictoryCount": 67,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
@@ -588,7 +645,7 @@
       "fire": 1,
       "ice": 1,
       "fairy": 2,
-      "normal": 12,
+      "normal": 13,
       "flying": 5,
       "ground": 1,
       "grass": 5,
@@ -608,13 +665,14 @@
       "cobblemon:snorunt": 1,
       "cobblemon:krabby": 1,
       "cobblemon:petilil": 2,
-      "cobblemon:tauros": 1,
+      "cobblemon:tauros": 2,
       "cobblemon:cutiefly": 1,
-      "cobblemon:kingler": 3,
+      "cobblemon:kingler": 4,
       "cobblemon:butterfree": 1,
       "cobblemon:crabrawler": 1,
       "cobblemon:yanma": 1,
-      "cobblemon:araquanid": 1
+      "cobblemon:araquanid": 1,
+      "cobblemon:wingull": 1
     },
     "aspectsCollected": {}
   }

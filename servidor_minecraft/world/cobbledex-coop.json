@@ -174,8 +174,9 @@
     "dubwool": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749989213159
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749989213159,
+        "caughtTimestamp": 1750414008986
       }
     },
     "pelipper": {
@@ -227,15 +228,17 @@
     "bouffalant": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749996679082
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749996679082,
+        "caughtTimestamp": 1750414420845
       }
     },
     "diggersby": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749997044881
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749997044881,
+        "caughtTimestamp": 1750413998436
       }
     },
     "bunnelby": {
@@ -691,6 +694,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750412372891,
         "caughtTimestamp": 1750412372891
+      },
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413951498,
+        "caughtTimestamp": 1750413951498
       }
     },
     "geodude": {
@@ -971,6 +980,22 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750413909086,
         "caughtTimestamp": 1750413909086
+      }
+    },
+    "kingler": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413946115,
+        "caughtTimestamp": 1750413946115
+      }
+    },
+    "metapod": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750413987647,
+        "caughtTimestamp": 1750413987647
       }
     }
   }

@@ -681,6 +681,13 @@
             "discoveredTimestamp": 1750413602648,
             "caughtTimestamp": 1750413602648
           }
+        },
+        "primeape": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750413947485
+          }
         }
       },
       "name": "cobbledex_discovery"
