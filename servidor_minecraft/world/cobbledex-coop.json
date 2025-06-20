@@ -560,6 +560,14 @@
         "status": "SEEN",
         "discoveredTimestamp": 1750407581886
       }
+    },
+    "cranidos": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750407967404,
+        "caughtTimestamp": 1750407967404
+      }
     }
   }
 }

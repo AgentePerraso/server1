@@ -2943,3 +2943,16 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 08:20:36.510] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
 [20Jun2025 08:24:02.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
 [20Jun2025 08:24:02.265] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 08:24:06.063] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.09868049621582) to HIGH (avg. 49.57419204711914)
+[20Jun2025 08:24:20.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.57419204711914) to VERY_LOW (avg. 13.694395065307617)
+[20Jun2025 08:26:43.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.619222640991211) to LOW (avg. 20.899032592773438)
+[20Jun2025 08:26:50.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.899032592773438) to VERY_LOW (avg. 15.623847961425781)
+[20Jun2025 08:26:55.591] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 225.0 μs. 293/293 recipes are parallelized.
+[20Jun2025 08:27:17.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Bouffalant
+[20Jun2025 08:27:17.607] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 08:29:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.404733657836914) to LOW (avg. 20.11928939819336)
+[20Jun2025 08:29:43.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.11928939819336) to VERY_LOW (avg. 18.996492385864258)
+[20Jun2025 08:30:05.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.467851638793945) to LOW (avg. 28.3149471282959)
+[20Jun2025 08:30:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.41632652282715) to VERY_LOW (avg. 14.91770076751709)
+[20Jun2025 08:31:13.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
+[20Jun2025 08:31:13.709] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved

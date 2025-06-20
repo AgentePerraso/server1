@@ -225,27 +225,37 @@
             "status": "SEEN",
             "discoveredTimestamp": 1750407622539
           }
+        },
+        "cranidos": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750407967401,
+            "caughtTimestamp": 1750407967401
+          }
         }
       },
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
-      "received": [],
+      "received": [
+        "15"
+      ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 7,
-    "totalBattleVictoryCount": 31,
+    "totalBattleVictoryCount": 32,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 31,
+    "totalPvWBattleVictoryCount": 32,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
-      "rock": 1,
+      "rock": 2,
       "bug": 3,
       "poison": 2,
       "water": 1,
