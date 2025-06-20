@@ -92,13 +92,20 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1749988523710
+          },
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412420040,
+            "caughtTimestamp": 1750412420040
           }
         },
         "mareep": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1749988540306
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749988540306,
+            "caughtTimestamp": 1750412505537
           }
         },
         "stonjourner": {
@@ -147,8 +154,9 @@
         "combee": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1749995638933
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749995638933,
+            "caughtTimestamp": 1750412403690
           }
         },
         "patrat": {
@@ -161,8 +169,9 @@
         "sentret": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1749996380640
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749996380640,
+            "caughtTimestamp": 1750412181342
           }
         },
         "lickitung": {
@@ -204,8 +213,9 @@
         "vivillon": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1750008227920
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750008227920,
+            "caughtTimestamp": 1750412262084
           }
         },
         "exeggutor": {
@@ -352,8 +362,9 @@
         "ponyta": {
           "galar": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1750255506807
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750255506807,
+            "caughtTimestamp": 1750412313390
           }
         },
         "farfetchd": {
@@ -459,6 +470,101 @@
             "discoveredTimestamp": 1750410457059,
             "caughtTimestamp": 1750410457059
           }
+        },
+        "crabrawler": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412197343,
+            "caughtTimestamp": 1750412197343
+          }
+        },
+        "vulpix": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412215340,
+            "caughtTimestamp": 1750412215340
+          }
+        },
+        "butterfree": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412339240,
+            "caughtTimestamp": 1750412339240
+          }
+        },
+        "linoone": {
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412372890,
+            "caughtTimestamp": 1750412372890
+          }
+        },
+        "geodude": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412386897,
+            "caughtTimestamp": 1750412386897
+          }
+        },
+        "krabby": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750412415041
+          }
+        },
+        "wingull": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412428401,
+            "caughtTimestamp": 1750412452244
+          }
+        },
+        "ninjask": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412485191,
+            "caughtTimestamp": 1750412485191
+          }
+        },
+        "budew": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412518795,
+            "caughtTimestamp": 1750412518795
+          }
+        },
+        "hoppip": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412549386,
+            "caughtTimestamp": 1750412549386
+          }
+        },
+        "roselia": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412686536,
+            "caughtTimestamp": 1750412686536
+          }
+        },
+        "pineco": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412705236,
+            "caughtTimestamp": 1750412705236
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -466,36 +572,39 @@
     "Cobbledex_RewardHistory": {
       "received": [
         "15",
-        "30"
+        "30",
+        "45"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 20,
+    "totalCaptureCount": 37,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 15,
-    "totalBattleVictoryCount": 105,
+    "totalBattleVictoryCount": 118,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 105,
+    "totalPvWBattleVictoryCount": 118,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
-      "grass": 3,
-      "psychic": 1,
-      "water": 4,
-      "normal": 5,
-      "flying": 6,
-      "ground": 2,
-      "fire": 1,
+      "grass": 6,
+      "psychic": 2,
+      "water": 5,
+      "normal": 8,
+      "flying": 12,
+      "ground": 3,
+      "fire": 2,
       "steel": 2,
-      "dark": 1,
+      "dark": 3,
       "ice": 1,
-      "fighting": 2,
-      "bug": 1,
-      "electric": 1,
-      "fairy": 1
+      "fighting": 3,
+      "bug": 6,
+      "electric": 2,
+      "fairy": 1,
+      "rock": 1,
+      "poison": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,
@@ -538,6 +647,10 @@
       "cobblemon:ralts": 1,
       "cobblemon:gimmighoul": 1
     },
-    "aspectsCollected": {}
+    "aspectsCollected": {
+      "cobblemon:vivillon": [
+        "vivillon-wings-modern"
+      ]
+    }
   }
 }

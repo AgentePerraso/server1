@@ -3033,3 +3033,27 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 09:28:49.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Goat Man
 [20Jun2025 09:28:49.155] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [20Jun2025 09:28:50.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [The Most Useful Key]
+[20Jun2025 09:36:18.542] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2948f10d-c98d-4372-baf7-a2bf30289497
+[20Jun2025 09:36:18.542] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2948f10d-c98d-4372-baf7-a2bf30289497
+[20Jun2025 09:36:20.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.17493438720703) to LOW (avg. 20.104995727539062)
+[20Jun2025 09:36:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.104995727539062) to VERY_LOW (avg. 17.46881103515625)
+[20Jun2025 09:37:07.988] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2dcaf5f8-c853-47e6-94af-ac329233c8a7
+[20Jun2025 09:37:07.988] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2dcaf5f8-c853-47e6-94af-ac329233c8a7
+[20Jun2025 09:37:16.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Vivillon
+[20Jun2025 09:37:16.701] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 09:37:23.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [A Fast Comeback]
+[20Jun2025 09:37:39.839] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: cc63d019-7b86-4e86-a33f-1b72a7a60e6f
+[20Jun2025 09:37:39.839] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: cc63d019-7b86-4e86-a33f-1b72a7a60e6f
+[20Jun2025 09:39:21.590] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: dfa29582-9c2d-4975-8f56-f5d979955334
+[20Jun2025 09:39:21.590] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: dfa29582-9c2d-4975-8f56-f5d979955334
+[20Jun2025 09:41:57.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 09:43:50.240] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 135bf28e-228d-44ed-a758-a737b8eb4d7e
+[20Jun2025 09:43:50.240] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 135bf28e-228d-44ed-a758-a737b8eb4d7e
+[20Jun2025 09:43:50.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Drowned
+[20Jun2025 09:43:50.259] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 09:44:46.387] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 39eac747-ecb3-4cfd-bd50-dd68ccf3b713
+[20Jun2025 09:44:46.387] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 39eac747-ecb3-4cfd-bd50-dd68ccf3b713
+[20Jun2025 09:45:04.336] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 26dd0080-852c-43e0-b1c5-9b3da726c7a5
+[20Jun2025 09:45:04.337] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 26dd0080-852c-43e0-b1c5-9b3da726c7a5
+[20Jun2025 09:45:20.539] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4922d6a7-8b4c-4c9a-b12b-c64520b73f12
+[20Jun2025 09:45:20.539] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4922d6a7-8b4c-4c9a-b12b-c64520b73f12

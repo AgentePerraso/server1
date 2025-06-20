@@ -201,8 +201,9 @@
         "tauros": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1750407572087
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750407572087,
+            "caughtTimestamp": 1750412715640
           }
         },
         "ponyta": {
@@ -293,6 +294,22 @@
             "discoveredTimestamp": 1750411950387,
             "caughtTimestamp": 1750411950387
           }
+        },
+        "pidgey": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412680238,
+            "caughtTimestamp": 1750412680238
+          }
+        },
+        "drilbur": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750412700087,
+            "caughtTimestamp": 1750412700087
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -305,12 +322,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 8,
+    "totalCaptureCount": 11,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 34,
+    "totalBattleVictoryCount": 37,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 34,
+    "totalPvWBattleVictoryCount": 37,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 4,
@@ -322,7 +339,10 @@
       "ghost": 1,
       "fire": 1,
       "ice": 1,
-      "fairy": 1
+      "fairy": 1,
+      "normal": 2,
+      "flying": 1,
+      "ground": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:flabebe": 1,
