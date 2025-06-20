@@ -104,8 +104,9 @@
         "gossifleur": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1750066829194
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750066829194,
+            "caughtTimestamp": 1750420273839
           }
         },
         "roselia": {
@@ -118,8 +119,9 @@
         "cottonee": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1750067287985
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750067287985,
+            "caughtTimestamp": 1750420288437
           }
         },
         "budew": {
@@ -762,6 +764,46 @@
             "discoveredTimestamp": 1750419821819,
             "caughtTimestamp": 1750419821819
           }
+        },
+        "deerling": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750420258638,
+            "caughtTimestamp": 1750420258638
+          }
+        },
+        "rapidash": {
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750420327636,
+            "caughtTimestamp": 1750420327636
+          }
+        },
+        "whimsicott": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750420390093,
+            "caughtTimestamp": 1750420390093
+          }
+        },
+        "igglybuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750420454539,
+            "caughtTimestamp": 1750420454539
+          }
+        },
+        "fomantis": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750420533042,
+            "caughtTimestamp": 1750420533042
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -772,18 +814,19 @@
         "30",
         "45",
         "60",
-        "75"
+        "75",
+        "90"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 51,
+    "totalCaptureCount": 56,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 31,
-    "totalBattleVictoryCount": 78,
+    "totalEvolvedCount": 33,
+    "totalBattleVictoryCount": 91,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 78,
+    "totalPvWBattleVictoryCount": 91,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
@@ -795,11 +838,11 @@
       "ghost": 2,
       "fire": 1,
       "ice": 1,
-      "fairy": 2,
-      "normal": 15,
+      "fairy": 4,
+      "normal": 17,
       "flying": 8,
       "ground": 3,
-      "grass": 6,
+      "grass": 10,
       "fighting": 3,
       "psychic": 1,
       "electric": 1
@@ -814,18 +857,23 @@
       "cobblemon:miltank": 1,
       "cobblemon:lilligant": 1,
       "cobblemon:snorunt": 1,
-      "cobblemon:krabby": 1,
+      "cobblemon:krabby": 2,
       "cobblemon:petilil": 2,
-      "cobblemon:tauros": 3,
+      "cobblemon:tauros": 4,
       "cobblemon:cutiefly": 1,
       "cobblemon:kingler": 4,
       "cobblemon:butterfree": 1,
-      "cobblemon:crabrawler": 2,
+      "cobblemon:crabrawler": 3,
       "cobblemon:yanma": 1,
       "cobblemon:araquanid": 1,
       "cobblemon:wingull": 1,
       "cobblemon:ponyta": 1,
-      "cobblemon:farfetchd": 1
+      "cobblemon:farfetchd": 1,
+      "cobblemon:wimpod": 1,
+      "cobblemon:caterpie": 1,
+      "cobblemon:mareep": 1,
+      "cobblemon:jigglypuff": 1,
+      "cobblemon:orbeetle": 1
     },
     "aspectsCollected": {}
   }

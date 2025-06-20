@@ -3293,3 +3293,18 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 11:44:49.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Voluntary Exile]
 [20Jun2025 11:45:50.984] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c6f4ee04-ec7c-486a-a74c-52ad46ffc044
 [20Jun2025 11:45:50.984] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c6f4ee04-ec7c-486a-a74c-52ad46ffc044
+[20Jun2025 11:51:38.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 11:51:39.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 11:51:39.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 11:51:39.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 11:51:40.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 11:51:41.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 11:51:41.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 11:51:41.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 11:51:42.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 11:51:43.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 11:51:43.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> z
+[20Jun2025 11:54:48.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Goat Man
+[20Jun2025 11:54:48.448] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 11:56:39.241] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 094a102e-6986-4d97-81b7-fb15b7c4af95
+[20Jun2025 11:56:39.241] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 094a102e-6986-4d97-81b7-fb15b7c4af95
