@@ -1242,74 +1242,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 10:34:32 +0000"
+      "log_spam_fixer": "2025-06-20 10:44:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-20 10:34:38 +0000",
-      "log_spam_fixer": "2025-06-20 10:34:32 +0000"
+      "requirement": "2025-06-20 10:44:32 +0000",
+      "log_spam_fixer": "2025-06-20 10:44:32 +0000"
     },
     "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 10:34:32 +0000"
+      "log_spam_fixer": "2025-06-20 10:44:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 10:34:32 +0000"
+      "log_spam_fixer": "2025-06-20 10:44:32 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 10:34:32 +0000"
+      "log_spam_fixer": "2025-06-20 10:44:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 10:34:32 +0000"
+      "log_spam_fixer": "2025-06-20 10:44:32 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 10:34:32 +0000"
+      "log_spam_fixer": "2025-06-20 10:44:32 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 10:34:32 +0000"
+      "log_spam_fixer": "2025-06-20 10:44:32 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 10:34:32 +0000"
+      "log_spam_fixer": "2025-06-20 10:44:32 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 10:34:32 +0000"
+      "log_spam_fixer": "2025-06-20 10:44:32 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 10:34:32 +0000"
+      "log_spam_fixer": "2025-06-20 10:44:32 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 10:34:32 +0000"
+      "log_spam_fixer": "2025-06-20 10:44:32 +0000"
     },
     "done": false
   },
@@ -1319,17 +1319,35 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-06-20 10:39:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-06-20 10:39:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-06-20 10:39:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-06-20 10:37:39 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/magic_siphoner": {
     "criteria": {
       "coded_trigger": "2025-06-20 09:03:34 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-06-20 10:34:40 +0000"
-    },
-    "done": false
   },
   "cobblemon:catch_all_vivillon": {
     "criteria": {
@@ -1340,6 +1358,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-20 09:02:37 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/ink": {
+    "criteria": {
+      "has_ink": "2025-06-20 10:43:40 +0000"
     },
     "done": true
   },
@@ -1366,6 +1390,12 @@
       "modern": "2025-06-20 09:37:42 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-06-20 10:38:43 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

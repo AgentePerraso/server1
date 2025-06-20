@@ -3108,3 +3108,44 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 10:34:11.516] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [20Jun2025 10:34:52.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has completed the challenge [Unusual Park]
 [20Jun2025 10:35:05.229] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Avión'/202428, l='ServerLevel[world]', x=-1828.83, y=8.00, z=300.48] died: Avión was blown up by Creeper
+[20Jun2025 10:37:52.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
+[20Jun2025 10:37:52.208] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 10:38:06.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [The Most Useful Key]
+[20Jun2025 10:38:12.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [A Fast Comeback]
+[20Jun2025 10:38:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.61530113220215) to LOW (avg. 20.44321632385254)
+[20Jun2025 10:38:43.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Race Against The Clock]
+[20Jun2025 10:38:47.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was killed by magic
+[20Jun2025 10:38:47.907] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 10:38:50.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.44321632385254) to VERY_LOW (avg. 16.177183151245117)
+[20Jun2025 10:39:14.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Quickly Applied]
+[20Jun2025 10:39:18.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [The Power of the Abyss in the Palm of My Hand...]
+[20Jun2025 10:39:23.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Ender Distancing]
+[20Jun2025 10:39:27.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Capsid-19]
+[20Jun2025 10:39:44.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was shot by Skeleton
+[20Jun2025 10:39:44.310] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 10:40:13.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.793413162231445) to LOW (avg. 23.237699508666992)
+[20Jun2025 10:40:35.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.91771125793457) to VERY_LOW (avg. 16.405385971069336)
+[20Jun2025 10:40:58.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.753311157226562) to LOW (avg. 22.31497573852539)
+[20Jun2025 10:41:05.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.31497573852539) to VERY_LOW (avg. 19.84513282775879)
+[20Jun2025 10:41:20.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.84513282775879) to LOW (avg. 22.61521339416504)
+[20Jun2025 10:41:50.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.645729064941406) to VERY_LOW (avg. 18.969554901123047)
+[20Jun2025 10:42:05.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.969554901123047) to LOW (avg. 22.912399291992188)
+[20Jun2025 10:42:15.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [Fortuitous Militia]
+[20Jun2025 10:42:29.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Creeper
+[20Jun2025 10:42:29.266] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 10:42:46.365] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/207955, l='ServerLevel[world]', x=-1734.56, y=-8.00, z=534.25, removed=DISCARDED]
+[20Jun2025 10:42:48.534] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/210946, l='ServerLevel[world]', x=-1828.08, y=-31.00, z=212.52] died: Paco Pepe burned to death
+[20Jun2025 10:43:12.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote drowned
+[20Jun2025 10:43:12.406] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 10:43:18.289] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/207955, l='ServerLevel[world]', x=-1734.56, y=-8.00, z=534.25, removed=DISCARDED]
+[20Jun2025 10:43:31.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved wrongly!
+[20Jun2025 10:43:33.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved wrongly!
+[20Jun2025 10:43:45.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
+[20Jun2025 10:43:45.963] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 10:45:21.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
+[20Jun2025 10:45:21.083] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[20Jun2025 10:45:22.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Zombie
+[20Jun2025 10:45:22.912] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[20Jun2025 10:45:28.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.065645217895508) to VERY_LOW (avg. 13.183235168457031)
+[20Jun2025 10:45:43.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.183235168457031) to LOW (avg. 24.42770767211914)
+[20Jun2025 10:45:51.714] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/207955, l='ServerLevel[world]', x=-1734.56, y=-8.00, z=534.25, removed=DISCARDED]
