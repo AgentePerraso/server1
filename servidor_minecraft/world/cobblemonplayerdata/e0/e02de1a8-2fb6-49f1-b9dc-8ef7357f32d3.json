@@ -208,6 +208,12 @@
             "status": "CAUGHT",
             "discoveredTimestamp": 1750407572087,
             "caughtTimestamp": 1750412715640
+          },
+          "paldeaaqua": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750414583286,
+            "caughtTimestamp": 1750414583286
           }
         },
         "ponyta": {
@@ -612,6 +618,14 @@
             "discoveredTimestamp": 1750414420844,
             "caughtTimestamp": 1750414420844
           }
+        },
+        "farfetchd": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750414946639,
+            "caughtTimestamp": 1750414946639
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -627,12 +641,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 42,
+    "totalCaptureCount": 44,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 19,
-    "totalBattleVictoryCount": 67,
+    "totalBattleVictoryCount": 69,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 67,
+    "totalPvWBattleVictoryCount": 69,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
@@ -640,16 +654,16 @@
       "rock": 2,
       "bug": 8,
       "poison": 4,
-      "water": 9,
+      "water": 10,
       "ghost": 2,
       "fire": 1,
       "ice": 1,
       "fairy": 2,
-      "normal": 13,
-      "flying": 5,
+      "normal": 14,
+      "flying": 6,
       "ground": 1,
       "grass": 5,
-      "fighting": 2,
+      "fighting": 3,
       "psychic": 1,
       "electric": 1
     },
