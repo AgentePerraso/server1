@@ -223,8 +223,9 @@
     "lickitung": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749996665728
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749996665728,
+        "caughtTimestamp": 1750421116185
       }
     },
     "bouffalant": {
@@ -1173,6 +1174,22 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750420533042,
         "caughtTimestamp": 1750420533042
+      }
+    },
+    "jellicent": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750420686557,
+        "caughtTimestamp": 1750420686557
+      }
+    },
+    "ralts": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750420980687,
+        "caughtTimestamp": 1750420980687
       }
     }
   }

@@ -3308,3 +3308,20 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Jun2025 11:54:48.448] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [20Jun2025 11:56:39.241] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 094a102e-6986-4d97-81b7-fb15b7c4af95
 [20Jun2025 11:56:39.241] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 094a102e-6986-4d97-81b7-fb15b7c4af95
+[20Jun2025 11:57:15.289] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 8cc5cf30-f217-44ed-a2af-12b8dfe69e61
+[20Jun2025 11:57:15.289] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 8cc5cf30-f217-44ed-a2af-12b8dfe69e61
+[20Jun2025 12:00:17.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[20Jun2025 12:00:17.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
+[20Jun2025 12:00:43.185] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 9e18f531-22d6-4cb6-97c4-ae561efe448a
+[20Jun2025 12:00:43.185] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 9e18f531-22d6-4cb6-97c4-ae561efe448a
+[20Jun2025 12:02:50.546] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[20Jun2025 12:02:52.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:37713] logged in with entity id 336025 at (-1895.2099837373457, 69.0, 213.47915562570128)
+[20Jun2025 12:02:52.968] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[20Jun2025 12:02:52.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[20Jun2025 12:06:33.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4367ms or 87 ticks behind
+[20Jun2025 12:06:37.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Hot Stuff]
+[20Jun2025 12:06:40.321] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.81810760498047) to LOW (avg. 31.769733428955078)
+[20Jun2025 12:06:41.571] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 4.23996682) to LOW (avg. 20.67285859)
+[20Jun2025 12:06:55.321] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.769733428955078) to VERY_LOW (avg. 17.825511932373047)
+[20Jun2025 12:07:00.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Disconnected
+[20Jun2025 12:07:00.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
